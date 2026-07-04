@@ -37,7 +37,23 @@ To address the objectives of this project, I made a list of bussiness questions 
 
 1. What is the total number of customers and loans in the portfolio?
 2. What is the total and average loan amount issued by the bank?
-3. 
+3. What is the average loan amount by occupation?
+4. How much interest revenue is generated per loan type?
+6. What is the loan disbursement trend over time?
+7. What is the total outstanding loan balance per customer?
+8. Which loans are non-performing
+9. Which customers have both a loan and a savings account?
+10. What is the total loan amount disbursed vs total repaid?
+11. Which regions have the highest loan defaults?
+12. Which customers took loans but never made a repayment?
+13. How does transaction volume compare to loan repayment trend monthly?
+14. What is the total number of customers, accounts, loans and transactions?
+15. How do total bank expenses compare to total transaction revenue?
+16. What is the overall NPL ratio?
+17. Which occupation has the highest loan deafault rate
+18. How does the average repayment period compare to loan term?
+19. What is the on-time vs late vs missed repayment rate?
+20. What is the collateral type distribution across loans?
 
 
 # Key Findings

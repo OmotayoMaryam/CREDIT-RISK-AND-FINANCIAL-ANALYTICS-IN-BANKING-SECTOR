@@ -33,7 +33,7 @@ Expenses table; It contains 9 columns and 400 rows. It contains records of organ
 Prior to Analysis, the data sets were cleaned and validated. This included removing duplicate records,confirming the absence of null values and verifying each column was assigned to appropriate data type. 
 
 # BUSINESS QUESTIONS
-To address the objectives of this project, I made a list of bussiness questions and wrote a corresponding SQL Queries to answer thrm. These questies were designed to analyse customer profiles, loan performance, repayment behaviour and expense trends, tranforming raw banking data into actionable insights that support informed lending decisions and effective credit risk management. The under listed business questions guided the analysis:
+To address the objectives of this project, I made a list of bussiness questions and wrote a corresponding SQL Queries to answer them. These questions were designed to analyse customer profiles, loan performance, repayment behaviour and expense trends, tranforming raw banking data into actionable insights that support informed lending decisions and effective credit risk management. The under listed business questions guided the analysis:
 
 1. What is the total number of customers and loans in the portfolio?
 2. What is the total and average loan amount issued by the bank?

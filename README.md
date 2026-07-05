@@ -55,17 +55,31 @@ To address the objectives of this project, I made a list of bussiness questions 
 19. What is the on-time vs late vs missed repayment rate?
 20. What is the collateral type distribution across loans?
 
-
 # Key Findings
-
-
-
+1. Self-employed,Unemployed and students customers default most
+2. Over-Leveraged customers showing default payment
+3. Budget inconsistencies across departments
+4. Regional default concentration
+5. Maturing Loans with high outstanding balances
+6. unsecured loans have lowest recovery rates
 
 # Recommendations
-
-
+Based on the analysis conducted across the 6 tables covering customers,loans,repayments, transactions,expenses and departments, the following recommendations are made to improve credit risk management,loan recovery and overall financial performance:
+1. Strengthen Credit Risk Assessment Before Loan Disbursement
+The analysis revealed that certain occupations record significantly higher loan deafault rates than others. It is recommended that the bank introduces stricter credit scoring criteria for high-risk occupations and requires additional collateral or guarantors before approving loans for customers in those categories.
+2. Monitor Customers with Multiple Active Loans
+These Customers represents a higher credit exposure risk. The bank should cap the number of concurrent active loans per customer and conduct regular finacial health checks on these customers to ensure they are not over-leveraged.
+3. Optimise Expense Management by Department
+The budget utilization and expense growth analysis reveals that some departments consistently overspend while others underutilise their budgets. The bank should impleemt quaterly budget reviews, enforce spending limits and reallocate budgets from underutilising departments to those with critical operational needs.
+4. Address Regional Loan Default Concentration
+Certain regions record disproportionately high loan default rates. The bank should investigate investigate the socioeconomic factors driving defaults in these regions and consider region-specific loan products, repayment schedules or financial literacy programmes to reduce default rates.
+5. Improve Loan Maturity Monitoring
+Several loans are approaching maturity with significant outstanding balances. The bank should set up an automated early warning system that alerts managers days before loan maturity so they can engage customers and arrange repayment or restructuring before the loan becomes overdue.
+6. Leverage Collateral to Improve Loan Recovery
+The collateral distribution analysis shows that a significant number of loans are unsecured. The bank should enforce a stricter collateral policy especially for high-value loans and prioritise recovery efforts on unsecured non-performing loans before they become unrecoverable.
 
 # Conclusion
+This project demonstrates that data analytics plays a critical role in modern banking operations. By leveraging SQL to Query and analyse large volumes of financial data, banks can move from reactive to proactive risk managemnet, identify revenue opportunities,optimise operational efficiency and make more informed lending decisions.The insights generated from this analysis provide a strong foundation for data-driven decision making that can significantly improve the bank's credit risk posture and overall financial performance.
 
 
 

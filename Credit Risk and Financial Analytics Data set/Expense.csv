@@ -1,0 +1,401 @@
+ExpenseID,ExpenseDate,Category,Amount,Department,ApprovedBy,PaymentMode,Description,BudgetCode
+EXP00001,2022-11-04,Loan Write-offs,3172378.89,Risk,MGR01,Cheque,Expense for Customer Service,BDG378
+EXP00002,2024-01-08,Utilities,1927144.44,Operations,MGR02,Bank Transfer,Expense for Legal & Compliance,BDG531
+EXP00003,2023-07-25,Marketing,2410797.66,IT,MGR04,Bank Transfer,Expense for Marketing,BDG997
+EXP00004,2022-01-25,Office Rent,3876720.73,IT,MGR04,Cash,Expense for Insurance,BDG911
+EXP00005,2024-09-20,Legal & Compliance,2682014.42,Risk,MGR01,Cash,Expense for Security,BDG597
+EXP00006,2024-09-20,Customer Service,2430971.65,Risk,MGR03,Cheque,Expense for Customer Service,BDG923
+EXP00007,2023-11-25,Staff Salaries,4189131.32,Operations,MGR03,Cheque,Expense for Marketing,BDG496
+EXP00008,2022-05-18,Staff Salaries,211188.72,Risk,MGR01,Cash,Expense for Staff Salaries,BDG517
+EXP00009,2022-10-04,Utilities,4392750.23,Finance,MGR05,Cash,Expense for Training & Development,BDG235
+EXP00010,2024-08-28,IT Infrastructure,2802694.41,Finance,MGR03,Bank Transfer,Expense for Training & Development,BDG993
+EXP00011,2022-12-20,Marketing,539151.5,Finance,MGR04,Cash,Expense for Security,BDG517
+EXP00012,2024-04-27,Training & Development,4515661.93,IT,MGR02,Cheque,Expense for Loan Write-offs,BDG284
+EXP00013,2023-12-10,IT Infrastructure,918485.28,Finance,MGR02,Bank Transfer,Expense for Insurance,BDG354
+EXP00014,2023-01-03,Security,1441111.89,Finance,MGR01,Bank Transfer,Expense for Legal & Compliance,BDG434
+EXP00015,2023-08-22,Marketing,84472.52,Finance,MGR04,Cheque,Expense for Insurance,BDG819
+EXP00016,2023-07-08,Security,3616746.16,Finance,MGR03,Cash,Expense for Loan Write-offs,BDG877
+EXP00017,2022-12-26,Miscellaneous,2749714.47,Operations,MGR01,Cheque,Expense for Utilities,BDG690
+EXP00018,2022-04-25,Legal & Compliance,3924046.86,Finance,MGR01,Cash,Expense for Marketing,BDG484
+EXP00019,2023-01-27,IT Infrastructure,2332955.21,Finance,MGR02,Bank Transfer,Expense for Miscellaneous,BDG102
+EXP00020,2022-02-07,Security,4851700.19,IT,MGR05,Bank Transfer,Expense for Insurance,BDG472
+EXP00021,2022-05-15,IT Infrastructure,167074.34,Operations,MGR01,Cash,Expense for Miscellaneous,BDG337
+EXP00022,2022-04-19,Insurance,856885.02,Operations,MGR01,Cash,Expense for Marketing,BDG113
+EXP00023,2022-04-19,Loan Write-offs,1291896.88,Finance,MGR01,Cheque,Expense for Utilities,BDG241
+EXP00024,2023-08-12,IT Infrastructure,4341951.6,Marketing,MGR05,Cheque,Expense for Staff Salaries,BDG867
+EXP00025,2023-11-15,Insurance,978831.73,IT,MGR02,Bank Transfer,Expense for Legal & Compliance,BDG493
+EXP00026,2022-04-24,Marketing,3842481.5,Compliance,MGR02,Cash,Expense for Training & Development,BDG175
+EXP00027,2022-11-24,Insurance,1074303.52,Marketing,MGR03,Bank Transfer,Expense for Miscellaneous,BDG857
+EXP00028,2024-09-05,Legal & Compliance,1982354.23,IT,MGR02,Cheque,Expense for Insurance,BDG647
+EXP00029,2024-08-10,Legal & Compliance,939252.48,IT,MGR05,Cheque,Expense for Marketing,BDG408
+EXP00030,2023-07-04,Training & Development,4851686.59,Marketing,MGR05,Cheque,Expense for Staff Salaries,BDG116
+EXP00031,2023-08-19,Staff Salaries,616492.96,Operations,MGR02,Cash,Expense for Security,BDG232
+EXP00032,2024-08-02,Utilities,2929550.16,Operations,MGR02,Cheque,Expense for Marketing,BDG482
+EXP00033,2024-05-11,Insurance,3948816.66,Risk,MGR02,Bank Transfer,Expense for Office Rent,BDG597
+EXP00034,2022-04-04,Loan Write-offs,1928414.35,Compliance,MGR03,Bank Transfer,Expense for Legal & Compliance,BDG932
+EXP00035,2022-06-24,IT Infrastructure,3347759.45,Finance,MGR04,Cheque,Expense for Office Rent,BDG668
+EXP00036,2024-04-04,Staff Salaries,1918309.15,IT,MGR01,Bank Transfer,Expense for Staff Salaries,BDG559
+EXP00037,2023-03-17,Staff Salaries,1768533.76,IT,MGR01,Cheque,Expense for Training & Development,BDG106
+EXP00038,2023-07-08,Customer Service,2284905.65,IT,MGR05,Cheque,Expense for Customer Service,BDG321
+EXP00039,2024-06-20,Training & Development,1998069.83,Marketing,MGR02,Cheque,Expense for Loan Write-offs,BDG497
+EXP00040,2023-02-19,Marketing,2366077.42,Compliance,MGR04,Bank Transfer,Expense for Loan Write-offs,BDG629
+EXP00041,2024-02-15,Office Rent,1950778.39,Compliance,MGR01,Cash,Expense for Training & Development,BDG510
+EXP00042,2023-12-21,Staff Salaries,2217995.22,Operations,MGR01,Cheque,Expense for IT Infrastructure,BDG149
+EXP00043,2022-10-20,Utilities,3416369.05,Finance,MGR04,Cheque,Expense for Training & Development,BDG438
+EXP00044,2024-01-21,Loan Write-offs,340803.17,Marketing,MGR01,Bank Transfer,Expense for Utilities,BDG932
+EXP00045,2023-09-14,Loan Write-offs,3102521.3,HR,MGR05,Cash,Expense for Security,BDG153
+EXP00046,2024-04-01,Staff Salaries,600786.9,Risk,MGR02,Cash,Expense for Training & Development,BDG502
+EXP00047,2023-07-03,Staff Salaries,2894540.29,Risk,MGR04,Cheque,Expense for Loan Write-offs,BDG342
+EXP00048,2024-06-25,IT Infrastructure,4912888.3,Marketing,MGR04,Bank Transfer,Expense for Marketing,BDG142
+EXP00049,2023-02-28,Marketing,4658274.48,Risk,MGR01,Cash,Expense for Training & Development,BDG505
+EXP00050,2022-09-19,Security,3487937.48,Marketing,MGR03,Cheque,Expense for Security,BDG505
+EXP00051,2023-05-06,Office Rent,4698619.19,Risk,MGR04,Cash,Expense for Staff Salaries,BDG344
+EXP00052,2023-07-24,Security,4717176.32,IT,MGR03,Cheque,Expense for Insurance,BDG544
+EXP00053,2023-03-15,Marketing,456319.01,Compliance,MGR04,Cash,Expense for Legal & Compliance,BDG949
+EXP00054,2024-03-21,Customer Service,284044.37,Marketing,MGR01,Cheque,Expense for Loan Write-offs,BDG108
+EXP00055,2024-06-18,IT Infrastructure,586045.98,Finance,MGR04,Bank Transfer,Expense for Security,BDG479
+EXP00056,2024-07-19,Staff Salaries,2038795.72,Risk,MGR01,Cheque,Expense for Marketing,BDG145
+EXP00057,2023-06-11,IT Infrastructure,1497977.04,Finance,MGR04,Bank Transfer,Expense for Staff Salaries,BDG232
+EXP00058,2023-11-22,Miscellaneous,734506.18,Marketing,MGR04,Cash,Expense for IT Infrastructure,BDG848
+EXP00059,2023-03-08,Miscellaneous,372771.15,Marketing,MGR02,Cheque,Expense for Customer Service,BDG643
+EXP00060,2022-05-10,Marketing,2406910.19,Finance,MGR04,Cheque,Expense for Insurance,BDG756
+EXP00061,2022-08-08,Office Rent,58134.47,Finance,MGR03,Cheque,Expense for Legal & Compliance,BDG189
+EXP00062,2023-04-20,Marketing,996148.48,Finance,MGR02,Bank Transfer,Expense for Office Rent,BDG762
+EXP00063,2023-01-24,Training & Development,241639.11,IT,MGR05,Bank Transfer,Expense for Insurance,BDG748
+EXP00064,2022-03-02,Miscellaneous,4705674.65,Marketing,MGR03,Cash,Expense for Staff Salaries,BDG539
+EXP00065,2024-07-18,Insurance,4068716.94,Finance,MGR01,Cheque,Expense for Customer Service,BDG372
+EXP00066,2022-01-10,Loan Write-offs,2618181.89,HR,MGR01,Cash,Expense for Training & Development,BDG957
+EXP00067,2023-05-28,IT Infrastructure,1297557.97,Finance,MGR05,Cheque,Expense for Loan Write-offs,BDG108
+EXP00068,2023-06-23,Legal & Compliance,3911031.59,Risk,MGR03,Cheque,Expense for Loan Write-offs,BDG738
+EXP00069,2022-10-03,IT Infrastructure,1417525.82,HR,MGR02,Cheque,Expense for IT Infrastructure,BDG658
+EXP00070,2022-11-16,Marketing,1067287.72,Finance,MGR04,Bank Transfer,Expense for Security,BDG701
+EXP00071,2023-04-13,Staff Salaries,3742807.43,Operations,MGR02,Cheque,Expense for Loan Write-offs,BDG223
+EXP00072,2022-09-23,Insurance,571406.09,Marketing,MGR02,Cheque,Expense for Training & Development,BDG111
+EXP00073,2022-01-25,Utilities,2695586.01,Risk,MGR03,Bank Transfer,Expense for Legal & Compliance,BDG980
+EXP00074,2023-06-08,Security,1118435.64,Operations,MGR04,Cash,Expense for Customer Service,BDG321
+EXP00075,2024-02-07,Miscellaneous,693398.21,IT,MGR01,Bank Transfer,Expense for Marketing,BDG700
+EXP00076,2022-08-25,Legal & Compliance,2713728.25,Risk,MGR04,Bank Transfer,Expense for Insurance,BDG144
+EXP00077,2023-03-25,Staff Salaries,1471246.32,Compliance,MGR04,Cash,Expense for Miscellaneous,BDG706
+EXP00078,2024-04-20,Customer Service,339132.48,Compliance,MGR02,Bank Transfer,Expense for Insurance,BDG221
+EXP00079,2023-11-05,Miscellaneous,127689.59,Risk,MGR02,Bank Transfer,Expense for Utilities,BDG268
+EXP00080,2023-07-25,Loan Write-offs,1514124.59,Compliance,MGR01,Cash,Expense for Staff Salaries,BDG160
+EXP00081,2024-09-26,Loan Write-offs,544613.26,Finance,MGR02,Bank Transfer,Expense for Utilities,BDG924
+EXP00082,2022-04-01,Legal & Compliance,2131181.05,Operations,MGR02,Cheque,Expense for Office Rent,BDG858
+EXP00083,2024-09-27,Office Rent,4048750.88,Finance,MGR04,Bank Transfer,Expense for Utilities,BDG342
+EXP00084,2023-08-02,Miscellaneous,382225.35,Marketing,MGR01,Cash,Expense for Customer Service,BDG754
+EXP00085,2022-04-23,Utilities,87196.68,Marketing,MGR01,Cheque,Expense for Utilities,BDG129
+EXP00086,2023-08-09,Utilities,4292176.75,IT,MGR05,Cash,Expense for IT Infrastructure,BDG246
+EXP00087,2022-02-03,Loan Write-offs,243785.09,Marketing,MGR03,Bank Transfer,Expense for Miscellaneous,BDG473
+EXP00088,2023-05-18,Miscellaneous,513660.67,IT,MGR03,Cash,Expense for Marketing,BDG238
+EXP00089,2022-10-26,Staff Salaries,4558843.89,Operations,MGR01,Bank Transfer,Expense for Legal & Compliance,BDG123
+EXP00090,2023-09-27,Utilities,1891514.38,Finance,MGR04,Bank Transfer,Expense for Office Rent,BDG722
+EXP00091,2024-05-16,Insurance,3601278.82,Risk,MGR03,Bank Transfer,Expense for IT Infrastructure,BDG368
+EXP00092,2023-08-04,Marketing,3820616.84,Operations,MGR02,Cheque,Expense for Insurance,BDG447
+EXP00093,2022-05-14,Marketing,3574391.7,HR,MGR02,Cheque,Expense for Office Rent,BDG261
+EXP00094,2022-03-29,Customer Service,4945917.16,Marketing,MGR01,Cheque,Expense for Customer Service,BDG805
+EXP00095,2023-03-24,Loan Write-offs,3494446.58,IT,MGR04,Bank Transfer,Expense for Insurance,BDG304
+EXP00096,2022-11-04,Office Rent,2027356.59,Marketing,MGR03,Cheque,Expense for Training & Development,BDG885
+EXP00097,2022-02-14,Insurance,3972997.72,Risk,MGR03,Cheque,Expense for Legal & Compliance,BDG571
+EXP00098,2022-02-21,Utilities,1163131.1,HR,MGR03,Bank Transfer,Expense for Loan Write-offs,BDG875
+EXP00099,2023-02-18,Loan Write-offs,4340002.44,IT,MGR01,Cash,Expense for IT Infrastructure,BDG479
+EXP00100,2023-08-08,Staff Salaries,3076177.81,Marketing,MGR02,Bank Transfer,Expense for Staff Salaries,BDG682
+EXP00101,2024-01-25,IT Infrastructure,1656674.27,Risk,MGR04,Cash,Expense for Staff Salaries,BDG578
+EXP00102,2024-01-14,Training & Development,1556192.38,Risk,MGR02,Bank Transfer,Expense for Customer Service,BDG812
+EXP00103,2024-02-22,IT Infrastructure,462668.96,Risk,MGR04,Cheque,Expense for Customer Service,BDG711
+EXP00104,2023-06-26,Legal & Compliance,25669.93,Finance,MGR04,Bank Transfer,Expense for Customer Service,BDG475
+EXP00105,2024-08-13,Office Rent,95209.16,Operations,MGR04,Cheque,Expense for Office Rent,BDG336
+EXP00106,2024-04-23,Staff Salaries,601272.81,Operations,MGR05,Cash,Expense for Insurance,BDG978
+EXP00107,2024-02-26,Legal & Compliance,3807659.74,Finance,MGR03,Cheque,Expense for Marketing,BDG214
+EXP00108,2024-07-04,Customer Service,4561299.02,Finance,MGR04,Bank Transfer,Expense for IT Infrastructure,BDG688
+EXP00109,2024-08-23,Miscellaneous,2108849.47,HR,MGR04,Cheque,Expense for Customer Service,BDG764
+EXP00110,2024-09-24,Miscellaneous,3845849.97,HR,MGR01,Cash,Expense for Legal & Compliance,BDG944
+EXP00111,2022-07-26,Insurance,785785.79,Finance,MGR04,Cash,Expense for Staff Salaries,BDG291
+EXP00112,2023-02-07,Office Rent,2532766.08,Operations,MGR02,Cheque,Expense for Office Rent,BDG501
+EXP00113,2023-09-15,Miscellaneous,4043840.2,HR,MGR03,Cash,Expense for Loan Write-offs,BDG142
+EXP00114,2024-09-12,Utilities,3938317.61,HR,MGR05,Bank Transfer,Expense for IT Infrastructure,BDG150
+EXP00115,2024-01-18,Customer Service,4279058.42,IT,MGR03,Cheque,Expense for Training & Development,BDG738
+EXP00116,2023-10-03,Marketing,620174.62,Risk,MGR02,Bank Transfer,Expense for Insurance,BDG833
+EXP00117,2022-05-11,Utilities,2367568.69,IT,MGR05,Cash,Expense for Marketing,BDG646
+EXP00118,2024-05-03,Office Rent,2763529.55,IT,MGR01,Bank Transfer,Expense for Staff Salaries,BDG540
+EXP00119,2022-07-22,Legal & Compliance,1611548.57,Finance,MGR03,Cheque,Expense for Marketing,BDG144
+EXP00120,2024-03-15,Security,3826942.67,Operations,MGR04,Cheque,Expense for Miscellaneous,BDG236
+EXP00121,2022-11-30,Loan Write-offs,4322494.58,Operations,MGR01,Cheque,Expense for Legal & Compliance,BDG983
+EXP00122,2024-09-30,IT Infrastructure,692710.53,HR,MGR04,Cheque,Expense for Training & Development,BDG574
+EXP00123,2022-08-24,Customer Service,3854437.78,Finance,MGR03,Cash,Expense for Miscellaneous,BDG457
+EXP00124,2022-10-13,Loan Write-offs,4530105.86,Risk,MGR03,Cheque,Expense for Training & Development,BDG934
+EXP00125,2023-07-08,Security,4538960.79,Marketing,MGR01,Bank Transfer,Expense for Training & Development,BDG604
+EXP00126,2022-10-03,Marketing,1654283.83,Marketing,MGR05,Cheque,Expense for Miscellaneous,BDG402
+EXP00127,2023-06-07,Marketing,501417.96,IT,MGR05,Cheque,Expense for IT Infrastructure,BDG777
+EXP00128,2023-03-24,Legal & Compliance,1178709.0,Compliance,MGR04,Cash,Expense for Training & Development,BDG429
+EXP00129,2022-10-04,IT Infrastructure,1866858.9,Operations,MGR01,Cheque,Expense for Office Rent,BDG363
+EXP00130,2023-04-05,Miscellaneous,2818308.28,Risk,MGR01,Cash,Expense for Security,BDG930
+EXP00131,2024-08-25,Insurance,2538381.37,Finance,MGR04,Bank Transfer,Expense for Customer Service,BDG379
+EXP00132,2024-08-31,Marketing,1713417.14,HR,MGR05,Bank Transfer,Expense for Office Rent,BDG745
+EXP00133,2022-02-10,Customer Service,1305390.69,IT,MGR05,Cash,Expense for Office Rent,BDG704
+EXP00134,2023-06-01,Insurance,1888138.93,Risk,MGR05,Cheque,Expense for Customer Service,BDG240
+EXP00135,2022-06-11,Marketing,4695052.47,Marketing,MGR02,Bank Transfer,Expense for Staff Salaries,BDG144
+EXP00136,2022-05-01,Loan Write-offs,237616.1,Operations,MGR02,Cash,Expense for Office Rent,BDG426
+EXP00137,2022-08-18,Customer Service,3360518.52,Risk,MGR03,Cheque,Expense for Utilities,BDG392
+EXP00138,2023-08-11,Staff Salaries,2996804.03,Finance,MGR02,Cheque,Expense for Miscellaneous,BDG865
+EXP00139,2024-09-15,Security,812273.01,Finance,MGR01,Bank Transfer,Expense for Marketing,BDG670
+EXP00140,2023-06-25,Loan Write-offs,3674416.46,HR,MGR02,Cheque,Expense for Utilities,BDG719
+EXP00141,2023-02-25,Loan Write-offs,104115.3,HR,MGR03,Cheque,Expense for Utilities,BDG388
+EXP00142,2022-11-23,Miscellaneous,1485222.66,Operations,MGR05,Cash,Expense for Utilities,BDG810
+EXP00143,2022-10-08,Loan Write-offs,1470666.71,Compliance,MGR02,Bank Transfer,Expense for Customer Service,BDG392
+EXP00144,2023-03-19,Legal & Compliance,3794308.14,Finance,MGR04,Bank Transfer,Expense for Utilities,BDG437
+EXP00145,2022-07-11,Miscellaneous,4214453.41,Operations,MGR03,Cash,Expense for Security,BDG330
+EXP00146,2022-06-01,Loan Write-offs,1855360.48,HR,MGR03,Cash,Expense for Training & Development,BDG626
+EXP00147,2024-01-02,Marketing,1408116.17,IT,MGR03,Cash,Expense for Staff Salaries,BDG192
+EXP00148,2024-05-26,Marketing,3868088.92,Finance,MGR01,Bank Transfer,Expense for Utilities,BDG227
+EXP00149,2022-01-10,Utilities,2348133.45,Compliance,MGR04,Bank Transfer,Expense for Customer Service,BDG670
+EXP00150,2022-06-22,IT Infrastructure,193025.54,HR,MGR02,Cheque,Expense for Loan Write-offs,BDG116
+EXP00151,2022-03-09,Training & Development,332642.7,Finance,MGR02,Bank Transfer,Expense for Staff Salaries,BDG745
+EXP00152,2022-06-20,Customer Service,517710.65,HR,MGR03,Cheque,Expense for Customer Service,BDG674
+EXP00153,2022-07-24,Loan Write-offs,2308855.89,Marketing,MGR03,Bank Transfer,Expense for Miscellaneous,BDG223
+EXP00154,2024-02-01,Security,315119.2,IT,MGR04,Bank Transfer,Expense for Security,BDG835
+EXP00155,2024-01-15,Customer Service,2505200.85,HR,MGR03,Bank Transfer,Expense for Loan Write-offs,BDG661
+EXP00156,2023-05-19,Security,621290.19,IT,MGR02,Cheque,Expense for Marketing,BDG709
+EXP00157,2023-12-04,Utilities,1927527.65,Finance,MGR05,Bank Transfer,Expense for Office Rent,BDG498
+EXP00158,2024-08-19,Training & Development,1325236.47,Compliance,MGR04,Cash,Expense for Legal & Compliance,BDG456
+EXP00159,2024-01-31,Utilities,3265170.16,Marketing,MGR05,Bank Transfer,Expense for IT Infrastructure,BDG744
+EXP00160,2022-06-01,Customer Service,2662477.61,Risk,MGR03,Cheque,Expense for Staff Salaries,BDG458
+EXP00161,2024-06-06,Customer Service,3209674.53,Compliance,MGR04,Bank Transfer,Expense for Miscellaneous,BDG642
+EXP00162,2022-01-15,IT Infrastructure,1157101.91,HR,MGR05,Cash,Expense for Customer Service,BDG316
+EXP00163,2023-01-03,Insurance,3326251.56,IT,MGR01,Bank Transfer,Expense for Loan Write-offs,BDG390
+EXP00164,2024-07-13,Marketing,315395.15,HR,MGR02,Cheque,Expense for Legal & Compliance,BDG959
+EXP00165,2022-12-03,Training & Development,497536.1,Operations,MGR03,Cash,Expense for IT Infrastructure,BDG965
+EXP00166,2022-01-02,Staff Salaries,1597070.35,Finance,MGR03,Cash,Expense for Training & Development,BDG389
+EXP00167,2024-06-18,Insurance,4893713.66,Compliance,MGR05,Cash,Expense for IT Infrastructure,BDG880
+EXP00168,2022-08-02,Office Rent,2655080.64,Operations,MGR03,Bank Transfer,Expense for Customer Service,BDG438
+EXP00169,2024-02-19,Legal & Compliance,3883820.28,Risk,MGR02,Cash,Expense for Insurance,BDG507
+EXP00170,2022-08-12,Staff Salaries,4444449.7,HR,MGR04,Cheque,Expense for Staff Salaries,BDG515
+EXP00171,2022-01-03,Staff Salaries,1489569.18,Operations,MGR02,Cash,Expense for Miscellaneous,BDG260
+EXP00172,2022-03-04,Loan Write-offs,373750.9,HR,MGR04,Cheque,Expense for Security,BDG987
+EXP00173,2022-01-22,IT Infrastructure,1515553.41,Marketing,MGR05,Cheque,Expense for Legal & Compliance,BDG271
+EXP00174,2022-01-19,Security,4234914.03,Marketing,MGR05,Bank Transfer,Expense for IT Infrastructure,BDG711
+EXP00175,2023-07-16,Utilities,3531332.35,Finance,MGR01,Cheque,Expense for Customer Service,BDG913
+EXP00176,2023-06-16,Security,3361877.52,Operations,MGR03,Cash,Expense for Miscellaneous,BDG802
+EXP00177,2023-01-21,Training & Development,1922779.98,Operations,MGR04,Cash,Expense for Office Rent,BDG479
+EXP00178,2022-09-12,Customer Service,818368.27,Risk,MGR02,Cheque,Expense for Insurance,BDG252
+EXP00179,2024-03-23,Utilities,872064.02,Risk,MGR02,Cheque,Expense for Marketing,BDG226
+EXP00180,2022-10-26,Marketing,1305205.23,Finance,MGR05,Cash,Expense for Security,BDG605
+EXP00181,2024-02-01,Marketing,3761186.56,Compliance,MGR04,Bank Transfer,Expense for Training & Development,BDG731
+EXP00182,2024-01-02,Office Rent,3429403.43,Compliance,MGR03,Bank Transfer,Expense for Legal & Compliance,BDG606
+EXP00183,2023-02-17,Legal & Compliance,2020104.96,Risk,MGR01,Bank Transfer,Expense for IT Infrastructure,BDG153
+EXP00184,2023-04-10,Utilities,746027.86,IT,MGR01,Bank Transfer,Expense for Utilities,BDG422
+EXP00185,2022-09-03,Office Rent,2259832.57,IT,MGR01,Cheque,Expense for Legal & Compliance,BDG816
+EXP00186,2023-08-31,Utilities,2779452.66,Marketing,MGR05,Cheque,Expense for Loan Write-offs,BDG517
+EXP00187,2022-04-24,Staff Salaries,4171188.36,Finance,MGR03,Cash,Expense for Office Rent,BDG489
+EXP00188,2023-09-19,Utilities,4985188.17,IT,MGR02,Cheque,Expense for Utilities,BDG112
+EXP00189,2022-01-05,Miscellaneous,2248987.45,Operations,MGR05,Cheque,Expense for Staff Salaries,BDG340
+EXP00190,2022-01-04,Loan Write-offs,2148767.8,Finance,MGR03,Bank Transfer,Expense for Training & Development,BDG931
+EXP00191,2023-06-13,Miscellaneous,689172.65,Finance,MGR03,Cash,Expense for IT Infrastructure,BDG518
+EXP00192,2023-06-18,Loan Write-offs,2232144.57,Compliance,MGR04,Bank Transfer,Expense for Security,BDG205
+EXP00193,2023-08-09,Security,4462916.28,Operations,MGR03,Cheque,Expense for Legal & Compliance,BDG930
+EXP00194,2024-02-26,Marketing,3419131.28,Operations,MGR02,Cash,Expense for Security,BDG530
+EXP00195,2024-03-07,IT Infrastructure,727646.03,IT,MGR01,Bank Transfer,Expense for Staff Salaries,BDG960
+EXP00196,2023-08-05,Marketing,4728521.04,Compliance,MGR04,Cash,Expense for Legal & Compliance,BDG242
+EXP00197,2022-04-03,IT Infrastructure,4299737.3,Finance,MGR03,Cheque,Expense for Legal & Compliance,BDG417
+EXP00198,2022-05-05,Legal & Compliance,3534970.06,Marketing,MGR02,Bank Transfer,Expense for Security,BDG654
+EXP00199,2022-09-16,Insurance,4715964.87,IT,MGR03,Cheque,Expense for Miscellaneous,BDG533
+EXP00200,2022-05-02,Loan Write-offs,1049146.64,IT,MGR05,Bank Transfer,Expense for IT Infrastructure,BDG131
+EXP00201,2023-02-20,Utilities,2746964.37,Operations,MGR05,Bank Transfer,Expense for Miscellaneous,BDG558
+EXP00202,2024-03-28,Training & Development,4605025.79,IT,MGR01,Bank Transfer,Expense for Miscellaneous,BDG110
+EXP00203,2022-01-03,Miscellaneous,2384681.09,Operations,MGR01,Cash,Expense for IT Infrastructure,BDG403
+EXP00204,2022-01-24,Legal & Compliance,3461226.48,IT,MGR05,Cash,Expense for Legal & Compliance,BDG559
+EXP00205,2023-08-17,Marketing,1797091.33,Finance,MGR02,Bank Transfer,Expense for Customer Service,BDG984
+EXP00206,2024-09-04,Legal & Compliance,635647.93,Compliance,MGR04,Bank Transfer,Expense for Utilities,BDG755
+EXP00207,2024-05-26,Utilities,4466651.26,Marketing,MGR05,Bank Transfer,Expense for Utilities,BDG257
+EXP00208,2024-05-20,Training & Development,2161874.5,Finance,MGR01,Cheque,Expense for Miscellaneous,BDG875
+EXP00209,2022-04-05,Marketing,2524709.01,Operations,MGR03,Cash,Expense for Training & Development,BDG531
+EXP00210,2023-01-29,Staff Salaries,2381165.59,Risk,MGR04,Cheque,Expense for Loan Write-offs,BDG515
+EXP00211,2023-08-05,Loan Write-offs,270069.93,Compliance,MGR01,Cash,Expense for Insurance,BDG116
+EXP00212,2024-02-11,Insurance,4480644.99,Operations,MGR03,Cash,Expense for Legal & Compliance,BDG234
+EXP00213,2024-01-30,Miscellaneous,3473472.26,IT,MGR04,Cheque,Expense for Office Rent,BDG301
+EXP00214,2023-10-05,Utilities,3988682.21,Finance,MGR04,Bank Transfer,Expense for Training & Development,BDG461
+EXP00215,2022-06-05,Utilities,2589892.26,Compliance,MGR01,Bank Transfer,Expense for Insurance,BDG918
+EXP00216,2024-04-20,Insurance,4681271.33,Marketing,MGR03,Cheque,Expense for IT Infrastructure,BDG164
+EXP00217,2022-08-29,IT Infrastructure,4968304.28,Operations,MGR02,Cash,Expense for Loan Write-offs,BDG474
+EXP00218,2022-05-23,IT Infrastructure,2960695.68,Risk,MGR04,Cheque,Expense for Staff Salaries,BDG616
+EXP00219,2023-12-03,IT Infrastructure,1176442.18,Marketing,MGR05,Cash,Expense for Insurance,BDG473
+EXP00220,2023-05-22,Insurance,297096.55,HR,MGR05,Bank Transfer,Expense for Customer Service,BDG127
+EXP00221,2022-07-26,Miscellaneous,1679698.39,HR,MGR03,Bank Transfer,Expense for Customer Service,BDG172
+EXP00222,2024-08-14,Training & Development,1858876.4,Risk,MGR03,Cash,Expense for Staff Salaries,BDG483
+EXP00223,2023-04-13,Customer Service,1184232.02,HR,MGR02,Bank Transfer,Expense for Staff Salaries,BDG303
+EXP00224,2024-01-30,Office Rent,40071.91,Compliance,MGR04,Cash,Expense for Utilities,BDG797
+EXP00225,2024-05-01,Security,3943151.79,Finance,MGR01,Cash,Expense for Staff Salaries,BDG104
+EXP00226,2023-08-19,Security,3439647.79,IT,MGR04,Bank Transfer,Expense for Training & Development,BDG169
+EXP00227,2023-11-21,IT Infrastructure,4718515.32,HR,MGR04,Cheque,Expense for Office Rent,BDG551
+EXP00228,2023-06-29,Security,3023880.78,Risk,MGR01,Cash,Expense for Staff Salaries,BDG335
+EXP00229,2024-08-25,Marketing,732503.39,Finance,MGR05,Bank Transfer,Expense for Miscellaneous,BDG795
+EXP00230,2024-03-02,Customer Service,1008073.84,IT,MGR04,Cash,Expense for Utilities,BDG843
+EXP00231,2023-08-15,Office Rent,2096419.03,Compliance,MGR03,Cash,Expense for Legal & Compliance,BDG750
+EXP00232,2024-01-15,Staff Salaries,428201.94,Compliance,MGR04,Bank Transfer,Expense for Utilities,BDG192
+EXP00233,2023-04-16,Insurance,4524979.36,IT,MGR03,Cheque,Expense for IT Infrastructure,BDG533
+EXP00234,2024-01-28,Loan Write-offs,2984944.14,Marketing,MGR04,Cash,Expense for Security,BDG608
+EXP00235,2024-01-04,Office Rent,2252366.45,Finance,MGR04,Cash,Expense for Utilities,BDG928
+EXP00236,2023-09-25,Utilities,4758208.22,Finance,MGR02,Cheque,Expense for Staff Salaries,BDG196
+EXP00237,2022-02-15,Office Rent,3884793.19,Operations,MGR04,Bank Transfer,Expense for Office Rent,BDG423
+EXP00238,2023-02-02,Legal & Compliance,1578210.3,Risk,MGR02,Cheque,Expense for Training & Development,BDG533
+EXP00239,2022-01-10,Insurance,3412239.21,Risk,MGR04,Cheque,Expense for Miscellaneous,BDG155
+EXP00240,2023-07-09,Training & Development,3691954.55,Finance,MGR05,Cash,Expense for Security,BDG455
+EXP00241,2024-03-25,Utilities,2063354.49,Compliance,MGR01,Cash,Expense for Marketing,BDG639
+EXP00242,2024-01-21,Security,298287.3,Marketing,MGR03,Cash,Expense for Marketing,BDG550
+EXP00243,2022-12-11,Security,2373712.99,IT,MGR03,Cheque,Expense for IT Infrastructure,BDG685
+EXP00244,2022-11-04,Marketing,2980939.99,Compliance,MGR01,Bank Transfer,Expense for Security,BDG163
+EXP00245,2023-07-11,Miscellaneous,2322233.25,Marketing,MGR05,Bank Transfer,Expense for Staff Salaries,BDG482
+EXP00246,2024-05-12,IT Infrastructure,3556292.92,Compliance,MGR03,Cash,Expense for Insurance,BDG232
+EXP00247,2024-08-31,Security,1727866.93,IT,MGR05,Cheque,Expense for Office Rent,BDG283
+EXP00248,2022-03-26,Security,802338.25,Compliance,MGR05,Cash,Expense for Training & Development,BDG361
+EXP00249,2024-08-23,Utilities,4254186.48,Risk,MGR05,Cheque,Expense for Loan Write-offs,BDG409
+EXP00250,2024-05-25,Training & Development,2937615.7,Marketing,MGR01,Cheque,Expense for Loan Write-offs,BDG176
+EXP00251,2024-06-06,Loan Write-offs,4314648.52,Operations,MGR01,Bank Transfer,Expense for Marketing,BDG314
+EXP00252,2024-07-20,Security,1213787.9,Risk,MGR02,Bank Transfer,Expense for Miscellaneous,BDG351
+EXP00253,2023-07-15,Staff Salaries,3908469.01,Finance,MGR04,Cash,Expense for Miscellaneous,BDG704
+EXP00254,2023-03-12,Loan Write-offs,1305763.14,Compliance,MGR04,Cheque,Expense for Staff Salaries,BDG434
+EXP00255,2023-05-07,Loan Write-offs,4226940.3,Operations,MGR02,Cheque,Expense for Office Rent,BDG414
+EXP00256,2022-09-22,Utilities,2389515.8,IT,MGR05,Cash,Expense for Security,BDG552
+EXP00257,2023-02-02,Staff Salaries,4302963.81,Marketing,MGR01,Cash,Expense for Legal & Compliance,BDG680
+EXP00258,2022-09-08,Legal & Compliance,3750400.08,Risk,MGR01,Bank Transfer,Expense for Security,BDG371
+EXP00259,2022-02-11,IT Infrastructure,659887.21,HR,MGR05,Cheque,Expense for Security,BDG157
+EXP00260,2022-02-21,IT Infrastructure,3645927.17,HR,MGR03,Cash,Expense for Loan Write-offs,BDG826
+EXP00261,2022-01-24,Staff Salaries,909509.28,Operations,MGR03,Cash,Expense for Insurance,BDG484
+EXP00262,2024-08-01,Marketing,3533771.13,HR,MGR01,Cheque,Expense for Utilities,BDG370
+EXP00263,2023-09-04,IT Infrastructure,885451.58,HR,MGR04,Cash,Expense for Insurance,BDG849
+EXP00264,2024-04-15,Marketing,3220890.05,Compliance,MGR05,Cash,Expense for Miscellaneous,BDG863
+EXP00265,2024-05-11,Legal & Compliance,2415905.21,HR,MGR04,Bank Transfer,Expense for Miscellaneous,BDG474
+EXP00266,2024-09-22,Utilities,541020.08,Marketing,MGR01,Bank Transfer,Expense for Staff Salaries,BDG318
+EXP00267,2023-08-27,Office Rent,384306.19,Risk,MGR03,Bank Transfer,Expense for Insurance,BDG199
+EXP00268,2023-06-12,Insurance,2329294.89,Finance,MGR02,Bank Transfer,Expense for Customer Service,BDG796
+EXP00269,2022-10-11,Miscellaneous,1861248.72,Finance,MGR03,Cash,Expense for Security,BDG931
+EXP00270,2023-12-02,Utilities,4436166.05,Finance,MGR04,Bank Transfer,Expense for Security,BDG427
+EXP00271,2022-08-13,IT Infrastructure,2135372.58,Marketing,MGR04,Cash,Expense for Staff Salaries,BDG811
+EXP00272,2022-09-13,Miscellaneous,612253.15,Finance,MGR01,Cash,Expense for Marketing,BDG578
+EXP00273,2023-03-21,Marketing,2464180.8,Risk,MGR03,Cash,Expense for Loan Write-offs,BDG697
+EXP00274,2022-05-02,Office Rent,2120442.58,Risk,MGR01,Cheque,Expense for Legal & Compliance,BDG155
+EXP00275,2024-06-30,Staff Salaries,295458.77,Risk,MGR02,Cheque,Expense for Marketing,BDG426
+EXP00276,2022-04-10,IT Infrastructure,1479694.73,HR,MGR02,Cheque,Expense for Training & Development,BDG840
+EXP00277,2024-01-11,Miscellaneous,3087772.56,IT,MGR04,Cash,Expense for Miscellaneous,BDG571
+EXP00278,2024-05-05,Loan Write-offs,2720544.71,Operations,MGR03,Cash,Expense for Legal & Compliance,BDG226
+EXP00279,2022-09-08,Staff Salaries,578960.02,IT,MGR04,Cheque,Expense for IT Infrastructure,BDG686
+EXP00280,2024-09-02,Utilities,1348342.28,Marketing,MGR05,Bank Transfer,Expense for Loan Write-offs,BDG852
+EXP00281,2023-04-02,Training & Development,2766911.04,Risk,MGR05,Bank Transfer,Expense for Utilities,BDG181
+EXP00282,2022-03-26,Miscellaneous,2889851.16,Operations,MGR02,Cash,Expense for Miscellaneous,BDG876
+EXP00283,2024-08-09,Security,1171117.89,Finance,MGR02,Cheque,Expense for Loan Write-offs,BDG758
+EXP00284,2022-04-09,Loan Write-offs,1880236.52,IT,MGR01,Cash,Expense for Miscellaneous,BDG637
+EXP00285,2023-06-20,Staff Salaries,4700584.82,HR,MGR04,Cheque,Expense for Training & Development,BDG752
+EXP00286,2024-06-22,Office Rent,4179373.04,Compliance,MGR04,Cash,Expense for Office Rent,BDG689
+EXP00287,2022-03-29,Customer Service,4777216.02,Risk,MGR04,Cheque,Expense for Office Rent,BDG644
+EXP00288,2022-11-22,Marketing,49239.5,Compliance,MGR02,Bank Transfer,Expense for Miscellaneous,BDG507
+EXP00289,2022-04-05,IT Infrastructure,2926725.56,IT,MGR01,Bank Transfer,Expense for Office Rent,BDG545
+EXP00290,2023-11-10,Miscellaneous,4034293.3,HR,MGR04,Cheque,Expense for Legal & Compliance,BDG861
+EXP00291,2023-09-11,Miscellaneous,944030.46,IT,MGR04,Bank Transfer,Expense for Miscellaneous,BDG407
+EXP00292,2023-07-23,Insurance,4493458.96,Operations,MGR01,Cash,Expense for Loan Write-offs,BDG967
+EXP00293,2023-10-24,Security,3736918.03,Risk,MGR05,Bank Transfer,Expense for Marketing,BDG835
+EXP00294,2023-01-14,Loan Write-offs,4974560.01,IT,MGR02,Cheque,Expense for Office Rent,BDG514
+EXP00295,2023-12-12,Staff Salaries,4919895.22,Compliance,MGR02,Cheque,Expense for Staff Salaries,BDG694
+EXP00296,2022-09-23,Staff Salaries,3975620.07,Risk,MGR02,Cash,Expense for Office Rent,BDG319
+EXP00297,2022-12-04,Office Rent,79431.7,Marketing,MGR04,Bank Transfer,Expense for Training & Development,BDG539
+EXP00298,2023-05-29,Marketing,4984450.8,Marketing,MGR04,Bank Transfer,Expense for Customer Service,BDG438
+EXP00299,2022-05-25,Staff Salaries,4453512.37,IT,MGR04,Cash,Expense for Utilities,BDG497
+EXP00300,2024-02-17,Miscellaneous,930079.77,Compliance,MGR05,Cheque,Expense for Utilities,BDG226
+EXP00301,2023-08-11,Office Rent,1993628.15,Risk,MGR03,Cheque,Expense for Staff Salaries,BDG667
+EXP00302,2024-09-12,IT Infrastructure,2482323.74,Risk,MGR01,Bank Transfer,Expense for Security,BDG340
+EXP00303,2024-04-04,Training & Development,396386.5,Finance,MGR05,Bank Transfer,Expense for Security,BDG299
+EXP00304,2022-11-13,Customer Service,2117291.39,Marketing,MGR01,Cash,Expense for Staff Salaries,BDG430
+EXP00305,2022-06-03,Security,136113.69,Compliance,MGR05,Cash,Expense for Loan Write-offs,BDG830
+EXP00306,2024-09-23,Training & Development,366549.77,Risk,MGR04,Cash,Expense for Customer Service,BDG721
+EXP00307,2022-01-19,Training & Development,2328120.05,Finance,MGR05,Bank Transfer,Expense for Staff Salaries,BDG606
+EXP00308,2022-07-13,Training & Development,4436425.23,Marketing,MGR05,Cash,Expense for Security,BDG370
+EXP00309,2023-10-14,Staff Salaries,106440.76,IT,MGR04,Cheque,Expense for Miscellaneous,BDG742
+EXP00310,2022-09-24,IT Infrastructure,1088027.81,Compliance,MGR03,Cheque,Expense for Training & Development,BDG786
+EXP00311,2024-04-04,IT Infrastructure,4988983.04,HR,MGR02,Cash,Expense for Security,BDG672
+EXP00312,2024-05-18,Utilities,2006309.95,Compliance,MGR05,Bank Transfer,Expense for Customer Service,BDG571
+EXP00313,2023-11-12,Staff Salaries,978150.54,Marketing,MGR03,Bank Transfer,Expense for Staff Salaries,BDG505
+EXP00314,2022-01-13,Staff Salaries,4436598.82,HR,MGR05,Cash,Expense for Training & Development,BDG660
+EXP00315,2022-03-12,Office Rent,206294.94,Finance,MGR01,Cash,Expense for Marketing,BDG107
+EXP00316,2023-01-07,Utilities,1718742.47,HR,MGR04,Cheque,Expense for Staff Salaries,BDG483
+EXP00317,2022-07-28,Customer Service,63793.76,Marketing,MGR04,Cheque,Expense for Insurance,BDG803
+EXP00318,2022-11-28,IT Infrastructure,174161.67,Finance,MGR02,Cheque,Expense for Miscellaneous,BDG579
+EXP00319,2024-02-20,Office Rent,2920679.58,Operations,MGR05,Cheque,Expense for IT Infrastructure,BDG150
+EXP00320,2022-09-02,IT Infrastructure,1051306.09,Compliance,MGR04,Bank Transfer,Expense for Training & Development,BDG890
+EXP00321,2022-10-12,Miscellaneous,2072211.44,Risk,MGR02,Cheque,Expense for Miscellaneous,BDG290
+EXP00322,2023-02-27,Customer Service,2299601.67,IT,MGR03,Cheque,Expense for Training & Development,BDG348
+EXP00323,2023-02-25,Miscellaneous,1276487.86,HR,MGR02,Cheque,Expense for IT Infrastructure,BDG863
+EXP00324,2022-01-31,IT Infrastructure,1405518.22,HR,MGR05,Cheque,Expense for Security,BDG810
+EXP00325,2023-04-03,Training & Development,2892084.71,Finance,MGR05,Cheque,Expense for Miscellaneous,BDG589
+EXP00326,2022-11-26,Customer Service,4265529.58,Compliance,MGR05,Bank Transfer,Expense for Miscellaneous,BDG967
+EXP00327,2023-01-20,Insurance,4316497.24,Risk,MGR04,Bank Transfer,Expense for Insurance,BDG585
+EXP00328,2024-08-24,Security,2208442.25,Marketing,MGR04,Cash,Expense for Utilities,BDG920
+EXP00329,2023-08-12,Loan Write-offs,2820375.06,Finance,MGR01,Cheque,Expense for Office Rent,BDG848
+EXP00330,2023-09-14,Staff Salaries,3914773.53,IT,MGR03,Cheque,Expense for IT Infrastructure,BDG190
+EXP00331,2023-09-04,Miscellaneous,2171823.9,IT,MGR03,Cash,Expense for IT Infrastructure,BDG655
+EXP00332,2022-09-14,IT Infrastructure,1215913.25,Finance,MGR01,Cash,Expense for Office Rent,BDG371
+EXP00333,2022-10-18,Insurance,2780483.04,Marketing,MGR03,Cheque,Expense for Insurance,BDG350
+EXP00334,2023-08-19,Loan Write-offs,2704256.88,Marketing,MGR05,Cheque,Expense for Marketing,BDG976
+EXP00335,2024-06-30,Marketing,4789934.57,Compliance,MGR02,Cash,Expense for Loan Write-offs,BDG106
+EXP00336,2023-12-22,Legal & Compliance,172231.46,Marketing,MGR02,Cheque,Expense for Loan Write-offs,BDG925
+EXP00337,2022-10-07,Insurance,1994515.69,IT,MGR01,Cash,Expense for IT Infrastructure,BDG757
+EXP00338,2024-06-02,Miscellaneous,4648843.99,Compliance,MGR04,Cash,Expense for IT Infrastructure,BDG202
+EXP00339,2023-02-19,Training & Development,1307946.7,IT,MGR01,Cheque,Expense for Legal & Compliance,BDG677
+EXP00340,2023-03-19,Staff Salaries,789806.06,Operations,MGR03,Bank Transfer,Expense for Security,BDG290
+EXP00341,2023-03-29,Miscellaneous,1755472.31,Marketing,MGR05,Cash,Expense for Utilities,BDG267
+EXP00342,2022-06-01,Security,3645352.63,Risk,MGR04,Cash,Expense for Security,BDG126
+EXP00343,2024-01-04,Utilities,4089942.06,HR,MGR01,Bank Transfer,Expense for Legal & Compliance,BDG717
+EXP00344,2022-02-24,IT Infrastructure,2754708.05,Finance,MGR05,Cash,Expense for Security,BDG468
+EXP00345,2022-04-08,Training & Development,552541.29,Risk,MGR04,Bank Transfer,Expense for Staff Salaries,BDG542
+EXP00346,2022-03-01,Insurance,3022079.5,Finance,MGR04,Bank Transfer,Expense for Legal & Compliance,BDG600
+EXP00347,2023-07-18,Utilities,3693418.9,Finance,MGR01,Cash,Expense for Marketing,BDG347
+EXP00348,2022-05-22,Insurance,1132082.99,Finance,MGR04,Cheque,Expense for Loan Write-offs,BDG322
+EXP00349,2022-10-01,Customer Service,2315466.49,Marketing,MGR04,Bank Transfer,Expense for Office Rent,BDG294
+EXP00350,2024-06-21,Security,798438.36,IT,MGR02,Bank Transfer,Expense for Marketing,BDG970
+EXP00351,2023-10-22,Legal & Compliance,3792972.05,Operations,MGR02,Cheque,Expense for Insurance,BDG936
+EXP00352,2024-01-09,Legal & Compliance,909110.0,Marketing,MGR01,Cash,Expense for IT Infrastructure,BDG247
+EXP00353,2022-01-17,Staff Salaries,4307283.15,Operations,MGR01,Cheque,Expense for IT Infrastructure,BDG806
+EXP00354,2024-04-09,Insurance,808725.96,Risk,MGR04,Bank Transfer,Expense for Training & Development,BDG823
+EXP00355,2022-05-23,IT Infrastructure,2867233.7,Finance,MGR02,Bank Transfer,Expense for Insurance,BDG718
+EXP00356,2023-12-25,IT Infrastructure,4113009.82,IT,MGR05,Cash,Expense for Loan Write-offs,BDG815
+EXP00357,2024-02-28,Office Rent,1118821.28,Compliance,MGR01,Bank Transfer,Expense for Staff Salaries,BDG590
+EXP00358,2023-07-07,Customer Service,3264564.84,Marketing,MGR04,Cheque,Expense for Utilities,BDG317
+EXP00359,2024-07-21,Legal & Compliance,1499341.05,Compliance,MGR02,Cheque,Expense for Customer Service,BDG905
+EXP00360,2022-04-04,Office Rent,3864296.47,Compliance,MGR05,Cheque,Expense for Insurance,BDG798
+EXP00361,2023-12-07,Legal & Compliance,4087349.85,HR,MGR05,Bank Transfer,Expense for Insurance,BDG236
+EXP00362,2023-06-04,Security,306903.41,Finance,MGR02,Cheque,Expense for Marketing,BDG315
+EXP00363,2022-06-05,Marketing,4153921.42,Marketing,MGR05,Bank Transfer,Expense for Marketing,BDG679
+EXP00364,2024-07-31,Miscellaneous,3595446.23,IT,MGR05,Bank Transfer,Expense for Staff Salaries,BDG981
+EXP00365,2022-05-22,IT Infrastructure,2268286.87,HR,MGR01,Bank Transfer,Expense for Legal & Compliance,BDG514
+EXP00366,2023-10-31,Staff Salaries,3232949.46,Finance,MGR05,Cash,Expense for Office Rent,BDG396
+EXP00367,2022-08-16,Customer Service,4122073.39,Risk,MGR05,Bank Transfer,Expense for Training & Development,BDG365
+EXP00368,2023-06-10,Marketing,2273550.23,HR,MGR02,Bank Transfer,Expense for Customer Service,BDG140
+EXP00369,2023-04-03,Security,839360.16,Finance,MGR04,Bank Transfer,Expense for Insurance,BDG290
+EXP00370,2023-09-03,Security,3226161.17,Risk,MGR01,Bank Transfer,Expense for Staff Salaries,BDG989
+EXP00371,2024-08-02,Insurance,1785929.61,Marketing,MGR05,Cash,Expense for Customer Service,BDG674
+EXP00372,2024-02-25,Customer Service,1034990.85,IT,MGR02,Cash,Expense for Customer Service,BDG236
+EXP00373,2022-10-23,Security,2451367.35,Finance,MGR04,Bank Transfer,Expense for Utilities,BDG429
+EXP00374,2024-09-18,Miscellaneous,3120909.14,Compliance,MGR03,Cheque,Expense for Legal & Compliance,BDG345
+EXP00375,2022-01-02,Staff Salaries,3136743.04,Operations,MGR02,Cheque,Expense for Miscellaneous,BDG881
+EXP00376,2022-06-02,Customer Service,1874437.39,Operations,MGR02,Cheque,Expense for Utilities,BDG267
+EXP00377,2024-09-11,Marketing,2268691.38,Marketing,MGR04,Cash,Expense for Utilities,BDG935
+EXP00378,2024-07-01,Customer Service,12846.99,Finance,MGR01,Cash,Expense for Customer Service,BDG504
+EXP00379,2023-02-05,Training & Development,4297220.76,Marketing,MGR04,Bank Transfer,Expense for Miscellaneous,BDG923
+EXP00380,2022-05-25,Staff Salaries,2179896.79,Finance,MGR01,Cheque,Expense for Miscellaneous,BDG571
+EXP00381,2022-02-04,Miscellaneous,4082162.0,Finance,MGR05,Cheque,Expense for Staff Salaries,BDG485
+EXP00382,2023-06-28,Office Rent,2099292.29,IT,MGR04,Cheque,Expense for Security,BDG732
+EXP00383,2022-12-21,Customer Service,2480856.91,Operations,MGR03,Bank Transfer,Expense for Insurance,BDG980
+EXP00384,2023-05-28,IT Infrastructure,1823305.79,IT,MGR05,Cash,Expense for Insurance,BDG707
+EXP00385,2024-06-27,Loan Write-offs,2069788.56,Risk,MGR03,Cheque,Expense for Marketing,BDG768
+EXP00386,2022-03-13,IT Infrastructure,4356476.26,Risk,MGR02,Cheque,Expense for Insurance,BDG291
+EXP00387,2023-05-24,Loan Write-offs,856534.33,Finance,MGR04,Cheque,Expense for Office Rent,BDG364
+EXP00388,2022-09-26,Staff Salaries,2732745.05,Risk,MGR05,Bank Transfer,Expense for IT Infrastructure,BDG269
+EXP00389,2023-12-07,Security,3328885.61,Operations,MGR03,Bank Transfer,Expense for Customer Service,BDG549
+EXP00390,2022-11-29,Miscellaneous,4612606.61,Marketing,MGR02,Cash,Expense for IT Infrastructure,BDG584
+EXP00391,2024-07-15,Security,2829573.28,Operations,MGR01,Cheque,Expense for Utilities,BDG342
+EXP00392,2022-05-20,IT Infrastructure,4213599.27,Risk,MGR02,Cheque,Expense for Loan Write-offs,BDG736
+EXP00393,2023-04-24,Training & Development,867069.15,Compliance,MGR05,Bank Transfer,Expense for Miscellaneous,BDG826
+EXP00394,2022-08-21,Customer Service,241822.74,Compliance,MGR05,Bank Transfer,Expense for IT Infrastructure,BDG263
+EXP00395,2024-03-19,Marketing,938992.14,HR,MGR02,Cash,Expense for Training & Development,BDG329
+EXP00396,2024-07-23,Marketing,397994.08,HR,MGR01,Bank Transfer,Expense for Training & Development,BDG838
+EXP00397,2023-01-03,Office Rent,1863304.17,Finance,MGR02,Bank Transfer,Expense for Legal & Compliance,BDG647
+EXP00398,2023-10-15,Insurance,4128145.09,Marketing,MGR03,Bank Transfer,Expense for Miscellaneous,BDG988
+EXP00399,2024-09-21,Training & Development,1503472.46,Compliance,MGR03,Cheque,Expense for Office Rent,BDG446
+EXP00400,2022-07-17,Training & Development,4071101.88,HR,MGR05,Cheque,Expense for Training & Development,BDG767

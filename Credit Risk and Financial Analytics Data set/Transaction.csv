@@ -1,0 +1,1501 @@
+TransactionID,AccountID,TransactionDate,TransactionType,Amount,DebitCredit,Description,Status,Channel
+TXN000001,ACC00135,2024-07-23,Deposit,273293.04,Debit,Utilities,Successful,USSD
+TXN000002,ACC00095,2023-11-07,POS,517164.5,Debit,Salary,Successful,Internet Banking
+TXN000003,ACC00078,2023-01-04,Withdrawal,1607174.6,Debit,POS Purchase,Successful,Mobile App
+TXN000004,ACC00092,2024-06-04,Deposit,1317512.09,Debit,Rent,Successful,Internet Banking
+TXN000005,ACC00078,2022-04-21,Bill Payment,352382.45,Debit,Utilities,Successful,POS
+TXN000006,ACC00184,2022-01-20,ATM,1705115.77,Credit,Online Shopping,Successful,Branch
+TXN000007,ACC00267,2022-10-27,USSD,1927591.89,Credit,Loan Repayment,Successful,Internet Banking
+TXN000008,ACC00183,2024-06-07,USSD,971941.01,Debit,Loan Repayment,Successful,POS
+TXN000009,ACC00053,2024-06-23,Bill Payment,40307.53,Credit,Rent,Successful,Mobile App
+TXN000010,ACC00145,2023-10-27,Deposit,1719238.21,Debit,Transfer to family,Successful,Branch
+TXN000011,ACC00068,2023-01-31,POS,168317.12,Debit,Transfer to family,Reversed,Branch
+TXN000012,ACC00016,2022-08-25,POS,1203398.68,Credit,Airtime,Successful,USSD
+TXN000013,ACC00241,2024-09-30,Transfer,1734409.97,Debit,Utilities,Failed,POS
+TXN000014,ACC00227,2023-01-25,Transfer,1801199.48,Debit,Online Shopping,Successful,USSD
+TXN000015,ACC00114,2023-06-05,ATM,814310.2,Debit,POS Purchase,Successful,POS
+TXN000016,ACC00090,2024-09-27,Transfer,727186.77,Debit,Loan Repayment,Successful,ATM
+TXN000017,ACC00040,2023-12-28,Bill Payment,1315032.49,Debit,School Fees,Successful,ATM
+TXN000018,ACC00008,2022-04-12,Deposit,181067.43,Debit,Business Income,Failed,POS
+TXN000019,ACC00140,2024-07-14,ATM,1886352.7,Debit,Transfer to family,Successful,Internet Banking
+TXN000020,ACC00083,2022-11-20,ATM,1448606.79,Debit,Airtime,Successful,Branch
+TXN000021,ACC00254,2023-05-12,Deposit,281550.02,Debit,Loan Repayment,Successful,USSD
+TXN000022,ACC00114,2024-06-06,Transfer,224308.76,Debit,Investment,Successful,Internet Banking
+TXN000023,ACC00207,2023-09-04,POS,1469093.57,Debit,Airtime,Reversed,POS
+TXN000024,ACC00164,2023-06-29,USSD,1865904.43,Credit,ATM Withdrawal,Failed,POS
+TXN000025,ACC00279,2022-04-01,Transfer,1044154.14,Credit,School Fees,Reversed,Branch
+TXN000026,ACC00229,2022-07-10,Deposit,1658048.67,Credit,ATM Withdrawal,Successful,POS
+TXN000027,ACC00097,2022-07-23,USSD,1899374.16,Debit,Utilities,Failed,Branch
+TXN000028,ACC00200,2023-05-28,Bill Payment,1863145.47,Debit,Transfer to family,Successful,ATM
+TXN000029,ACC00193,2024-09-16,USSD,503990.21,Debit,Rent,Successful,ATM
+TXN000030,ACC00179,2023-04-14,USSD,1769187.44,Credit,Utilities,Successful,USSD
+TXN000031,ACC00134,2023-07-29,Transfer,476534.67,Debit,Business Income,Successful,Internet Banking
+TXN000032,ACC00264,2024-08-06,ATM,244992.53,Debit,Loan Repayment,Successful,POS
+TXN000033,ACC00101,2023-12-31,Withdrawal,1613471.15,Credit,Transfer to family,Successful,ATM
+TXN000034,ACC00085,2022-01-23,Withdrawal,658907.18,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN000035,ACC00048,2022-02-10,POS,1168860.28,Credit,Online Shopping,Successful,ATM
+TXN000036,ACC00185,2022-09-11,Deposit,780206.36,Debit,Medical,Successful,ATM
+TXN000037,ACC00157,2024-08-02,Bill Payment,1496874.27,Credit,Investment,Successful,Mobile App
+TXN000038,ACC00083,2023-06-27,ATM,472258.19,Credit,Investment,Failed,USSD
+TXN000039,ACC00132,2022-11-09,Withdrawal,846026.56,Debit,Medical,Successful,Mobile App
+TXN000040,ACC00208,2022-12-08,Transfer,288983.68,Credit,Transfer to family,Reversed,Branch
+TXN000041,ACC00204,2023-05-17,ATM,350720.93,Credit,Rent,Successful,Internet Banking
+TXN000042,ACC00157,2023-02-07,Bill Payment,1939861.99,Credit,Investment,Successful,Branch
+TXN000043,ACC00256,2024-02-02,Deposit,879231.09,Debit,Utilities,Successful,Internet Banking
+TXN000044,ACC00266,2022-06-10,ATM,508984.69,Credit,Loan Repayment,Successful,Internet Banking
+TXN000045,ACC00252,2022-01-19,ATM,1179167.15,Credit,Airtime,Successful,Internet Banking
+TXN000046,ACC00184,2022-12-22,Transfer,980971.98,Credit,ATM Withdrawal,Successful,Branch
+TXN000047,ACC00063,2023-12-02,Bill Payment,749722.62,Credit,Airtime,Successful,POS
+TXN000048,ACC00063,2022-12-27,Deposit,1897447.42,Debit,ATM Withdrawal,Successful,USSD
+TXN000049,ACC00245,2022-12-30,ATM,633321.65,Credit,Medical,Successful,Mobile App
+TXN000050,ACC00118,2023-10-03,Bill Payment,847850.74,Debit,Loan Repayment,Successful,USSD
+TXN000051,ACC00249,2022-11-06,ATM,1365635.53,Credit,Transfer to family,Successful,Internet Banking
+TXN000052,ACC00105,2022-08-30,Withdrawal,1926649.02,Credit,POS Purchase,Successful,Branch
+TXN000053,ACC00164,2024-09-28,Withdrawal,1758927.36,Debit,Medical,Successful,ATM
+TXN000054,ACC00130,2024-09-29,Deposit,1873976.1,Credit,Online Shopping,Successful,ATM
+TXN000055,ACC00033,2023-05-29,Withdrawal,726314.53,Debit,Medical,Successful,POS
+TXN000056,ACC00016,2022-10-10,Deposit,1431484.62,Debit,ATM Withdrawal,Successful,USSD
+TXN000057,ACC00178,2024-04-11,ATM,1642820.05,Credit,ATM Withdrawal,Successful,Mobile App
+TXN000058,ACC00163,2022-03-05,POS,42637.88,Credit,Utilities,Successful,USSD
+TXN000059,ACC00174,2023-10-03,Withdrawal,1933626.92,Credit,Medical,Successful,POS
+TXN000060,ACC00133,2022-09-21,Bill Payment,1211826.56,Credit,POS Purchase,Successful,Internet Banking
+TXN000061,ACC00055,2024-06-18,Bill Payment,1683025.2,Credit,POS Purchase,Successful,USSD
+TXN000062,ACC00034,2023-02-01,Deposit,1324615.76,Credit,Business Income,Successful,Internet Banking
+TXN000063,ACC00191,2024-06-30,USSD,1881726.13,Credit,Online Shopping,Successful,Branch
+TXN000064,ACC00149,2024-04-14,POS,1381519.57,Credit,Airtime,Successful,USSD
+TXN000065,ACC00116,2022-01-31,ATM,1577711.02,Debit,Rent,Successful,Mobile App
+TXN000066,ACC00244,2024-08-24,Transfer,479731.82,Credit,Salary,Successful,ATM
+TXN000067,ACC00043,2023-07-23,Bill Payment,1105679.44,Debit,School Fees,Successful,USSD
+TXN000068,ACC00278,2024-08-29,POS,618882.37,Credit,Transfer to family,Successful,Mobile App
+TXN000069,ACC00096,2022-10-14,USSD,1916987.98,Debit,Medical,Successful,Branch
+TXN000070,ACC00277,2022-08-19,USSD,726028.77,Debit,ATM Withdrawal,Successful,POS
+TXN000071,ACC00250,2022-06-05,Bill Payment,1624594.47,Debit,Transfer to family,Successful,Mobile App
+TXN000072,ACC00277,2022-12-16,Deposit,244546.51,Debit,Medical,Failed,Branch
+TXN000073,ACC00041,2024-07-07,Deposit,1733972.39,Debit,Business Income,Failed,POS
+TXN000074,ACC00242,2023-02-07,Transfer,1715365.45,Credit,School Fees,Failed,POS
+TXN000075,ACC00051,2023-11-04,Deposit,777247.79,Credit,POS Purchase,Successful,USSD
+TXN000076,ACC00023,2022-05-21,Transfer,1819623.31,Credit,ATM Withdrawal,Successful,POS
+TXN000077,ACC00094,2022-03-31,USSD,786254.65,Credit,Salary,Successful,Mobile App
+TXN000078,ACC00277,2024-01-18,ATM,1955996.71,Credit,Online Shopping,Successful,Mobile App
+TXN000079,ACC00088,2023-01-27,Deposit,511439.61,Credit,Rent,Successful,ATM
+TXN000080,ACC00017,2023-06-18,Bill Payment,180955.53,Credit,Investment,Successful,POS
+TXN000081,ACC00127,2024-09-10,Deposit,1645504.1,Credit,POS Purchase,Reversed,POS
+TXN000082,ACC00059,2023-11-26,Withdrawal,471303.18,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN000083,ACC00217,2023-09-20,USSD,421167.79,Debit,Investment,Successful,Internet Banking
+TXN000084,ACC00162,2024-06-12,ATM,1780548.33,Credit,Rent,Successful,Branch
+TXN000085,ACC00045,2023-10-03,ATM,1831823.66,Debit,POS Purchase,Successful,USSD
+TXN000086,ACC00220,2023-12-04,POS,1262889.73,Debit,Utilities,Successful,Internet Banking
+TXN000087,ACC00219,2022-08-21,Bill Payment,1758994.76,Credit,Online Shopping,Successful,USSD
+TXN000088,ACC00037,2023-03-04,ATM,1533598.43,Debit,Utilities,Failed,USSD
+TXN000089,ACC00122,2022-09-04,USSD,812874.49,Debit,Business Income,Successful,Internet Banking
+TXN000090,ACC00121,2023-08-10,USSD,68246.42,Credit,POS Purchase,Successful,Internet Banking
+TXN000091,ACC00121,2022-06-06,POS,1732955.95,Credit,POS Purchase,Successful,USSD
+TXN000092,ACC00134,2023-03-13,Withdrawal,1646483.96,Credit,Rent,Successful,USSD
+TXN000093,ACC00002,2024-09-20,ATM,1881020.59,Credit,Investment,Failed,ATM
+TXN000094,ACC00150,2022-11-16,POS,942447.02,Credit,POS Purchase,Failed,Internet Banking
+TXN000095,ACC00205,2024-07-20,Withdrawal,826216.16,Debit,Online Shopping,Successful,Mobile App
+TXN000096,ACC00267,2023-09-12,Deposit,1682406.35,Credit,Salary,Reversed,POS
+TXN000097,ACC00250,2022-12-04,Deposit,1434913.34,Credit,POS Purchase,Reversed,Branch
+TXN000098,ACC00212,2023-04-05,ATM,1753584.07,Debit,Loan Repayment,Successful,POS
+TXN000099,ACC00149,2023-07-10,Withdrawal,1640572.5,Debit,Salary,Successful,Branch
+TXN000100,ACC00006,2022-05-15,Bill Payment,1648889.53,Credit,Loan Repayment,Successful,Mobile App
+TXN000101,ACC00002,2022-07-31,ATM,1397115.13,Debit,POS Purchase,Successful,USSD
+TXN000102,ACC00206,2023-10-31,Deposit,1012915.86,Credit,Utilities,Successful,Internet Banking
+TXN000103,ACC00064,2022-05-22,Bill Payment,704036.76,Debit,Airtime,Successful,USSD
+TXN000104,ACC00246,2023-08-18,POS,1204430.83,Debit,Medical,Failed,Mobile App
+TXN000105,ACC00088,2023-07-09,Deposit,1626949.38,Credit,Investment,Successful,Internet Banking
+TXN000106,ACC00029,2023-12-02,Withdrawal,1475702.15,Credit,POS Purchase,Successful,POS
+TXN000107,ACC00141,2024-03-30,ATM,906796.88,Debit,Utilities,Successful,Branch
+TXN000108,ACC00086,2022-07-27,ATM,55188.11,Credit,School Fees,Successful,Mobile App
+TXN000109,ACC00019,2024-06-02,Withdrawal,104671.6,Debit,Online Shopping,Successful,Internet Banking
+TXN000110,ACC00013,2022-05-22,Deposit,1283364.23,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN000111,ACC00266,2022-11-13,Withdrawal,1260497.6,Debit,Transfer to family,Successful,Internet Banking
+TXN000112,ACC00128,2023-12-07,ATM,1582143.13,Debit,Medical,Failed,POS
+TXN000113,ACC00146,2023-12-24,Deposit,272616.4,Debit,Utilities,Successful,POS
+TXN000114,ACC00147,2024-07-09,Transfer,801623.37,Credit,School Fees,Successful,ATM
+TXN000115,ACC00122,2023-06-21,USSD,1256778.4,Credit,Utilities,Failed,ATM
+TXN000116,ACC00193,2024-07-20,USSD,627786.74,Debit,Online Shopping,Successful,Mobile App
+TXN000117,ACC00038,2022-05-19,Deposit,164922.99,Debit,School Fees,Successful,POS
+TXN000118,ACC00279,2023-03-17,Bill Payment,316065.97,Credit,Transfer to family,Successful,Mobile App
+TXN000119,ACC00138,2024-07-19,POS,1032973.6,Debit,Loan Repayment,Successful,Branch
+TXN000120,ACC00211,2024-09-26,Withdrawal,1939344.34,Credit,Medical,Successful,USSD
+TXN000121,ACC00047,2024-02-28,USSD,1661327.45,Credit,Investment,Successful,Mobile App
+TXN000122,ACC00254,2022-05-29,POS,1526443.83,Credit,Business Income,Successful,Internet Banking
+TXN000123,ACC00228,2023-11-03,Deposit,1693997.38,Credit,Online Shopping,Successful,ATM
+TXN000124,ACC00006,2024-08-13,USSD,1371663.88,Credit,Medical,Successful,Mobile App
+TXN000125,ACC00063,2023-08-02,USSD,1585388.27,Credit,Business Income,Successful,ATM
+TXN000126,ACC00276,2024-07-28,Deposit,639138.56,Debit,ATM Withdrawal,Successful,Mobile App
+TXN000127,ACC00060,2022-06-11,Deposit,956991.78,Debit,Business Income,Successful,ATM
+TXN000128,ACC00007,2022-11-22,Bill Payment,1470476.63,Credit,Investment,Successful,Internet Banking
+TXN000129,ACC00142,2022-03-11,POS,521729.42,Debit,ATM Withdrawal,Failed,Mobile App
+TXN000130,ACC00035,2023-07-25,USSD,1375090.01,Credit,POS Purchase,Failed,POS
+TXN000131,ACC00200,2023-06-30,POS,1653623.83,Debit,POS Purchase,Successful,POS
+TXN000132,ACC00222,2024-08-29,Withdrawal,1599157.57,Credit,Utilities,Successful,Internet Banking
+TXN000133,ACC00106,2024-01-07,Deposit,397728.11,Credit,Utilities,Successful,POS
+TXN000134,ACC00180,2022-05-02,USSD,829285.6,Debit,Salary,Successful,ATM
+TXN000135,ACC00216,2022-07-08,Withdrawal,364187.56,Debit,Investment,Successful,Branch
+TXN000136,ACC00175,2022-11-22,Bill Payment,1752841.83,Credit,Airtime,Successful,POS
+TXN000137,ACC00167,2024-05-09,Transfer,1889541.93,Debit,Airtime,Successful,Mobile App
+TXN000138,ACC00014,2024-06-19,USSD,1768740.69,Debit,Salary,Successful,POS
+TXN000139,ACC00031,2022-05-30,USSD,449362.02,Debit,Transfer to family,Successful,ATM
+TXN000140,ACC00235,2024-01-15,ATM,1896244.38,Credit,ATM Withdrawal,Successful,Mobile App
+TXN000141,ACC00014,2022-01-31,ATM,1846263.15,Credit,Online Shopping,Successful,USSD
+TXN000142,ACC00033,2024-02-23,Bill Payment,1294389.83,Credit,Online Shopping,Successful,ATM
+TXN000143,ACC00125,2022-11-23,Transfer,1253441.4,Credit,Airtime,Successful,USSD
+TXN000144,ACC00035,2024-06-20,Deposit,1813736.14,Debit,Rent,Successful,Internet Banking
+TXN000145,ACC00071,2024-09-23,ATM,1948268.08,Debit,Medical,Failed,POS
+TXN000146,ACC00197,2023-02-28,POS,396933.27,Credit,POS Purchase,Successful,USSD
+TXN000147,ACC00058,2024-09-11,POS,1402671.68,Debit,Medical,Successful,POS
+TXN000148,ACC00193,2023-02-26,Withdrawal,337927.53,Debit,ATM Withdrawal,Reversed,ATM
+TXN000149,ACC00003,2022-11-07,Transfer,802369.3,Debit,Utilities,Successful,Mobile App
+TXN000150,ACC00118,2023-03-30,USSD,858092.28,Credit,Medical,Successful,Branch
+TXN000151,ACC00029,2024-02-03,USSD,520685.48,Debit,Salary,Successful,ATM
+TXN000152,ACC00146,2024-08-14,Withdrawal,178578.0,Debit,Transfer to family,Successful,POS
+TXN000153,ACC00175,2024-04-21,USSD,736156.35,Credit,Salary,Successful,Branch
+TXN000154,ACC00197,2024-07-04,Deposit,1894513.4,Debit,Business Income,Successful,ATM
+TXN000155,ACC00118,2023-10-15,POS,235142.36,Debit,Investment,Successful,USSD
+TXN000156,ACC00252,2024-08-13,Withdrawal,1437307.56,Debit,Medical,Successful,Internet Banking
+TXN000157,ACC00144,2024-01-27,Transfer,870599.89,Debit,Salary,Failed,Branch
+TXN000158,ACC00173,2022-10-08,Deposit,1840018.1,Debit,Airtime,Successful,POS
+TXN000159,ACC00080,2022-06-05,Deposit,907688.88,Debit,Transfer to family,Successful,ATM
+TXN000160,ACC00220,2024-03-08,Transfer,1347383.28,Credit,Rent,Successful,POS
+TXN000161,ACC00140,2022-07-12,Withdrawal,237465.44,Credit,ATM Withdrawal,Successful,Branch
+TXN000162,ACC00171,2022-04-20,USSD,1427270.64,Credit,Salary,Successful,USSD
+TXN000163,ACC00218,2022-05-15,Bill Payment,381493.06,Debit,School Fees,Successful,Branch
+TXN000164,ACC00233,2022-07-09,Withdrawal,1723942.48,Debit,School Fees,Successful,Branch
+TXN000165,ACC00273,2022-01-27,ATM,1564352.83,Debit,Salary,Successful,POS
+TXN000166,ACC00101,2024-02-20,Transfer,576279.96,Credit,POS Purchase,Successful,Internet Banking
+TXN000167,ACC00115,2023-09-19,POS,988589.23,Debit,Business Income,Successful,Branch
+TXN000168,ACC00045,2023-09-24,Withdrawal,260833.56,Credit,Salary,Failed,Branch
+TXN000169,ACC00154,2022-10-01,Bill Payment,1712747.29,Debit,Online Shopping,Successful,USSD
+TXN000170,ACC00255,2023-09-13,Withdrawal,1200365.53,Credit,Airtime,Successful,POS
+TXN000171,ACC00193,2023-08-04,POS,1990417.3,Debit,Online Shopping,Successful,POS
+TXN000172,ACC00135,2023-09-20,Deposit,566293.01,Credit,Investment,Successful,Branch
+TXN000173,ACC00066,2022-08-25,Withdrawal,1354538.71,Debit,ATM Withdrawal,Successful,USSD
+TXN000174,ACC00004,2023-09-03,Deposit,836952.82,Debit,Loan Repayment,Successful,ATM
+TXN000175,ACC00025,2022-08-26,USSD,817343.94,Credit,Transfer to family,Successful,Mobile App
+TXN000176,ACC00031,2022-08-25,USSD,292312.73,Credit,Transfer to family,Successful,Internet Banking
+TXN000177,ACC00161,2023-12-05,ATM,580740.83,Debit,POS Purchase,Successful,ATM
+TXN000178,ACC00139,2022-01-27,POS,523968.03,Debit,Investment,Successful,Mobile App
+TXN000179,ACC00266,2023-01-03,Bill Payment,1235551.64,Debit,POS Purchase,Successful,Branch
+TXN000180,ACC00219,2022-03-23,USSD,1814702.81,Credit,ATM Withdrawal,Successful,POS
+TXN000181,ACC00022,2023-12-06,Withdrawal,739590.66,Debit,Online Shopping,Successful,ATM
+TXN000182,ACC00203,2024-03-09,Deposit,1368692.04,Debit,School Fees,Successful,ATM
+TXN000183,ACC00254,2023-05-04,Bill Payment,916599.14,Debit,Investment,Successful,Internet Banking
+TXN000184,ACC00181,2022-05-18,Deposit,21135.32,Debit,POS Purchase,Reversed,Internet Banking
+TXN000185,ACC00128,2023-05-30,Deposit,266843.27,Debit,Airtime,Successful,Mobile App
+TXN000186,ACC00274,2024-05-16,Deposit,646830.34,Credit,Medical,Successful,ATM
+TXN000187,ACC00074,2023-09-12,Withdrawal,1386200.6,Credit,Salary,Successful,USSD
+TXN000188,ACC00015,2023-04-26,Deposit,1373861.47,Credit,ATM Withdrawal,Successful,Branch
+TXN000189,ACC00228,2023-12-31,ATM,1426815.23,Credit,Transfer to family,Successful,Mobile App
+TXN000190,ACC00245,2023-10-28,ATM,1417052.11,Credit,Loan Repayment,Successful,ATM
+TXN000191,ACC00239,2023-01-18,POS,1472340.16,Credit,Airtime,Successful,Branch
+TXN000192,ACC00101,2022-07-08,Transfer,512823.08,Credit,Airtime,Successful,USSD
+TXN000193,ACC00190,2024-05-22,Bill Payment,191011.2,Credit,Business Income,Successful,USSD
+TXN000194,ACC00120,2023-02-01,ATM,117975.25,Credit,Online Shopping,Successful,POS
+TXN000195,ACC00033,2023-05-19,USSD,666058.65,Credit,POS Purchase,Successful,Internet Banking
+TXN000196,ACC00239,2023-05-01,USSD,470065.46,Debit,Medical,Reversed,Internet Banking
+TXN000197,ACC00250,2022-05-21,USSD,1816498.96,Credit,Online Shopping,Successful,Mobile App
+TXN000198,ACC00003,2022-06-17,Bill Payment,1993480.5,Credit,Salary,Reversed,Internet Banking
+TXN000199,ACC00039,2022-07-17,ATM,1878674.22,Credit,Utilities,Successful,Internet Banking
+TXN000200,ACC00182,2022-08-20,Withdrawal,1934436.08,Debit,Salary,Successful,Branch
+TXN000201,ACC00093,2022-02-03,Withdrawal,1196665.02,Credit,Salary,Successful,POS
+TXN000202,ACC00251,2023-02-23,Withdrawal,1496609.56,Credit,Rent,Successful,Branch
+TXN000203,ACC00268,2024-02-22,ATM,91500.99,Debit,Online Shopping,Successful,Branch
+TXN000204,ACC00076,2024-09-19,Transfer,507686.94,Debit,POS Purchase,Successful,POS
+TXN000205,ACC00206,2022-01-16,POS,1239505.92,Credit,Loan Repayment,Successful,ATM
+TXN000206,ACC00105,2024-08-05,Bill Payment,605363.46,Credit,Loan Repayment,Successful,Mobile App
+TXN000207,ACC00096,2022-10-04,Bill Payment,789696.28,Debit,ATM Withdrawal,Successful,USSD
+TXN000208,ACC00032,2024-08-31,Withdrawal,742116.98,Debit,Utilities,Reversed,Branch
+TXN000209,ACC00113,2023-02-27,Withdrawal,1936131.59,Debit,Rent,Reversed,POS
+TXN000210,ACC00128,2022-08-16,POS,1119341.0,Credit,Online Shopping,Successful,Internet Banking
+TXN000211,ACC00234,2024-01-31,ATM,1161183.58,Debit,Utilities,Reversed,POS
+TXN000212,ACC00194,2023-11-19,Deposit,520953.16,Credit,Loan Repayment,Reversed,USSD
+TXN000213,ACC00134,2022-07-27,POS,1007741.57,Credit,Investment,Successful,Internet Banking
+TXN000214,ACC00119,2024-02-15,Withdrawal,1860688.72,Credit,POS Purchase,Successful,Branch
+TXN000215,ACC00249,2022-07-29,ATM,1755854.56,Credit,School Fees,Successful,Internet Banking
+TXN000216,ACC00047,2022-03-09,Bill Payment,264273.11,Debit,Salary,Failed,Internet Banking
+TXN000217,ACC00038,2022-07-01,POS,634976.11,Debit,Loan Repayment,Successful,ATM
+TXN000218,ACC00204,2024-08-07,Deposit,1061082.39,Credit,Salary,Successful,Internet Banking
+TXN000219,ACC00275,2024-09-04,ATM,284020.57,Debit,Transfer to family,Reversed,Internet Banking
+TXN000220,ACC00237,2023-03-26,USSD,234125.69,Credit,Investment,Successful,POS
+TXN000221,ACC00030,2024-06-06,USSD,88802.24,Debit,Salary,Successful,USSD
+TXN000222,ACC00256,2023-09-24,Transfer,256179.05,Credit,Online Shopping,Successful,Internet Banking
+TXN000223,ACC00136,2023-05-17,Transfer,1743423.28,Credit,Salary,Successful,Branch
+TXN000224,ACC00160,2023-12-06,Bill Payment,1669690.67,Debit,Transfer to family,Successful,POS
+TXN000225,ACC00123,2022-11-29,Deposit,1495772.82,Credit,Online Shopping,Successful,ATM
+TXN000226,ACC00172,2024-06-06,POS,1852510.97,Credit,Transfer to family,Successful,USSD
+TXN000227,ACC00219,2023-04-14,Withdrawal,566209.55,Debit,POS Purchase,Successful,POS
+TXN000228,ACC00172,2024-06-27,Withdrawal,1753934.3,Credit,Loan Repayment,Successful,ATM
+TXN000229,ACC00242,2022-09-10,Deposit,1226056.68,Credit,Medical,Successful,USSD
+TXN000230,ACC00247,2023-03-14,POS,1523247.06,Credit,Investment,Reversed,Branch
+TXN000231,ACC00204,2023-02-19,Deposit,527884.0,Debit,Investment,Successful,Internet Banking
+TXN000232,ACC00250,2024-03-05,POS,626364.13,Credit,ATM Withdrawal,Successful,Branch
+TXN000233,ACC00136,2022-02-12,Transfer,1785397.28,Credit,Transfer to family,Successful,ATM
+TXN000234,ACC00137,2023-09-15,USSD,631428.07,Debit,Loan Repayment,Successful,Branch
+TXN000235,ACC00249,2024-01-23,USSD,1989132.85,Debit,Rent,Successful,Branch
+TXN000236,ACC00124,2024-04-24,POS,1527468.99,Debit,Rent,Successful,Internet Banking
+TXN000237,ACC00018,2023-01-25,POS,302953.86,Debit,Medical,Successful,Branch
+TXN000238,ACC00184,2024-01-08,Withdrawal,1706140.81,Credit,Airtime,Successful,Branch
+TXN000239,ACC00004,2022-11-17,Bill Payment,1315010.25,Debit,Online Shopping,Failed,USSD
+TXN000240,ACC00244,2023-02-08,USSD,1596541.26,Credit,Rent,Successful,Branch
+TXN000241,ACC00147,2023-09-19,ATM,106917.77,Credit,POS Purchase,Successful,USSD
+TXN000242,ACC00209,2024-08-19,ATM,297667.3,Debit,Rent,Successful,Branch
+TXN000243,ACC00203,2024-01-31,Withdrawal,460106.16,Credit,Investment,Successful,ATM
+TXN000244,ACC00063,2023-08-09,Transfer,72206.57,Debit,Medical,Successful,Branch
+TXN000245,ACC00268,2023-09-01,Deposit,520817.82,Credit,ATM Withdrawal,Failed,ATM
+TXN000246,ACC00245,2023-07-04,Withdrawal,1412072.74,Debit,Business Income,Successful,POS
+TXN000247,ACC00146,2023-06-22,Deposit,873141.52,Debit,Airtime,Reversed,ATM
+TXN000248,ACC00193,2023-10-19,USSD,1990405.89,Debit,Business Income,Failed,ATM
+TXN000249,ACC00174,2024-06-15,Withdrawal,1854449.08,Debit,Online Shopping,Successful,Mobile App
+TXN000250,ACC00122,2023-12-23,ATM,82063.02,Debit,School Fees,Reversed,ATM
+TXN000251,ACC00204,2024-03-16,USSD,713361.97,Debit,School Fees,Successful,Mobile App
+TXN000252,ACC00135,2022-02-09,Bill Payment,1418203.77,Credit,Utilities,Successful,ATM
+TXN000253,ACC00186,2023-06-18,Bill Payment,970656.43,Debit,Medical,Successful,Branch
+TXN000254,ACC00180,2022-04-22,Withdrawal,986230.61,Debit,Airtime,Reversed,USSD
+TXN000255,ACC00042,2023-04-08,Withdrawal,1691753.78,Credit,Business Income,Successful,Internet Banking
+TXN000256,ACC00232,2023-04-13,ATM,1733825.16,Credit,Airtime,Successful,ATM
+TXN000257,ACC00250,2024-04-26,Deposit,247746.64,Credit,Transfer to family,Successful,Branch
+TXN000258,ACC00172,2024-06-17,Deposit,187608.97,Debit,POS Purchase,Successful,Mobile App
+TXN000259,ACC00004,2022-02-13,ATM,1736412.13,Credit,Investment,Reversed,USSD
+TXN000260,ACC00262,2024-06-17,Transfer,361719.6,Credit,Loan Repayment,Successful,Internet Banking
+TXN000261,ACC00142,2022-09-09,Transfer,337005.86,Debit,Airtime,Successful,Internet Banking
+TXN000262,ACC00132,2023-06-16,Withdrawal,1017721.16,Debit,Utilities,Reversed,USSD
+TXN000263,ACC00139,2023-07-05,Bill Payment,545946.71,Credit,Online Shopping,Successful,USSD
+TXN000264,ACC00047,2023-02-10,Transfer,1781843.6,Debit,Transfer to family,Failed,Branch
+TXN000265,ACC00211,2024-01-23,Transfer,1171561.96,Credit,Investment,Successful,Branch
+TXN000266,ACC00090,2022-02-10,POS,1167303.01,Debit,Transfer to family,Successful,Branch
+TXN000267,ACC00093,2023-07-26,USSD,1943268.9,Debit,Loan Repayment,Successful,Mobile App
+TXN000268,ACC00078,2023-02-01,USSD,1052267.81,Credit,Online Shopping,Successful,Branch
+TXN000269,ACC00142,2023-06-13,Bill Payment,1141790.23,Credit,POS Purchase,Successful,ATM
+TXN000270,ACC00155,2024-02-23,Deposit,833129.77,Credit,School Fees,Successful,ATM
+TXN000271,ACC00107,2023-10-08,Deposit,154132.51,Credit,Utilities,Successful,Branch
+TXN000272,ACC00229,2024-09-12,ATM,1536622.73,Debit,Business Income,Successful,POS
+TXN000273,ACC00023,2022-02-20,Deposit,1353978.58,Debit,Business Income,Successful,POS
+TXN000274,ACC00125,2022-07-14,POS,1774791.71,Credit,Loan Repayment,Successful,USSD
+TXN000275,ACC00161,2022-10-26,Withdrawal,52411.36,Debit,Utilities,Successful,Internet Banking
+TXN000276,ACC00025,2023-03-27,Withdrawal,1362784.03,Credit,Loan Repayment,Successful,Internet Banking
+TXN000277,ACC00140,2023-02-12,USSD,1361438.5,Debit,Online Shopping,Reversed,POS
+TXN000278,ACC00089,2024-06-24,Deposit,788642.52,Debit,Online Shopping,Successful,POS
+TXN000279,ACC00275,2022-11-08,Bill Payment,1180881.83,Debit,Airtime,Successful,ATM
+TXN000280,ACC00209,2024-03-03,POS,1902464.09,Credit,Salary,Successful,Branch
+TXN000281,ACC00005,2024-04-27,Deposit,1674035.93,Debit,Utilities,Successful,Mobile App
+TXN000282,ACC00113,2022-10-20,Deposit,307974.05,Debit,Salary,Successful,Mobile App
+TXN000283,ACC00011,2023-04-18,Withdrawal,162585.94,Credit,Business Income,Reversed,Internet Banking
+TXN000284,ACC00154,2022-06-20,ATM,1661483.1,Debit,Utilities,Successful,Internet Banking
+TXN000285,ACC00232,2023-03-09,Bill Payment,1319248.88,Credit,Airtime,Successful,Branch
+TXN000286,ACC00222,2022-10-29,POS,908384.0,Credit,ATM Withdrawal,Successful,USSD
+TXN000287,ACC00270,2023-09-20,POS,1910425.46,Debit,Utilities,Successful,ATM
+TXN000288,ACC00179,2024-07-30,Transfer,1188611.42,Credit,Airtime,Successful,USSD
+TXN000289,ACC00250,2022-02-25,Bill Payment,12107.82,Debit,Online Shopping,Successful,POS
+TXN000290,ACC00158,2023-12-08,Withdrawal,1939556.14,Debit,POS Purchase,Failed,ATM
+TXN000291,ACC00184,2023-06-14,ATM,1312517.43,Credit,Utilities,Successful,Mobile App
+TXN000292,ACC00128,2024-07-14,ATM,1901816.49,Credit,Medical,Reversed,USSD
+TXN000293,ACC00096,2022-05-26,Transfer,650168.48,Credit,Investment,Successful,ATM
+TXN000294,ACC00232,2023-04-20,Withdrawal,1463224.66,Credit,School Fees,Successful,USSD
+TXN000295,ACC00229,2024-04-29,USSD,1468771.96,Debit,School Fees,Successful,USSD
+TXN000296,ACC00237,2023-10-24,Deposit,1914826.86,Debit,POS Purchase,Successful,ATM
+TXN000297,ACC00093,2023-04-08,Transfer,1138532.29,Debit,Investment,Successful,Internet Banking
+TXN000298,ACC00215,2022-04-03,Withdrawal,423128.04,Credit,Transfer to family,Successful,Branch
+TXN000299,ACC00168,2024-01-10,Deposit,97840.16,Debit,Loan Repayment,Successful,POS
+TXN000300,ACC00201,2023-05-28,Withdrawal,1287466.24,Credit,Airtime,Successful,POS
+TXN000301,ACC00102,2022-04-26,ATM,646680.11,Credit,Business Income,Successful,ATM
+TXN000302,ACC00127,2022-07-04,Bill Payment,111542.28,Debit,Rent,Successful,Mobile App
+TXN000303,ACC00028,2024-03-08,USSD,141912.82,Credit,School Fees,Successful,Mobile App
+TXN000304,ACC00185,2023-08-23,Withdrawal,1903824.43,Debit,Online Shopping,Reversed,Mobile App
+TXN000305,ACC00001,2024-08-18,Bill Payment,763091.16,Credit,Rent,Successful,USSD
+TXN000306,ACC00100,2024-07-04,Withdrawal,798017.56,Credit,Utilities,Successful,Branch
+TXN000307,ACC00178,2023-12-14,Deposit,356432.6,Debit,POS Purchase,Successful,Branch
+TXN000308,ACC00224,2023-07-14,Bill Payment,1930116.09,Credit,ATM Withdrawal,Successful,POS
+TXN000309,ACC00154,2022-05-19,POS,1731098.26,Debit,Airtime,Successful,Branch
+TXN000310,ACC00105,2023-02-07,Bill Payment,178832.02,Debit,Medical,Successful,ATM
+TXN000311,ACC00030,2023-02-28,Deposit,1704765.49,Credit,School Fees,Successful,Branch
+TXN000312,ACC00252,2022-11-28,Bill Payment,326299.9,Credit,Utilities,Successful,Mobile App
+TXN000313,ACC00138,2023-04-07,Withdrawal,1559095.34,Debit,Investment,Successful,ATM
+TXN000314,ACC00231,2022-01-26,Withdrawal,570229.31,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN000315,ACC00208,2022-07-03,POS,1505240.85,Credit,Utilities,Successful,USSD
+TXN000316,ACC00115,2023-04-10,Bill Payment,1308301.57,Debit,Online Shopping,Successful,Mobile App
+TXN000317,ACC00072,2023-08-28,Withdrawal,241643.67,Credit,Transfer to family,Reversed,Branch
+TXN000318,ACC00055,2024-07-07,Bill Payment,981944.77,Credit,ATM Withdrawal,Successful,USSD
+TXN000319,ACC00034,2023-12-31,Transfer,865000.66,Credit,Rent,Successful,ATM
+TXN000320,ACC00239,2024-07-06,Withdrawal,1612803.22,Debit,Business Income,Successful,Internet Banking
+TXN000321,ACC00061,2022-07-26,Bill Payment,620547.56,Credit,Transfer to family,Successful,Internet Banking
+TXN000322,ACC00231,2024-06-22,ATM,1370081.4,Debit,Medical,Successful,POS
+TXN000323,ACC00054,2023-04-11,Withdrawal,263007.69,Debit,Business Income,Failed,Branch
+TXN000324,ACC00095,2022-04-03,ATM,1331207.83,Debit,Online Shopping,Successful,POS
+TXN000325,ACC00213,2022-09-14,Transfer,1664189.72,Debit,Rent,Successful,Internet Banking
+TXN000326,ACC00014,2022-11-28,Transfer,1025550.12,Debit,Airtime,Successful,POS
+TXN000327,ACC00178,2023-12-10,Withdrawal,979501.26,Credit,Online Shopping,Reversed,Mobile App
+TXN000328,ACC00189,2023-10-27,Transfer,1770883.37,Credit,Loan Repayment,Successful,ATM
+TXN000329,ACC00035,2024-07-17,Withdrawal,953141.15,Credit,Online Shopping,Failed,Internet Banking
+TXN000330,ACC00250,2023-12-30,Deposit,1126332.63,Debit,Utilities,Failed,Branch
+TXN000331,ACC00129,2024-03-26,ATM,846429.63,Debit,Salary,Successful,POS
+TXN000332,ACC00166,2022-06-17,POS,1513103.04,Credit,Airtime,Successful,POS
+TXN000333,ACC00142,2024-01-06,Deposit,1622083.22,Credit,Rent,Failed,USSD
+TXN000334,ACC00270,2024-01-21,Transfer,1227928.63,Credit,Transfer to family,Successful,Branch
+TXN000335,ACC00002,2022-05-07,Withdrawal,868494.79,Credit,Salary,Successful,POS
+TXN000336,ACC00207,2022-04-04,Deposit,852321.19,Credit,Airtime,Successful,POS
+TXN000337,ACC00155,2022-04-27,USSD,81355.96,Credit,Business Income,Successful,Branch
+TXN000338,ACC00122,2023-12-25,Bill Payment,683818.82,Credit,School Fees,Successful,USSD
+TXN000339,ACC00164,2023-04-06,Bill Payment,927317.99,Debit,Airtime,Successful,Mobile App
+TXN000340,ACC00259,2023-10-12,Bill Payment,448848.31,Credit,POS Purchase,Successful,Internet Banking
+TXN000341,ACC00219,2023-01-07,Withdrawal,1372629.95,Credit,Transfer to family,Successful,Mobile App
+TXN000342,ACC00255,2022-03-29,USSD,310561.87,Debit,Online Shopping,Successful,USSD
+TXN000343,ACC00194,2023-06-21,Transfer,990896.85,Credit,School Fees,Reversed,USSD
+TXN000344,ACC00049,2023-12-26,Withdrawal,1259304.38,Debit,Online Shopping,Successful,USSD
+TXN000345,ACC00229,2023-01-29,Transfer,1049593.23,Debit,POS Purchase,Successful,Branch
+TXN000346,ACC00029,2024-01-15,POS,581760.7,Credit,ATM Withdrawal,Successful,Branch
+TXN000347,ACC00185,2024-03-21,Withdrawal,874992.36,Debit,Utilities,Successful,ATM
+TXN000348,ACC00170,2024-09-25,USSD,1814461.82,Credit,Rent,Successful,USSD
+TXN000349,ACC00091,2023-06-08,USSD,955483.92,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN000350,ACC00247,2023-09-19,ATM,297638.77,Debit,School Fees,Successful,Internet Banking
+TXN000351,ACC00118,2024-08-30,POS,256015.6,Debit,ATM Withdrawal,Successful,Branch
+TXN000352,ACC00171,2022-06-13,Withdrawal,1805855.79,Credit,School Fees,Successful,ATM
+TXN000353,ACC00194,2023-01-23,POS,1683155.14,Credit,POS Purchase,Successful,Internet Banking
+TXN000354,ACC00070,2023-07-18,POS,1046422.57,Credit,Salary,Successful,ATM
+TXN000355,ACC00112,2023-01-25,USSD,591315.53,Debit,Airtime,Successful,Branch
+TXN000356,ACC00097,2022-02-14,Withdrawal,95932.68,Debit,Transfer to family,Successful,Branch
+TXN000357,ACC00083,2024-02-26,Deposit,153526.77,Debit,POS Purchase,Successful,Internet Banking
+TXN000358,ACC00226,2022-06-24,Bill Payment,90667.26,Debit,Online Shopping,Successful,USSD
+TXN000359,ACC00039,2024-07-23,USSD,215710.53,Debit,Salary,Successful,USSD
+TXN000360,ACC00169,2022-12-10,POS,850114.59,Credit,Business Income,Successful,Branch
+TXN000361,ACC00249,2023-08-03,Bill Payment,189421.48,Debit,ATM Withdrawal,Successful,Branch
+TXN000362,ACC00144,2024-06-11,USSD,1321880.08,Debit,Loan Repayment,Successful,POS
+TXN000363,ACC00237,2023-11-07,Withdrawal,1137172.18,Credit,ATM Withdrawal,Successful,USSD
+TXN000364,ACC00154,2024-06-02,POS,507133.97,Credit,Utilities,Successful,Mobile App
+TXN000365,ACC00088,2022-06-03,Bill Payment,510092.98,Debit,Transfer to family,Successful,Internet Banking
+TXN000366,ACC00207,2022-06-16,USSD,163998.24,Debit,Utilities,Successful,Mobile App
+TXN000367,ACC00156,2024-06-08,Bill Payment,1007137.41,Debit,ATM Withdrawal,Successful,USSD
+TXN000368,ACC00061,2022-05-29,Transfer,228314.01,Credit,Rent,Successful,ATM
+TXN000369,ACC00059,2022-07-03,Deposit,1323325.86,Credit,Medical,Successful,ATM
+TXN000370,ACC00201,2024-02-27,ATM,359514.62,Debit,Transfer to family,Successful,ATM
+TXN000371,ACC00193,2023-12-31,Bill Payment,364825.17,Debit,School Fees,Successful,ATM
+TXN000372,ACC00258,2022-02-22,ATM,786218.2,Debit,Medical,Successful,Mobile App
+TXN000373,ACC00038,2023-03-06,USSD,167039.48,Credit,Airtime,Successful,POS
+TXN000374,ACC00199,2022-11-12,Withdrawal,1753572.32,Credit,School Fees,Successful,Mobile App
+TXN000375,ACC00274,2022-11-13,Withdrawal,595646.21,Debit,ATM Withdrawal,Successful,POS
+TXN000376,ACC00050,2024-01-18,Transfer,1174623.17,Credit,Online Shopping,Reversed,Branch
+TXN000377,ACC00152,2024-02-27,Bill Payment,910268.8,Debit,Business Income,Successful,Mobile App
+TXN000378,ACC00179,2024-09-11,POS,1340684.6,Debit,Salary,Successful,POS
+TXN000379,ACC00199,2023-04-02,Withdrawal,1247808.88,Debit,Business Income,Successful,ATM
+TXN000380,ACC00214,2022-10-23,POS,530516.24,Debit,Utilities,Successful,Mobile App
+TXN000381,ACC00158,2023-10-04,Withdrawal,1933455.89,Credit,Online Shopping,Successful,POS
+TXN000382,ACC00164,2022-07-05,POS,1742753.96,Credit,Utilities,Reversed,Branch
+TXN000383,ACC00264,2022-05-01,Deposit,374789.87,Credit,Online Shopping,Successful,POS
+TXN000384,ACC00199,2024-07-09,Bill Payment,370582.24,Debit,Salary,Successful,ATM
+TXN000385,ACC00189,2022-05-15,Deposit,1494185.12,Credit,Salary,Successful,Branch
+TXN000386,ACC00251,2024-09-10,Deposit,1208303.72,Debit,Medical,Successful,POS
+TXN000387,ACC00150,2022-07-27,Bill Payment,1743295.78,Credit,Transfer to family,Successful,Branch
+TXN000388,ACC00246,2022-01-04,ATM,213108.15,Credit,Utilities,Successful,USSD
+TXN000389,ACC00119,2023-09-30,USSD,1068984.82,Credit,Online Shopping,Successful,Mobile App
+TXN000390,ACC00004,2024-02-23,POS,12191.22,Credit,School Fees,Successful,USSD
+TXN000391,ACC00030,2022-09-17,Deposit,233798.18,Credit,Online Shopping,Successful,Mobile App
+TXN000392,ACC00107,2022-01-13,Bill Payment,343884.83,Debit,Transfer to family,Successful,POS
+TXN000393,ACC00015,2023-04-15,POS,954501.19,Debit,Utilities,Successful,Mobile App
+TXN000394,ACC00016,2023-05-25,Bill Payment,1383766.56,Debit,Medical,Failed,POS
+TXN000395,ACC00075,2024-05-25,Bill Payment,1737626.65,Debit,Loan Repayment,Successful,Mobile App
+TXN000396,ACC00220,2023-05-26,USSD,1931624.71,Debit,Loan Repayment,Successful,POS
+TXN000397,ACC00276,2023-07-11,USSD,1203973.94,Credit,ATM Withdrawal,Failed,Internet Banking
+TXN000398,ACC00192,2024-04-06,ATM,973701.63,Debit,ATM Withdrawal,Successful,POS
+TXN000399,ACC00041,2022-01-06,USSD,1237189.5,Debit,ATM Withdrawal,Successful,Mobile App
+TXN000400,ACC00018,2023-09-15,Deposit,1947856.82,Credit,Online Shopping,Failed,POS
+TXN000401,ACC00220,2024-06-22,Bill Payment,721777.2,Credit,Utilities,Successful,ATM
+TXN000402,ACC00058,2023-05-21,Bill Payment,1347769.38,Debit,Loan Repayment,Successful,POS
+TXN000403,ACC00152,2022-09-01,Withdrawal,1380741.56,Debit,Loan Repayment,Successful,USSD
+TXN000404,ACC00101,2022-08-11,Deposit,790296.98,Credit,Transfer to family,Successful,Internet Banking
+TXN000405,ACC00127,2023-08-26,POS,605661.99,Credit,Airtime,Successful,Mobile App
+TXN000406,ACC00173,2023-11-07,USSD,250616.44,Credit,Utilities,Successful,USSD
+TXN000407,ACC00190,2023-05-03,Deposit,28244.9,Credit,Rent,Successful,ATM
+TXN000408,ACC00158,2023-04-10,ATM,224269.05,Debit,Investment,Successful,Branch
+TXN000409,ACC00063,2023-02-24,ATM,32262.55,Debit,Utilities,Successful,ATM
+TXN000410,ACC00182,2023-03-29,Bill Payment,1941055.47,Credit,POS Purchase,Successful,ATM
+TXN000411,ACC00109,2022-03-23,Withdrawal,1718094.55,Debit,Business Income,Successful,USSD
+TXN000412,ACC00144,2023-09-08,Withdrawal,418854.35,Debit,Transfer to family,Reversed,Internet Banking
+TXN000413,ACC00224,2023-09-07,Transfer,1297422.13,Credit,Loan Repayment,Failed,USSD
+TXN000414,ACC00195,2022-01-07,Transfer,1299654.78,Debit,Medical,Successful,Branch
+TXN000415,ACC00195,2022-09-08,Withdrawal,871859.05,Credit,Transfer to family,Successful,Mobile App
+TXN000416,ACC00014,2024-06-22,ATM,1252305.27,Credit,Loan Repayment,Successful,Internet Banking
+TXN000417,ACC00107,2023-07-15,Deposit,1580128.07,Debit,Salary,Successful,USSD
+TXN000418,ACC00117,2022-10-12,Deposit,382233.45,Debit,Online Shopping,Successful,POS
+TXN000419,ACC00221,2023-09-27,Bill Payment,602185.28,Debit,Rent,Successful,Branch
+TXN000420,ACC00192,2023-10-06,ATM,927119.4,Debit,School Fees,Successful,ATM
+TXN000421,ACC00271,2023-07-25,Transfer,948241.18,Debit,Loan Repayment,Successful,POS
+TXN000422,ACC00016,2024-04-19,Withdrawal,44122.75,Debit,Medical,Successful,USSD
+TXN000423,ACC00209,2024-04-25,ATM,332627.93,Debit,Airtime,Successful,USSD
+TXN000424,ACC00057,2022-08-01,Bill Payment,305268.27,Credit,Loan Repayment,Successful,ATM
+TXN000425,ACC00244,2022-02-20,USSD,1405344.91,Credit,Transfer to family,Successful,Mobile App
+TXN000426,ACC00241,2022-07-09,POS,1927751.81,Debit,Loan Repayment,Successful,ATM
+TXN000427,ACC00125,2022-06-01,ATM,943242.65,Debit,Utilities,Successful,POS
+TXN000428,ACC00064,2022-02-26,POS,1719662.99,Debit,Rent,Successful,Branch
+TXN000429,ACC00178,2023-10-31,Deposit,1170659.93,Debit,POS Purchase,Successful,Mobile App
+TXN000430,ACC00199,2022-12-24,Bill Payment,403076.17,Debit,Business Income,Successful,POS
+TXN000431,ACC00103,2022-02-07,Bill Payment,1139076.21,Debit,Online Shopping,Successful,ATM
+TXN000432,ACC00165,2022-05-29,USSD,1667760.15,Credit,Rent,Successful,Mobile App
+TXN000433,ACC00207,2024-05-24,Withdrawal,102318.9,Debit,Rent,Successful,Mobile App
+TXN000434,ACC00056,2022-02-03,USSD,16244.62,Debit,POS Purchase,Successful,Internet Banking
+TXN000435,ACC00203,2023-11-15,ATM,1261004.56,Debit,Airtime,Successful,Branch
+TXN000436,ACC00055,2023-08-15,Bill Payment,1426329.08,Credit,Rent,Successful,ATM
+TXN000437,ACC00126,2024-05-08,Withdrawal,1958984.13,Credit,Salary,Failed,Internet Banking
+TXN000438,ACC00276,2023-09-10,USSD,1697308.21,Debit,Business Income,Successful,Branch
+TXN000439,ACC00021,2022-11-02,USSD,1474288.09,Credit,Airtime,Successful,Internet Banking
+TXN000440,ACC00270,2022-12-06,Transfer,1191881.18,Debit,ATM Withdrawal,Successful,POS
+TXN000441,ACC00206,2024-07-31,ATM,1108831.9,Debit,POS Purchase,Successful,USSD
+TXN000442,ACC00034,2022-03-31,Bill Payment,581903.68,Credit,Salary,Successful,Branch
+TXN000443,ACC00012,2022-02-20,ATM,975249.28,Debit,Rent,Successful,POS
+TXN000444,ACC00079,2022-04-22,ATM,972458.87,Credit,Transfer to family,Failed,ATM
+TXN000445,ACC00074,2023-03-03,Deposit,1182283.03,Credit,Online Shopping,Successful,USSD
+TXN000446,ACC00046,2022-07-02,USSD,1223184.84,Debit,Rent,Reversed,USSD
+TXN000447,ACC00237,2022-06-15,ATM,1357496.5,Credit,Business Income,Successful,Internet Banking
+TXN000448,ACC00002,2023-11-20,Deposit,1633470.13,Credit,Investment,Successful,POS
+TXN000449,ACC00131,2022-10-19,Bill Payment,976059.04,Credit,Salary,Successful,Branch
+TXN000450,ACC00263,2023-09-18,ATM,1428723.51,Debit,Medical,Reversed,USSD
+TXN000451,ACC00012,2023-11-08,Transfer,1056853.46,Debit,POS Purchase,Successful,POS
+TXN000452,ACC00261,2023-12-10,POS,844298.09,Debit,Airtime,Successful,Internet Banking
+TXN000453,ACC00168,2023-12-18,Deposit,632042.38,Debit,Medical,Successful,Internet Banking
+TXN000454,ACC00217,2023-09-02,Transfer,127489.38,Debit,Salary,Successful,Internet Banking
+TXN000455,ACC00176,2023-08-10,Bill Payment,1785807.95,Debit,Airtime,Successful,Internet Banking
+TXN000456,ACC00237,2024-03-17,USSD,834566.35,Debit,Utilities,Successful,Branch
+TXN000457,ACC00085,2023-07-30,Transfer,946939.27,Credit,Airtime,Failed,Internet Banking
+TXN000458,ACC00222,2022-07-01,ATM,989830.21,Debit,Online Shopping,Successful,Mobile App
+TXN000459,ACC00155,2024-09-16,POS,1877959.47,Debit,Salary,Successful,Mobile App
+TXN000460,ACC00021,2023-04-12,POS,693854.84,Debit,Salary,Successful,POS
+TXN000461,ACC00199,2024-02-07,POS,1395180.12,Credit,Medical,Successful,POS
+TXN000462,ACC00148,2023-08-16,USSD,42103.45,Credit,Business Income,Failed,Mobile App
+TXN000463,ACC00268,2023-01-04,Withdrawal,576377.56,Debit,Transfer to family,Successful,Internet Banking
+TXN000464,ACC00146,2024-08-11,USSD,384806.49,Credit,Utilities,Successful,POS
+TXN000465,ACC00221,2022-02-06,ATM,688022.86,Debit,School Fees,Failed,Branch
+TXN000466,ACC00045,2022-04-06,Deposit,464590.17,Credit,School Fees,Successful,Mobile App
+TXN000467,ACC00153,2024-02-26,POS,439794.84,Credit,Rent,Successful,Branch
+TXN000468,ACC00113,2022-11-03,Transfer,1818185.77,Credit,Investment,Successful,Branch
+TXN000469,ACC00098,2022-11-27,ATM,678636.42,Debit,Rent,Successful,Internet Banking
+TXN000470,ACC00248,2023-01-13,Deposit,1204399.22,Credit,Investment,Successful,USSD
+TXN000471,ACC00186,2024-07-08,POS,1685013.04,Credit,Online Shopping,Successful,Internet Banking
+TXN000472,ACC00093,2023-01-24,ATM,1314087.79,Debit,Online Shopping,Successful,Internet Banking
+TXN000473,ACC00083,2024-04-19,Transfer,262751.55,Credit,Transfer to family,Successful,Branch
+TXN000474,ACC00267,2022-03-11,Deposit,587141.39,Credit,Investment,Successful,Internet Banking
+TXN000475,ACC00174,2024-02-16,Deposit,1422914.68,Debit,Loan Repayment,Successful,ATM
+TXN000476,ACC00133,2023-03-14,Bill Payment,1919626.83,Debit,POS Purchase,Failed,Branch
+TXN000477,ACC00158,2024-05-13,Transfer,1666244.95,Debit,Airtime,Failed,Internet Banking
+TXN000478,ACC00211,2023-07-18,Bill Payment,1346378.03,Credit,Airtime,Successful,Internet Banking
+TXN000479,ACC00182,2022-03-08,POS,1469301.97,Debit,Loan Repayment,Successful,Branch
+TXN000480,ACC00033,2022-10-27,Deposit,1592047.34,Credit,POS Purchase,Successful,Mobile App
+TXN000481,ACC00097,2023-04-28,Transfer,1599610.24,Debit,School Fees,Successful,Internet Banking
+TXN000482,ACC00068,2022-05-18,Transfer,1689140.3,Credit,Transfer to family,Successful,ATM
+TXN000483,ACC00180,2022-05-05,Withdrawal,1243873.84,Debit,Business Income,Successful,Mobile App
+TXN000484,ACC00258,2023-12-13,ATM,565273.2,Credit,Airtime,Successful,ATM
+TXN000485,ACC00069,2024-05-30,POS,1498633.98,Credit,Transfer to family,Successful,Mobile App
+TXN000486,ACC00012,2022-10-09,ATM,1334279.38,Credit,POS Purchase,Successful,ATM
+TXN000487,ACC00248,2022-12-04,Deposit,258628.56,Debit,Airtime,Reversed,USSD
+TXN000488,ACC00107,2023-06-24,POS,399368.7,Debit,Salary,Successful,USSD
+TXN000489,ACC00223,2023-02-28,ATM,1211695.14,Debit,POS Purchase,Successful,Internet Banking
+TXN000490,ACC00032,2023-06-22,USSD,202257.0,Credit,Transfer to family,Successful,ATM
+TXN000491,ACC00072,2022-08-03,Withdrawal,832260.73,Debit,Loan Repayment,Successful,Mobile App
+TXN000492,ACC00203,2023-12-14,Withdrawal,1987537.59,Debit,POS Purchase,Successful,ATM
+TXN000493,ACC00007,2022-08-03,Transfer,607651.96,Credit,School Fees,Successful,ATM
+TXN000494,ACC00145,2023-09-19,Withdrawal,419261.17,Debit,Investment,Successful,ATM
+TXN000495,ACC00216,2022-03-01,POS,94575.15,Credit,Business Income,Successful,Internet Banking
+TXN000496,ACC00145,2022-04-22,Deposit,36752.13,Debit,Medical,Successful,Internet Banking
+TXN000497,ACC00143,2023-08-09,ATM,1761871.76,Credit,Airtime,Successful,ATM
+TXN000498,ACC00137,2024-01-18,Bill Payment,714409.23,Credit,Online Shopping,Successful,POS
+TXN000499,ACC00084,2024-09-29,ATM,317631.63,Credit,Transfer to family,Successful,Mobile App
+TXN000500,ACC00183,2023-10-07,USSD,1655983.4,Debit,Business Income,Successful,Mobile App
+TXN000501,ACC00090,2023-06-26,POS,1788967.71,Debit,School Fees,Successful,Internet Banking
+TXN000502,ACC00024,2022-03-31,USSD,64424.03,Credit,Loan Repayment,Successful,POS
+TXN000503,ACC00027,2023-05-11,ATM,127799.34,Debit,Business Income,Successful,POS
+TXN000504,ACC00273,2024-01-12,Withdrawal,861525.61,Debit,Salary,Successful,USSD
+TXN000505,ACC00217,2023-12-07,USSD,1235317.06,Credit,Rent,Successful,POS
+TXN000506,ACC00150,2023-09-12,ATM,241815.72,Debit,ATM Withdrawal,Successful,Mobile App
+TXN000507,ACC00176,2024-08-14,USSD,448579.23,Credit,Utilities,Successful,Internet Banking
+TXN000508,ACC00060,2024-03-18,Withdrawal,516015.37,Debit,Business Income,Successful,Internet Banking
+TXN000509,ACC00177,2023-12-25,Transfer,680978.27,Debit,Rent,Successful,Mobile App
+TXN000510,ACC00060,2022-10-22,Transfer,710804.33,Debit,POS Purchase,Successful,ATM
+TXN000511,ACC00192,2023-03-14,Transfer,93829.38,Credit,Airtime,Successful,USSD
+TXN000512,ACC00234,2023-09-16,POS,1755488.44,Credit,Salary,Reversed,POS
+TXN000513,ACC00058,2024-05-18,ATM,535348.73,Debit,Utilities,Successful,Branch
+TXN000514,ACC00233,2022-11-21,Bill Payment,302781.16,Credit,Medical,Successful,USSD
+TXN000515,ACC00247,2022-09-23,Transfer,1380426.1,Credit,Loan Repayment,Successful,Branch
+TXN000516,ACC00208,2023-06-23,Deposit,1031017.19,Credit,Loan Repayment,Successful,ATM
+TXN000517,ACC00122,2023-08-12,Deposit,1339137.04,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN000518,ACC00229,2023-10-01,Transfer,1412956.63,Debit,POS Purchase,Successful,Internet Banking
+TXN000519,ACC00021,2022-12-29,Transfer,1853300.88,Debit,Utilities,Successful,Mobile App
+TXN000520,ACC00193,2024-08-07,Bill Payment,875934.5,Credit,Loan Repayment,Successful,POS
+TXN000521,ACC00007,2022-05-13,Bill Payment,914542.71,Credit,Online Shopping,Successful,Branch
+TXN000522,ACC00201,2023-09-22,POS,1683273.15,Debit,Utilities,Successful,ATM
+TXN000523,ACC00011,2023-07-31,POS,222306.22,Credit,ATM Withdrawal,Successful,Branch
+TXN000524,ACC00021,2023-05-24,USSD,212230.77,Credit,Business Income,Reversed,POS
+TXN000525,ACC00050,2023-06-17,Deposit,1221339.8,Credit,Online Shopping,Successful,Mobile App
+TXN000526,ACC00071,2024-01-17,Bill Payment,1564421.44,Debit,Transfer to family,Successful,ATM
+TXN000527,ACC00020,2023-10-10,ATM,1894793.3,Credit,Business Income,Successful,Mobile App
+TXN000528,ACC00231,2023-05-25,POS,1647308.65,Debit,Business Income,Failed,Mobile App
+TXN000529,ACC00256,2023-05-20,ATM,84417.89,Debit,School Fees,Successful,ATM
+TXN000530,ACC00115,2024-04-07,USSD,211269.46,Debit,Airtime,Failed,ATM
+TXN000531,ACC00127,2022-07-04,POS,1260037.27,Debit,School Fees,Reversed,ATM
+TXN000532,ACC00114,2024-06-23,Transfer,1741803.51,Credit,Rent,Successful,Mobile App
+TXN000533,ACC00089,2023-09-17,Bill Payment,1822016.05,Credit,Transfer to family,Successful,Branch
+TXN000534,ACC00110,2022-08-27,POS,314486.58,Debit,Business Income,Successful,Branch
+TXN000535,ACC00034,2023-12-27,Transfer,584599.91,Credit,POS Purchase,Successful,Branch
+TXN000536,ACC00002,2022-10-25,USSD,883315.06,Debit,POS Purchase,Reversed,Mobile App
+TXN000537,ACC00202,2024-09-29,ATM,1012040.29,Credit,ATM Withdrawal,Successful,ATM
+TXN000538,ACC00018,2022-07-18,ATM,1465237.51,Credit,Medical,Failed,USSD
+TXN000539,ACC00209,2022-01-02,USSD,199038.83,Debit,ATM Withdrawal,Successful,Branch
+TXN000540,ACC00013,2022-05-02,Deposit,1294362.4,Credit,Transfer to family,Successful,Internet Banking
+TXN000541,ACC00238,2022-01-25,Withdrawal,669547.75,Credit,Transfer to family,Failed,USSD
+TXN000542,ACC00101,2023-04-22,Bill Payment,275976.04,Credit,Utilities,Successful,Mobile App
+TXN000543,ACC00141,2023-10-03,Deposit,1697265.89,Credit,Salary,Successful,USSD
+TXN000544,ACC00082,2024-03-26,Deposit,878497.37,Credit,Medical,Successful,USSD
+TXN000545,ACC00193,2022-05-01,Bill Payment,831791.8,Credit,School Fees,Successful,ATM
+TXN000546,ACC00170,2024-01-26,Withdrawal,1538181.81,Debit,Loan Repayment,Successful,ATM
+TXN000547,ACC00079,2024-05-18,Transfer,491009.47,Credit,POS Purchase,Successful,Mobile App
+TXN000548,ACC00260,2022-08-01,Deposit,1618385.86,Debit,Medical,Successful,Branch
+TXN000549,ACC00107,2024-03-29,Deposit,682969.48,Credit,Online Shopping,Successful,USSD
+TXN000550,ACC00231,2023-09-23,Withdrawal,1010292.95,Credit,ATM Withdrawal,Successful,USSD
+TXN000551,ACC00009,2023-03-01,Transfer,170925.11,Credit,Investment,Successful,Branch
+TXN000552,ACC00044,2023-02-28,Deposit,745186.5,Debit,Airtime,Successful,Mobile App
+TXN000553,ACC00062,2022-02-16,ATM,1509813.0,Debit,Medical,Successful,Internet Banking
+TXN000554,ACC00210,2022-12-08,Withdrawal,721606.49,Debit,Investment,Successful,Internet Banking
+TXN000555,ACC00224,2022-12-25,Bill Payment,1330158.01,Debit,Investment,Successful,Internet Banking
+TXN000556,ACC00238,2023-07-28,Withdrawal,303646.62,Debit,POS Purchase,Successful,POS
+TXN000557,ACC00083,2024-04-05,USSD,1507137.59,Debit,Transfer to family,Successful,Mobile App
+TXN000558,ACC00178,2023-10-15,Withdrawal,843733.56,Debit,Online Shopping,Successful,Internet Banking
+TXN000559,ACC00084,2022-08-06,POS,456749.92,Debit,Salary,Successful,POS
+TXN000560,ACC00249,2022-01-12,ATM,1603636.47,Credit,Airtime,Successful,Internet Banking
+TXN000561,ACC00271,2023-10-18,Deposit,827112.13,Credit,Business Income,Successful,Internet Banking
+TXN000562,ACC00243,2022-07-26,Transfer,818913.98,Debit,Rent,Successful,USSD
+TXN000563,ACC00182,2023-12-08,Bill Payment,917776.75,Credit,Airtime,Successful,ATM
+TXN000564,ACC00269,2022-10-16,ATM,1704854.76,Debit,Business Income,Successful,Mobile App
+TXN000565,ACC00004,2022-09-18,POS,1589317.39,Credit,Rent,Successful,Mobile App
+TXN000566,ACC00245,2024-03-20,Withdrawal,723867.85,Credit,School Fees,Successful,POS
+TXN000567,ACC00040,2022-03-11,Bill Payment,60010.97,Debit,Transfer to family,Successful,Internet Banking
+TXN000568,ACC00012,2022-11-12,Transfer,291595.82,Credit,Medical,Failed,USSD
+TXN000569,ACC00161,2022-11-04,Bill Payment,20392.45,Debit,School Fees,Successful,USSD
+TXN000570,ACC00111,2023-06-03,Bill Payment,1612590.61,Debit,Business Income,Failed,Branch
+TXN000571,ACC00154,2023-07-18,ATM,1887313.86,Debit,Rent,Successful,Branch
+TXN000572,ACC00024,2022-11-28,ATM,170014.04,Credit,Transfer to family,Successful,POS
+TXN000573,ACC00059,2024-02-25,Deposit,629951.74,Credit,Airtime,Successful,ATM
+TXN000574,ACC00208,2022-01-07,Transfer,1963898.88,Debit,Transfer to family,Reversed,Internet Banking
+TXN000575,ACC00204,2022-04-27,Withdrawal,329067.2,Debit,Online Shopping,Successful,ATM
+TXN000576,ACC00060,2023-12-04,Deposit,123405.92,Credit,Investment,Successful,Internet Banking
+TXN000577,ACC00254,2022-12-08,Deposit,1518505.17,Debit,Transfer to family,Successful,Internet Banking
+TXN000578,ACC00239,2022-12-16,USSD,1320522.26,Debit,Salary,Reversed,POS
+TXN000579,ACC00040,2023-02-10,USSD,1283110.78,Debit,Airtime,Successful,Internet Banking
+TXN000580,ACC00052,2024-01-12,Withdrawal,1805071.01,Debit,Salary,Successful,USSD
+TXN000581,ACC00173,2023-08-06,USSD,116090.75,Credit,Utilities,Successful,USSD
+TXN000582,ACC00071,2023-09-23,POS,1263399.32,Debit,Transfer to family,Successful,Internet Banking
+TXN000583,ACC00033,2024-09-10,ATM,1426882.35,Credit,Medical,Successful,Branch
+TXN000584,ACC00188,2022-01-30,Transfer,1320893.08,Debit,Online Shopping,Failed,Mobile App
+TXN000585,ACC00159,2024-05-02,Bill Payment,1039796.84,Credit,Salary,Successful,Internet Banking
+TXN000586,ACC00016,2022-06-29,POS,591800.99,Credit,Airtime,Successful,Mobile App
+TXN000587,ACC00211,2022-07-18,Transfer,804304.63,Credit,Transfer to family,Failed,ATM
+TXN000588,ACC00278,2022-12-05,ATM,1361900.88,Debit,Salary,Successful,Internet Banking
+TXN000589,ACC00154,2024-05-03,ATM,1107444.05,Credit,ATM Withdrawal,Successful,Branch
+TXN000590,ACC00181,2022-12-13,USSD,608993.88,Debit,POS Purchase,Successful,ATM
+TXN000591,ACC00021,2024-08-02,Transfer,1485523.66,Credit,Business Income,Successful,USSD
+TXN000592,ACC00189,2023-11-20,Bill Payment,1818507.09,Debit,Salary,Reversed,Branch
+TXN000593,ACC00071,2023-05-06,POS,16300.52,Debit,Salary,Reversed,Branch
+TXN000594,ACC00056,2024-07-27,ATM,559921.6,Credit,Transfer to family,Successful,POS
+TXN000595,ACC00163,2023-05-01,ATM,1055819.58,Credit,Rent,Successful,Branch
+TXN000596,ACC00267,2024-03-27,POS,1840940.96,Credit,POS Purchase,Failed,Mobile App
+TXN000597,ACC00100,2022-02-06,USSD,1400739.98,Credit,Transfer to family,Successful,Mobile App
+TXN000598,ACC00188,2023-10-24,POS,892655.01,Credit,Investment,Successful,Branch
+TXN000599,ACC00066,2022-05-20,Bill Payment,410664.58,Debit,School Fees,Successful,Mobile App
+TXN000600,ACC00080,2023-05-09,Bill Payment,1089078.37,Debit,Business Income,Successful,ATM
+TXN000601,ACC00020,2022-06-09,Transfer,1576788.99,Credit,Investment,Successful,Mobile App
+TXN000602,ACC00055,2023-10-05,POS,1304248.16,Debit,School Fees,Successful,USSD
+TXN000603,ACC00137,2023-04-17,Withdrawal,1395093.2,Credit,Rent,Failed,Internet Banking
+TXN000604,ACC00092,2024-07-02,USSD,1775405.96,Debit,Online Shopping,Successful,ATM
+TXN000605,ACC00185,2024-06-04,Transfer,1563235.4,Credit,Loan Repayment,Successful,Mobile App
+TXN000606,ACC00195,2023-07-04,Withdrawal,809309.16,Credit,Transfer to family,Successful,POS
+TXN000607,ACC00043,2024-07-06,USSD,394992.86,Debit,Rent,Failed,ATM
+TXN000608,ACC00159,2022-12-10,Transfer,603412.06,Credit,Loan Repayment,Reversed,POS
+TXN000609,ACC00227,2023-04-19,Withdrawal,74421.86,Debit,Utilities,Successful,USSD
+TXN000610,ACC00269,2024-03-13,Bill Payment,669318.6,Credit,ATM Withdrawal,Successful,POS
+TXN000611,ACC00048,2024-04-13,Transfer,1450334.82,Credit,Medical,Failed,Internet Banking
+TXN000612,ACC00088,2023-02-28,Transfer,1480234.42,Credit,Online Shopping,Failed,Internet Banking
+TXN000613,ACC00220,2024-08-08,USSD,252448.29,Credit,Transfer to family,Failed,Mobile App
+TXN000614,ACC00200,2024-01-31,USSD,1983851.98,Debit,Utilities,Successful,Mobile App
+TXN000615,ACC00180,2022-02-27,Deposit,568213.76,Debit,Salary,Failed,Branch
+TXN000616,ACC00078,2024-05-05,Withdrawal,186092.73,Credit,Airtime,Reversed,Internet Banking
+TXN000617,ACC00101,2023-06-18,Transfer,1103795.81,Debit,POS Purchase,Successful,Mobile App
+TXN000618,ACC00191,2022-11-03,Transfer,1042911.06,Credit,Utilities,Successful,ATM
+TXN000619,ACC00093,2023-08-02,Bill Payment,1514214.13,Credit,Investment,Successful,Mobile App
+TXN000620,ACC00135,2024-01-13,Withdrawal,320474.67,Debit,Business Income,Successful,Mobile App
+TXN000621,ACC00125,2023-11-26,POS,56268.5,Debit,Business Income,Successful,ATM
+TXN000622,ACC00217,2022-11-20,Withdrawal,1593299.1,Credit,ATM Withdrawal,Successful,ATM
+TXN000623,ACC00137,2023-07-23,ATM,1185210.95,Credit,ATM Withdrawal,Successful,ATM
+TXN000624,ACC00031,2023-07-03,POS,483058.89,Debit,ATM Withdrawal,Failed,POS
+TXN000625,ACC00181,2022-01-20,Transfer,1548428.5,Debit,Online Shopping,Successful,ATM
+TXN000626,ACC00023,2022-08-02,Withdrawal,1453155.24,Debit,Transfer to family,Successful,Internet Banking
+TXN000627,ACC00079,2023-08-15,Withdrawal,1973915.92,Credit,Transfer to family,Successful,POS
+TXN000628,ACC00232,2023-12-03,USSD,221328.59,Debit,Medical,Successful,USSD
+TXN000629,ACC00250,2022-12-06,ATM,120361.5,Credit,Transfer to family,Successful,Mobile App
+TXN000630,ACC00056,2024-03-29,ATM,746271.25,Debit,Rent,Successful,Branch
+TXN000631,ACC00206,2024-07-27,ATM,1254165.57,Debit,Medical,Successful,ATM
+TXN000632,ACC00176,2024-06-28,USSD,709269.46,Credit,ATM Withdrawal,Successful,ATM
+TXN000633,ACC00204,2024-03-25,Withdrawal,95941.88,Debit,Business Income,Successful,Branch
+TXN000634,ACC00250,2022-12-29,Withdrawal,1302099.36,Credit,POS Purchase,Successful,Internet Banking
+TXN000635,ACC00238,2022-03-09,Withdrawal,249937.24,Credit,Investment,Successful,Branch
+TXN000636,ACC00177,2024-09-19,Deposit,596273.24,Credit,Medical,Successful,USSD
+TXN000637,ACC00228,2022-06-02,Deposit,1473848.96,Credit,Rent,Reversed,POS
+TXN000638,ACC00163,2022-10-15,Transfer,906567.75,Credit,Business Income,Successful,Branch
+TXN000639,ACC00216,2024-05-10,POS,1965909.65,Credit,Investment,Successful,POS
+TXN000640,ACC00060,2022-02-01,Withdrawal,1610872.43,Debit,Utilities,Successful,USSD
+TXN000641,ACC00011,2022-12-14,Bill Payment,1978005.66,Credit,Transfer to family,Successful,USSD
+TXN000642,ACC00073,2023-01-20,Transfer,1131411.65,Debit,Rent,Successful,Mobile App
+TXN000643,ACC00251,2023-10-04,Transfer,1788730.63,Credit,ATM Withdrawal,Successful,ATM
+TXN000644,ACC00152,2023-07-02,Withdrawal,1255674.83,Credit,School Fees,Successful,ATM
+TXN000645,ACC00184,2024-05-12,Withdrawal,1066810.67,Debit,Utilities,Successful,USSD
+TXN000646,ACC00042,2022-06-19,POS,1191300.05,Debit,Transfer to family,Successful,POS
+TXN000647,ACC00110,2023-08-08,ATM,700999.1,Credit,Transfer to family,Successful,Internet Banking
+TXN000648,ACC00250,2023-09-13,Deposit,569428.72,Credit,Online Shopping,Successful,Internet Banking
+TXN000649,ACC00166,2023-02-03,ATM,1569686.13,Debit,Transfer to family,Successful,Internet Banking
+TXN000650,ACC00241,2022-07-11,Transfer,1429851.51,Credit,Medical,Successful,POS
+TXN000651,ACC00038,2023-09-02,Transfer,1345031.39,Debit,Business Income,Successful,Internet Banking
+TXN000652,ACC00141,2022-04-30,Withdrawal,1428844.78,Debit,Airtime,Successful,Internet Banking
+TXN000653,ACC00026,2024-06-04,Transfer,1039573.46,Debit,School Fees,Successful,Internet Banking
+TXN000654,ACC00102,2024-03-12,Bill Payment,495642.85,Credit,Rent,Successful,USSD
+TXN000655,ACC00003,2024-02-09,POS,656030.0,Debit,ATM Withdrawal,Failed,Mobile App
+TXN000656,ACC00067,2022-11-12,Withdrawal,1164946.91,Debit,Investment,Successful,USSD
+TXN000657,ACC00270,2023-12-24,POS,1645774.02,Credit,ATM Withdrawal,Successful,Mobile App
+TXN000658,ACC00275,2024-05-28,Transfer,722854.43,Credit,Online Shopping,Reversed,USSD
+TXN000659,ACC00192,2022-11-19,Deposit,196426.67,Credit,Rent,Successful,ATM
+TXN000660,ACC00213,2023-12-28,Deposit,1423425.02,Debit,School Fees,Successful,Branch
+TXN000661,ACC00040,2022-02-02,Bill Payment,1656961.04,Debit,Airtime,Successful,POS
+TXN000662,ACC00045,2022-10-06,Bill Payment,164353.35,Debit,Loan Repayment,Successful,Mobile App
+TXN000663,ACC00159,2023-02-28,USSD,124856.25,Credit,POS Purchase,Successful,Internet Banking
+TXN000664,ACC00159,2022-03-30,Withdrawal,1777074.34,Credit,School Fees,Successful,Internet Banking
+TXN000665,ACC00245,2023-05-24,Bill Payment,952768.02,Debit,Business Income,Successful,Branch
+TXN000666,ACC00041,2024-06-17,Transfer,892605.09,Credit,Loan Repayment,Reversed,Internet Banking
+TXN000667,ACC00205,2022-09-01,Withdrawal,738903.79,Credit,POS Purchase,Successful,USSD
+TXN000668,ACC00263,2023-01-16,Deposit,1052748.08,Credit,Airtime,Successful,USSD
+TXN000669,ACC00012,2023-04-08,ATM,1176684.8,Debit,POS Purchase,Successful,Branch
+TXN000670,ACC00214,2024-04-29,POS,1038130.53,Credit,ATM Withdrawal,Reversed,Branch
+TXN000671,ACC00065,2024-08-31,POS,789867.56,Credit,Airtime,Successful,USSD
+TXN000672,ACC00075,2022-11-06,Transfer,527755.57,Credit,ATM Withdrawal,Successful,ATM
+TXN000673,ACC00066,2022-08-10,ATM,997905.2,Debit,ATM Withdrawal,Successful,USSD
+TXN000674,ACC00188,2023-06-22,ATM,847132.68,Debit,Airtime,Successful,POS
+TXN000675,ACC00146,2022-11-06,Transfer,880439.87,Debit,Salary,Successful,POS
+TXN000676,ACC00222,2022-06-29,Bill Payment,1862105.7,Debit,School Fees,Reversed,POS
+TXN000677,ACC00109,2022-04-25,Transfer,979337.36,Debit,Salary,Successful,POS
+TXN000678,ACC00258,2023-01-19,USSD,1946558.33,Debit,Investment,Successful,Branch
+TXN000679,ACC00247,2024-03-14,POS,1647711.75,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN000680,ACC00012,2022-02-08,ATM,289120.19,Debit,Online Shopping,Failed,Branch
+TXN000681,ACC00182,2024-03-07,Withdrawal,254684.39,Debit,Investment,Successful,ATM
+TXN000682,ACC00029,2022-07-26,USSD,1422445.56,Debit,Rent,Successful,Branch
+TXN000683,ACC00272,2024-07-24,POS,259205.68,Credit,Medical,Successful,USSD
+TXN000684,ACC00178,2022-04-05,ATM,1409197.11,Credit,Transfer to family,Successful,Internet Banking
+TXN000685,ACC00077,2023-03-31,Bill Payment,1726611.68,Debit,Investment,Successful,POS
+TXN000686,ACC00208,2023-06-03,Transfer,236557.29,Credit,Utilities,Successful,USSD
+TXN000687,ACC00163,2022-01-26,ATM,425678.76,Credit,Medical,Successful,Mobile App
+TXN000688,ACC00160,2024-03-29,Deposit,946974.45,Credit,School Fees,Successful,USSD
+TXN000689,ACC00106,2023-05-10,ATM,1493119.36,Credit,POS Purchase,Successful,ATM
+TXN000690,ACC00106,2024-07-15,Bill Payment,1888167.09,Credit,Rent,Successful,USSD
+TXN000691,ACC00165,2023-05-28,Deposit,738979.45,Debit,Medical,Successful,Mobile App
+TXN000692,ACC00252,2022-06-07,Withdrawal,1903667.59,Credit,School Fees,Successful,Internet Banking
+TXN000693,ACC00022,2022-07-14,ATM,1203399.63,Debit,Medical,Failed,Internet Banking
+TXN000694,ACC00071,2022-12-15,POS,817535.41,Debit,Transfer to family,Successful,Mobile App
+TXN000695,ACC00273,2024-08-03,Deposit,242172.42,Debit,Salary,Successful,Internet Banking
+TXN000696,ACC00063,2023-05-11,Transfer,1143743.63,Debit,Investment,Successful,USSD
+TXN000697,ACC00114,2024-01-21,Deposit,81044.14,Credit,ATM Withdrawal,Successful,Mobile App
+TXN000698,ACC00229,2024-06-13,Bill Payment,307032.37,Debit,Rent,Successful,Internet Banking
+TXN000699,ACC00097,2023-06-21,POS,743248.97,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN000700,ACC00222,2022-11-14,USSD,1982044.69,Debit,Business Income,Successful,ATM
+TXN000701,ACC00249,2024-03-05,Withdrawal,606868.54,Credit,Salary,Failed,Branch
+TXN000702,ACC00002,2022-12-02,Bill Payment,972108.12,Debit,Airtime,Successful,Mobile App
+TXN000703,ACC00247,2022-05-27,Transfer,1582511.8,Credit,Investment,Successful,POS
+TXN000704,ACC00124,2024-02-27,Deposit,284708.54,Debit,Investment,Reversed,ATM
+TXN000705,ACC00065,2024-06-11,Transfer,1179453.68,Debit,School Fees,Successful,ATM
+TXN000706,ACC00145,2022-04-11,Deposit,97777.77,Debit,Airtime,Reversed,Branch
+TXN000707,ACC00079,2024-04-21,POS,1788558.73,Debit,Salary,Successful,Internet Banking
+TXN000708,ACC00043,2024-08-18,ATM,1778169.88,Debit,Online Shopping,Successful,USSD
+TXN000709,ACC00045,2023-06-13,Withdrawal,431555.12,Debit,Salary,Successful,POS
+TXN000710,ACC00169,2023-11-24,POS,1638340.58,Debit,Transfer to family,Successful,ATM
+TXN000711,ACC00229,2022-05-16,POS,977842.92,Credit,Business Income,Successful,ATM
+TXN000712,ACC00186,2022-07-30,Withdrawal,245094.65,Debit,Online Shopping,Reversed,Internet Banking
+TXN000713,ACC00117,2024-01-12,USSD,697623.56,Credit,POS Purchase,Successful,ATM
+TXN000714,ACC00093,2022-02-07,USSD,1740917.86,Debit,Medical,Failed,POS
+TXN000715,ACC00032,2023-04-16,Transfer,835441.52,Debit,Online Shopping,Successful,Branch
+TXN000716,ACC00190,2023-02-01,Withdrawal,1146331.65,Credit,Transfer to family,Successful,POS
+TXN000717,ACC00135,2024-01-01,Deposit,1131745.07,Debit,Medical,Failed,ATM
+TXN000718,ACC00166,2024-06-04,Deposit,1800624.43,Debit,Airtime,Reversed,Mobile App
+TXN000719,ACC00182,2023-06-19,POS,1562808.02,Debit,Loan Repayment,Successful,USSD
+TXN000720,ACC00116,2022-04-29,USSD,950717.48,Debit,POS Purchase,Successful,Branch
+TXN000721,ACC00069,2022-01-05,Bill Payment,1440206.97,Credit,Salary,Successful,USSD
+TXN000722,ACC00036,2022-11-15,ATM,1211616.57,Credit,Online Shopping,Successful,POS
+TXN000723,ACC00166,2024-08-12,ATM,1524021.49,Credit,Loan Repayment,Reversed,Branch
+TXN000724,ACC00038,2022-02-15,Deposit,1009775.34,Debit,Medical,Successful,Branch
+TXN000725,ACC00144,2023-12-05,POS,922141.86,Debit,Business Income,Successful,Internet Banking
+TXN000726,ACC00250,2024-05-18,Bill Payment,900133.82,Credit,School Fees,Successful,Branch
+TXN000727,ACC00042,2023-09-01,Withdrawal,898424.94,Credit,Loan Repayment,Successful,Branch
+TXN000728,ACC00047,2024-06-11,Bill Payment,1732757.93,Credit,Loan Repayment,Successful,ATM
+TXN000729,ACC00259,2022-03-31,Transfer,650769.96,Debit,Salary,Failed,POS
+TXN000730,ACC00145,2022-12-08,POS,1599723.34,Credit,Loan Repayment,Successful,ATM
+TXN000731,ACC00114,2023-04-24,POS,1329172.37,Debit,Utilities,Successful,USSD
+TXN000732,ACC00272,2024-06-29,POS,819551.84,Credit,School Fees,Successful,Mobile App
+TXN000733,ACC00179,2022-02-17,Deposit,466028.16,Debit,Rent,Successful,USSD
+TXN000734,ACC00246,2022-04-16,ATM,791096.56,Credit,School Fees,Successful,Branch
+TXN000735,ACC00204,2023-06-18,Transfer,1082218.4,Credit,Loan Repayment,Successful,POS
+TXN000736,ACC00230,2024-02-24,Bill Payment,1916179.94,Credit,Airtime,Successful,Branch
+TXN000737,ACC00266,2023-11-06,Withdrawal,1780141.31,Credit,Rent,Successful,Mobile App
+TXN000738,ACC00061,2024-02-03,ATM,1471957.63,Credit,Utilities,Reversed,Branch
+TXN000739,ACC00170,2022-11-16,USSD,1292010.1,Debit,Business Income,Successful,ATM
+TXN000740,ACC00132,2022-01-24,Bill Payment,1731974.17,Credit,Business Income,Successful,USSD
+TXN000741,ACC00135,2023-08-15,Transfer,1414563.65,Debit,Rent,Successful,Mobile App
+TXN000742,ACC00062,2024-02-16,Bill Payment,1144203.59,Debit,Transfer to family,Successful,POS
+TXN000743,ACC00116,2022-11-16,Transfer,1592419.48,Debit,Business Income,Successful,Internet Banking
+TXN000744,ACC00040,2023-10-17,Deposit,1414944.0,Debit,Transfer to family,Successful,Mobile App
+TXN000745,ACC00164,2024-07-02,Transfer,1122308.19,Debit,Loan Repayment,Reversed,Internet Banking
+TXN000746,ACC00215,2022-08-03,Transfer,248001.33,Credit,Salary,Failed,ATM
+TXN000747,ACC00175,2022-11-25,Transfer,1118925.97,Debit,Investment,Successful,Mobile App
+TXN000748,ACC00144,2022-07-25,Transfer,385257.25,Credit,Airtime,Successful,Mobile App
+TXN000749,ACC00047,2022-07-17,Bill Payment,1237598.76,Credit,Medical,Reversed,POS
+TXN000750,ACC00192,2022-10-21,USSD,1153922.74,Credit,Loan Repayment,Successful,USSD
+TXN000751,ACC00259,2022-10-11,POS,106222.33,Debit,Utilities,Successful,Branch
+TXN000752,ACC00168,2023-06-30,Deposit,1140703.64,Credit,Online Shopping,Failed,Internet Banking
+TXN000753,ACC00020,2022-11-23,Withdrawal,379197.05,Debit,Online Shopping,Successful,Branch
+TXN000754,ACC00106,2024-03-02,ATM,951933.47,Credit,Salary,Successful,Branch
+TXN000755,ACC00038,2023-03-28,Bill Payment,1793780.13,Credit,Rent,Successful,ATM
+TXN000756,ACC00005,2023-11-19,ATM,241006.21,Credit,Medical,Reversed,ATM
+TXN000757,ACC00147,2022-05-01,Bill Payment,1872395.53,Credit,Online Shopping,Successful,POS
+TXN000758,ACC00255,2022-10-07,USSD,359896.93,Credit,School Fees,Successful,Mobile App
+TXN000759,ACC00192,2022-06-02,Bill Payment,38437.68,Debit,Online Shopping,Reversed,POS
+TXN000760,ACC00232,2022-06-11,Transfer,1573620.71,Debit,Utilities,Reversed,Internet Banking
+TXN000761,ACC00170,2022-10-08,Withdrawal,490950.75,Debit,Utilities,Successful,ATM
+TXN000762,ACC00050,2022-04-28,USSD,1411382.6,Debit,Online Shopping,Successful,POS
+TXN000763,ACC00253,2022-01-16,ATM,1775367.83,Credit,Airtime,Successful,Internet Banking
+TXN000764,ACC00168,2024-09-08,Bill Payment,888736.82,Credit,Salary,Successful,Internet Banking
+TXN000765,ACC00246,2023-09-30,ATM,1613938.59,Credit,School Fees,Successful,USSD
+TXN000766,ACC00149,2023-07-28,Bill Payment,1213906.21,Credit,Airtime,Successful,Internet Banking
+TXN000767,ACC00211,2023-06-11,Withdrawal,803894.83,Debit,ATM Withdrawal,Successful,Mobile App
+TXN000768,ACC00027,2022-04-15,USSD,90444.8,Credit,Salary,Successful,Internet Banking
+TXN000769,ACC00185,2022-07-31,POS,1724017.68,Debit,Online Shopping,Successful,USSD
+TXN000770,ACC00253,2023-07-10,POS,47014.87,Credit,Transfer to family,Successful,USSD
+TXN000771,ACC00152,2022-12-25,Deposit,874316.33,Debit,ATM Withdrawal,Successful,Branch
+TXN000772,ACC00001,2023-07-17,Withdrawal,830165.38,Debit,Airtime,Failed,POS
+TXN000773,ACC00263,2022-11-23,Withdrawal,1719367.0,Debit,Rent,Successful,POS
+TXN000774,ACC00190,2022-10-05,Transfer,635106.18,Debit,Utilities,Successful,Internet Banking
+TXN000775,ACC00121,2022-05-25,Bill Payment,514727.0,Debit,School Fees,Successful,POS
+TXN000776,ACC00118,2024-08-23,USSD,229731.93,Debit,Transfer to family,Successful,POS
+TXN000777,ACC00245,2023-12-23,POS,199117.6,Debit,Medical,Reversed,POS
+TXN000778,ACC00196,2024-04-03,Transfer,336727.91,Credit,Business Income,Successful,Mobile App
+TXN000779,ACC00121,2022-10-18,Deposit,288496.49,Debit,Airtime,Successful,POS
+TXN000780,ACC00263,2023-08-11,POS,511481.27,Debit,Business Income,Successful,Branch
+TXN000781,ACC00135,2022-09-08,USSD,179712.31,Credit,Medical,Successful,POS
+TXN000782,ACC00216,2022-06-25,Bill Payment,613935.04,Credit,Online Shopping,Successful,Internet Banking
+TXN000783,ACC00099,2022-03-14,Deposit,814849.23,Credit,ATM Withdrawal,Successful,USSD
+TXN000784,ACC00226,2022-11-15,Deposit,338797.5,Debit,Rent,Successful,POS
+TXN000785,ACC00255,2023-09-20,Bill Payment,1229143.62,Debit,Business Income,Successful,Internet Banking
+TXN000786,ACC00235,2024-07-02,ATM,650918.75,Debit,Salary,Failed,Branch
+TXN000787,ACC00162,2022-12-13,Transfer,54828.8,Debit,Rent,Successful,Internet Banking
+TXN000788,ACC00120,2023-07-08,Bill Payment,117474.31,Debit,Rent,Failed,Mobile App
+TXN000789,ACC00072,2023-03-31,Withdrawal,780184.45,Credit,Loan Repayment,Successful,USSD
+TXN000790,ACC00215,2022-02-21,POS,640422.91,Credit,Business Income,Successful,Internet Banking
+TXN000791,ACC00255,2022-05-14,Bill Payment,825939.21,Credit,Utilities,Successful,USSD
+TXN000792,ACC00024,2022-01-30,ATM,648773.47,Credit,Rent,Successful,USSD
+TXN000793,ACC00168,2023-04-28,POS,751338.56,Credit,School Fees,Successful,POS
+TXN000794,ACC00153,2024-07-13,USSD,1655568.93,Debit,Loan Repayment,Successful,Internet Banking
+TXN000795,ACC00073,2023-11-23,Withdrawal,242372.04,Credit,Loan Repayment,Successful,USSD
+TXN000796,ACC00002,2022-02-21,Withdrawal,405517.64,Debit,School Fees,Successful,Internet Banking
+TXN000797,ACC00209,2022-04-19,Withdrawal,1504391.41,Credit,Utilities,Failed,POS
+TXN000798,ACC00002,2023-01-28,USSD,1172265.14,Credit,Airtime,Reversed,POS
+TXN000799,ACC00147,2022-02-25,Bill Payment,986212.39,Debit,Airtime,Successful,ATM
+TXN000800,ACC00146,2022-03-30,Transfer,1504903.76,Debit,Transfer to family,Successful,Internet Banking
+TXN000801,ACC00106,2023-03-13,POS,770404.83,Credit,Transfer to family,Successful,Branch
+TXN000802,ACC00058,2023-02-06,Bill Payment,230605.2,Debit,Business Income,Successful,Mobile App
+TXN000803,ACC00226,2022-07-03,Deposit,121733.64,Credit,Online Shopping,Reversed,ATM
+TXN000804,ACC00115,2023-12-23,USSD,929914.65,Debit,Medical,Successful,Branch
+TXN000805,ACC00030,2023-09-03,USSD,814449.39,Debit,Airtime,Successful,ATM
+TXN000806,ACC00120,2024-07-01,Transfer,968600.93,Debit,POS Purchase,Successful,POS
+TXN000807,ACC00164,2023-08-30,USSD,815283.83,Credit,Business Income,Successful,ATM
+TXN000808,ACC00074,2023-10-07,POS,467864.04,Credit,Transfer to family,Successful,ATM
+TXN000809,ACC00151,2024-05-06,Transfer,1772368.71,Debit,ATM Withdrawal,Reversed,ATM
+TXN000810,ACC00159,2023-12-08,Bill Payment,538684.9,Debit,ATM Withdrawal,Reversed,Branch
+TXN000811,ACC00172,2023-12-18,POS,1926967.64,Credit,Loan Repayment,Successful,Internet Banking
+TXN000812,ACC00278,2023-04-02,ATM,1350357.31,Credit,Investment,Successful,USSD
+TXN000813,ACC00112,2023-09-24,Bill Payment,493009.03,Credit,Online Shopping,Successful,Branch
+TXN000814,ACC00058,2022-12-31,Withdrawal,1109637.55,Credit,Airtime,Successful,Mobile App
+TXN000815,ACC00155,2022-11-16,Deposit,1570535.77,Credit,ATM Withdrawal,Successful,Mobile App
+TXN000816,ACC00157,2022-12-07,USSD,609573.38,Debit,ATM Withdrawal,Successful,Branch
+TXN000817,ACC00051,2024-04-17,Deposit,813788.47,Debit,Rent,Successful,USSD
+TXN000818,ACC00157,2022-07-22,Withdrawal,168274.76,Debit,Salary,Successful,POS
+TXN000819,ACC00136,2024-01-01,Transfer,1271780.09,Debit,Transfer to family,Successful,USSD
+TXN000820,ACC00277,2024-02-16,Transfer,407312.09,Debit,Airtime,Failed,Branch
+TXN000821,ACC00162,2023-11-18,ATM,1935839.07,Debit,Online Shopping,Successful,Internet Banking
+TXN000822,ACC00217,2024-04-08,USSD,746923.79,Credit,Medical,Successful,USSD
+TXN000823,ACC00112,2023-07-01,ATM,1970624.78,Credit,ATM Withdrawal,Successful,POS
+TXN000824,ACC00039,2022-03-22,Bill Payment,1564156.31,Credit,Salary,Successful,POS
+TXN000825,ACC00242,2024-09-24,Deposit,1075302.49,Debit,Medical,Successful,Mobile App
+TXN000826,ACC00034,2024-08-02,ATM,847793.04,Credit,Transfer to family,Successful,Mobile App
+TXN000827,ACC00065,2024-02-13,ATM,1823029.72,Credit,Salary,Successful,ATM
+TXN000828,ACC00220,2024-02-22,Transfer,903758.13,Debit,Business Income,Successful,Internet Banking
+TXN000829,ACC00266,2023-04-22,Bill Payment,2501.62,Debit,Business Income,Successful,Internet Banking
+TXN000830,ACC00029,2023-08-05,Withdrawal,929571.78,Debit,Business Income,Successful,ATM
+TXN000831,ACC00143,2022-05-15,Bill Payment,1658828.88,Debit,Medical,Successful,Internet Banking
+TXN000832,ACC00221,2022-04-06,ATM,578854.28,Debit,Airtime,Successful,Internet Banking
+TXN000833,ACC00225,2024-04-12,ATM,1944177.57,Credit,Salary,Successful,ATM
+TXN000834,ACC00172,2024-04-01,Withdrawal,1585.59,Debit,POS Purchase,Successful,Internet Banking
+TXN000835,ACC00192,2024-07-30,Deposit,1867046.88,Debit,Rent,Failed,USSD
+TXN000836,ACC00015,2023-12-17,Deposit,964631.43,Credit,Airtime,Successful,ATM
+TXN000837,ACC00109,2023-04-25,USSD,1195936.57,Debit,Loan Repayment,Successful,ATM
+TXN000838,ACC00179,2022-04-10,Transfer,1679055.7,Credit,Airtime,Reversed,POS
+TXN000839,ACC00226,2023-04-12,Bill Payment,760616.95,Debit,Transfer to family,Successful,Internet Banking
+TXN000840,ACC00231,2022-11-14,Deposit,703160.13,Debit,Salary,Successful,Internet Banking
+TXN000841,ACC00133,2023-12-02,POS,1264597.78,Debit,Rent,Reversed,Branch
+TXN000842,ACC00169,2023-10-22,ATM,1170525.75,Debit,POS Purchase,Reversed,Mobile App
+TXN000843,ACC00025,2023-12-29,Transfer,1020901.68,Debit,School Fees,Successful,Internet Banking
+TXN000844,ACC00074,2024-02-24,POS,91446.72,Credit,School Fees,Successful,Branch
+TXN000845,ACC00104,2023-04-22,Bill Payment,1478496.3,Credit,Utilities,Failed,Internet Banking
+TXN000846,ACC00171,2023-04-27,POS,1126381.62,Credit,POS Purchase,Successful,ATM
+TXN000847,ACC00203,2022-08-26,Bill Payment,601626.38,Debit,Loan Repayment,Successful,Mobile App
+TXN000848,ACC00261,2024-08-28,USSD,790912.15,Credit,School Fees,Successful,USSD
+TXN000849,ACC00113,2022-08-18,Transfer,246392.44,Debit,ATM Withdrawal,Failed,USSD
+TXN000850,ACC00184,2022-05-28,ATM,279730.71,Credit,School Fees,Successful,POS
+TXN000851,ACC00081,2024-05-31,ATM,1113179.92,Credit,Online Shopping,Successful,USSD
+TXN000852,ACC00270,2024-07-06,Bill Payment,559276.87,Credit,Rent,Successful,Internet Banking
+TXN000853,ACC00017,2023-09-24,ATM,864208.88,Debit,Business Income,Reversed,Internet Banking
+TXN000854,ACC00217,2022-09-22,USSD,1221085.4,Debit,Rent,Reversed,ATM
+TXN000855,ACC00050,2024-07-23,Deposit,1914855.64,Credit,POS Purchase,Successful,Internet Banking
+TXN000856,ACC00139,2023-01-08,Transfer,636948.73,Debit,Business Income,Successful,USSD
+TXN000857,ACC00003,2023-02-06,POS,1364360.94,Credit,Loan Repayment,Successful,Branch
+TXN000858,ACC00239,2022-07-07,ATM,685599.19,Debit,Medical,Successful,Branch
+TXN000859,ACC00261,2023-12-18,POS,523090.39,Credit,POS Purchase,Successful,Mobile App
+TXN000860,ACC00146,2024-07-28,Deposit,1505511.66,Debit,Airtime,Successful,USSD
+TXN000861,ACC00055,2023-11-13,USSD,905709.8,Debit,Loan Repayment,Successful,Mobile App
+TXN000862,ACC00220,2022-12-05,Transfer,492233.61,Credit,Investment,Successful,POS
+TXN000863,ACC00143,2024-03-18,Withdrawal,1966052.38,Credit,Rent,Successful,Branch
+TXN000864,ACC00196,2024-05-31,POS,683588.79,Debit,Transfer to family,Successful,POS
+TXN000865,ACC00173,2024-06-22,Deposit,919868.78,Credit,Investment,Successful,Mobile App
+TXN000866,ACC00189,2022-11-29,Withdrawal,1199227.58,Debit,Investment,Successful,USSD
+TXN000867,ACC00101,2023-04-10,Transfer,32241.3,Credit,Business Income,Successful,POS
+TXN000868,ACC00184,2023-05-15,Bill Payment,1383844.2,Credit,Transfer to family,Successful,ATM
+TXN000869,ACC00274,2022-01-31,ATM,1293063.36,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN000870,ACC00025,2022-03-08,Withdrawal,4594.0,Credit,Online Shopping,Successful,USSD
+TXN000871,ACC00078,2023-05-02,Transfer,953319.64,Debit,Business Income,Reversed,ATM
+TXN000872,ACC00112,2022-04-26,Withdrawal,1802939.27,Credit,Airtime,Reversed,Branch
+TXN000873,ACC00188,2022-12-26,Deposit,1345576.46,Debit,ATM Withdrawal,Successful,Mobile App
+TXN000874,ACC00114,2023-05-06,Transfer,826619.48,Credit,Airtime,Successful,POS
+TXN000875,ACC00057,2023-04-18,Transfer,1790588.72,Credit,Medical,Successful,USSD
+TXN000876,ACC00005,2024-05-16,Bill Payment,1406747.7,Debit,Business Income,Successful,POS
+TXN000877,ACC00198,2022-06-24,ATM,1525049.25,Credit,Rent,Failed,ATM
+TXN000878,ACC00258,2022-10-17,Transfer,1076493.84,Debit,Medical,Successful,Internet Banking
+TXN000879,ACC00154,2024-02-26,Deposit,1574716.82,Credit,Loan Repayment,Successful,Mobile App
+TXN000880,ACC00204,2022-12-23,Transfer,1298370.0,Debit,School Fees,Failed,USSD
+TXN000881,ACC00157,2023-09-11,Transfer,155507.47,Credit,Investment,Successful,Branch
+TXN000882,ACC00164,2023-08-12,POS,62379.57,Debit,Business Income,Reversed,Branch
+TXN000883,ACC00098,2022-05-11,ATM,1664251.69,Debit,School Fees,Failed,Mobile App
+TXN000884,ACC00229,2023-06-05,Deposit,1343390.35,Debit,Transfer to family,Successful,ATM
+TXN000885,ACC00064,2022-04-16,POS,1344655.7,Credit,Rent,Successful,Branch
+TXN000886,ACC00270,2023-02-20,Withdrawal,706312.97,Debit,Loan Repayment,Successful,Mobile App
+TXN000887,ACC00128,2024-04-17,USSD,1625656.1,Credit,POS Purchase,Reversed,USSD
+TXN000888,ACC00114,2024-01-02,ATM,1655019.94,Debit,Medical,Successful,ATM
+TXN000889,ACC00002,2024-03-26,Withdrawal,716252.5,Credit,Medical,Successful,ATM
+TXN000890,ACC00050,2022-04-20,USSD,354784.68,Debit,POS Purchase,Successful,POS
+TXN000891,ACC00142,2022-11-30,Deposit,1536047.71,Debit,Medical,Successful,Internet Banking
+TXN000892,ACC00157,2023-07-24,POS,1394211.75,Credit,Medical,Successful,USSD
+TXN000893,ACC00141,2023-10-28,USSD,17358.54,Debit,ATM Withdrawal,Successful,USSD
+TXN000894,ACC00096,2022-03-14,Withdrawal,925653.72,Debit,Online Shopping,Successful,ATM
+TXN000895,ACC00033,2024-03-22,POS,1872527.57,Debit,Salary,Reversed,Branch
+TXN000896,ACC00144,2022-11-06,Transfer,889433.02,Debit,Salary,Successful,Internet Banking
+TXN000897,ACC00073,2023-06-30,USSD,443430.77,Credit,Loan Repayment,Successful,POS
+TXN000898,ACC00151,2023-04-18,Transfer,40053.45,Debit,Rent,Successful,Mobile App
+TXN000899,ACC00223,2023-02-15,USSD,562628.4,Credit,Utilities,Successful,Mobile App
+TXN000900,ACC00071,2023-08-28,USSD,1842836.68,Credit,Online Shopping,Successful,USSD
+TXN000901,ACC00124,2023-02-28,ATM,715963.13,Debit,Business Income,Successful,POS
+TXN000902,ACC00106,2022-09-02,USSD,180388.06,Debit,Online Shopping,Successful,POS
+TXN000903,ACC00136,2023-09-28,Transfer,1227078.7,Debit,Airtime,Successful,Branch
+TXN000904,ACC00069,2022-09-07,Transfer,606705.48,Debit,Business Income,Successful,Internet Banking
+TXN000905,ACC00096,2023-07-16,ATM,1435760.15,Credit,Airtime,Successful,USSD
+TXN000906,ACC00218,2022-06-12,ATM,468898.76,Credit,POS Purchase,Failed,ATM
+TXN000907,ACC00191,2024-09-24,ATM,987870.44,Debit,Investment,Successful,USSD
+TXN000908,ACC00252,2023-05-09,Transfer,726316.86,Debit,Utilities,Failed,ATM
+TXN000909,ACC00242,2023-01-29,Deposit,561872.34,Debit,Investment,Failed,ATM
+TXN000910,ACC00135,2022-03-09,POS,1809062.93,Debit,Investment,Successful,Mobile App
+TXN000911,ACC00073,2022-12-15,POS,1414082.53,Debit,Loan Repayment,Successful,USSD
+TXN000912,ACC00108,2022-08-02,Transfer,418568.1,Debit,Investment,Successful,Mobile App
+TXN000913,ACC00221,2024-04-13,USSD,392575.54,Debit,Utilities,Successful,Branch
+TXN000914,ACC00062,2023-12-12,Withdrawal,1642336.38,Credit,Online Shopping,Successful,USSD
+TXN000915,ACC00197,2023-08-29,Deposit,792474.32,Debit,Rent,Successful,USSD
+TXN000916,ACC00225,2023-03-18,Withdrawal,1739897.51,Debit,Loan Repayment,Failed,Branch
+TXN000917,ACC00116,2024-03-14,POS,1138419.91,Debit,ATM Withdrawal,Successful,Branch
+TXN000918,ACC00099,2024-09-30,Transfer,988275.64,Debit,Investment,Successful,USSD
+TXN000919,ACC00150,2023-03-22,Transfer,1103794.48,Credit,ATM Withdrawal,Reversed,POS
+TXN000920,ACC00197,2023-08-04,USSD,1319846.92,Debit,Online Shopping,Successful,Branch
+TXN000921,ACC00074,2024-03-17,Bill Payment,1131631.24,Debit,Salary,Successful,ATM
+TXN000922,ACC00081,2022-12-17,Bill Payment,1364926.01,Debit,Medical,Successful,USSD
+TXN000923,ACC00112,2023-07-12,Transfer,1130497.9,Credit,Transfer to family,Successful,Branch
+TXN000924,ACC00210,2023-12-12,Withdrawal,131188.57,Credit,Online Shopping,Successful,Branch
+TXN000925,ACC00096,2022-08-30,Deposit,256928.67,Debit,Salary,Successful,Mobile App
+TXN000926,ACC00156,2022-06-27,Withdrawal,130566.12,Credit,Loan Repayment,Successful,Mobile App
+TXN000927,ACC00050,2023-11-10,Withdrawal,519619.15,Credit,Online Shopping,Successful,Mobile App
+TXN000928,ACC00088,2023-11-17,POS,1140021.63,Credit,Airtime,Successful,USSD
+TXN000929,ACC00062,2022-03-21,Withdrawal,456316.37,Debit,Investment,Failed,ATM
+TXN000930,ACC00161,2024-01-28,USSD,1046398.38,Debit,POS Purchase,Successful,Internet Banking
+TXN000931,ACC00052,2024-08-11,Withdrawal,1564614.29,Debit,Medical,Failed,POS
+TXN000932,ACC00209,2023-12-30,USSD,384107.17,Credit,Business Income,Successful,ATM
+TXN000933,ACC00261,2023-08-11,POS,1356118.44,Debit,Salary,Successful,Internet Banking
+TXN000934,ACC00054,2024-05-06,POS,1983906.73,Debit,Rent,Successful,POS
+TXN000935,ACC00207,2023-05-14,ATM,1386125.14,Debit,POS Purchase,Successful,ATM
+TXN000936,ACC00066,2022-04-28,USSD,1066116.56,Debit,Online Shopping,Successful,USSD
+TXN000937,ACC00068,2023-08-30,POS,506215.68,Credit,Loan Repayment,Failed,Branch
+TXN000938,ACC00075,2023-09-03,USSD,1120451.9,Debit,Airtime,Successful,Mobile App
+TXN000939,ACC00065,2023-04-20,POS,908125.28,Credit,ATM Withdrawal,Successful,USSD
+TXN000940,ACC00234,2022-11-30,ATM,1875811.79,Debit,Rent,Failed,ATM
+TXN000941,ACC00235,2023-07-23,POS,1282112.09,Debit,Business Income,Successful,POS
+TXN000942,ACC00100,2022-04-10,ATM,1886176.91,Debit,Medical,Successful,POS
+TXN000943,ACC00219,2024-04-21,USSD,104199.66,Debit,School Fees,Reversed,POS
+TXN000944,ACC00034,2023-04-01,USSD,1877549.28,Debit,Utilities,Successful,ATM
+TXN000945,ACC00022,2022-06-30,Deposit,865380.07,Credit,Utilities,Successful,POS
+TXN000946,ACC00268,2022-11-12,Bill Payment,1990215.4,Credit,Transfer to family,Successful,POS
+TXN000947,ACC00138,2024-09-05,Bill Payment,548434.17,Debit,Airtime,Successful,USSD
+TXN000948,ACC00002,2023-02-20,Deposit,1360506.86,Credit,Airtime,Successful,ATM
+TXN000949,ACC00240,2022-03-13,Deposit,933440.16,Credit,Business Income,Successful,Mobile App
+TXN000950,ACC00269,2023-09-05,USSD,723262.95,Debit,Transfer to family,Successful,POS
+TXN000951,ACC00238,2022-04-22,Withdrawal,1518163.92,Credit,Utilities,Successful,Mobile App
+TXN000952,ACC00104,2023-12-03,Deposit,1767662.98,Debit,Utilities,Successful,POS
+TXN000953,ACC00089,2024-04-13,Bill Payment,449484.14,Credit,Loan Repayment,Successful,USSD
+TXN000954,ACC00252,2023-09-03,Transfer,556227.09,Debit,Rent,Successful,Mobile App
+TXN000955,ACC00247,2024-02-29,Transfer,840414.11,Debit,ATM Withdrawal,Reversed,POS
+TXN000956,ACC00161,2024-04-19,ATM,897998.56,Debit,School Fees,Successful,Mobile App
+TXN000957,ACC00077,2023-01-24,Transfer,10815.99,Debit,Investment,Successful,Mobile App
+TXN000958,ACC00052,2022-12-02,Withdrawal,389618.97,Credit,Investment,Successful,Internet Banking
+TXN000959,ACC00214,2023-05-22,USSD,164076.9,Credit,Utilities,Successful,Branch
+TXN000960,ACC00144,2023-10-23,Bill Payment,1143853.32,Debit,Online Shopping,Successful,POS
+TXN000961,ACC00112,2023-11-08,POS,51231.19,Credit,Medical,Successful,USSD
+TXN000962,ACC00211,2022-03-04,POS,1475019.64,Debit,Salary,Successful,USSD
+TXN000963,ACC00036,2022-04-03,USSD,1956202.17,Credit,Business Income,Successful,POS
+TXN000964,ACC00148,2022-08-11,Transfer,847928.6,Debit,Business Income,Successful,ATM
+TXN000965,ACC00119,2024-04-16,Withdrawal,149343.51,Debit,Online Shopping,Successful,ATM
+TXN000966,ACC00264,2022-05-23,ATM,500343.33,Debit,Utilities,Successful,USSD
+TXN000967,ACC00010,2024-06-27,Transfer,329380.91,Debit,Salary,Successful,USSD
+TXN000968,ACC00098,2023-08-18,Deposit,621956.31,Credit,Investment,Successful,Mobile App
+TXN000969,ACC00241,2024-07-13,ATM,1252176.38,Credit,Rent,Reversed,Branch
+TXN000970,ACC00218,2024-02-13,USSD,193903.83,Debit,Salary,Successful,USSD
+TXN000971,ACC00129,2023-10-14,Deposit,960192.86,Credit,POS Purchase,Successful,ATM
+TXN000972,ACC00034,2024-04-09,Withdrawal,1616214.12,Debit,Investment,Successful,ATM
+TXN000973,ACC00146,2022-01-01,Withdrawal,1185265.28,Credit,ATM Withdrawal,Successful,POS
+TXN000974,ACC00089,2024-02-15,USSD,1252781.07,Credit,Medical,Successful,POS
+TXN000975,ACC00003,2022-05-31,ATM,668937.92,Credit,School Fees,Successful,Mobile App
+TXN000976,ACC00189,2023-11-08,Withdrawal,501193.74,Debit,Online Shopping,Successful,ATM
+TXN000977,ACC00107,2022-06-02,ATM,216127.39,Credit,POS Purchase,Successful,USSD
+TXN000978,ACC00029,2023-04-09,Withdrawal,477099.25,Credit,Rent,Successful,USSD
+TXN000979,ACC00102,2023-06-29,Transfer,681933.53,Credit,Business Income,Reversed,ATM
+TXN000980,ACC00242,2022-10-26,Withdrawal,109338.5,Credit,Loan Repayment,Successful,USSD
+TXN000981,ACC00053,2023-02-04,Withdrawal,667510.12,Debit,Loan Repayment,Successful,Mobile App
+TXN000982,ACC00074,2023-09-23,Withdrawal,1588325.18,Debit,Business Income,Successful,Internet Banking
+TXN000983,ACC00076,2023-08-15,Deposit,1887123.38,Debit,School Fees,Reversed,POS
+TXN000984,ACC00269,2023-04-03,Bill Payment,1551611.07,Debit,Airtime,Successful,Internet Banking
+TXN000985,ACC00097,2022-07-20,ATM,1239323.33,Credit,Utilities,Successful,Mobile App
+TXN000986,ACC00052,2022-07-30,USSD,1528315.09,Debit,Utilities,Successful,USSD
+TXN000987,ACC00119,2023-11-29,USSD,1250884.84,Credit,Medical,Successful,Branch
+TXN000988,ACC00118,2024-06-17,Deposit,1158079.47,Credit,Airtime,Successful,Mobile App
+TXN000989,ACC00211,2022-11-21,Deposit,171526.63,Credit,School Fees,Successful,Branch
+TXN000990,ACC00103,2022-11-03,Deposit,121843.55,Debit,POS Purchase,Successful,ATM
+TXN000991,ACC00113,2023-08-07,USSD,67170.68,Debit,POS Purchase,Successful,Mobile App
+TXN000992,ACC00127,2024-03-24,Bill Payment,626902.23,Credit,Medical,Successful,USSD
+TXN000993,ACC00160,2024-07-24,USSD,1695460.44,Credit,School Fees,Successful,ATM
+TXN000994,ACC00275,2023-11-27,Bill Payment,130523.92,Debit,Rent,Successful,Branch
+TXN000995,ACC00193,2022-11-08,Deposit,255507.81,Debit,Investment,Reversed,Branch
+TXN000996,ACC00228,2024-07-29,Withdrawal,1838272.02,Credit,Online Shopping,Successful,USSD
+TXN000997,ACC00202,2024-08-23,Deposit,884115.85,Debit,Airtime,Failed,Branch
+TXN000998,ACC00226,2024-08-17,Deposit,603291.41,Debit,ATM Withdrawal,Successful,Branch
+TXN000999,ACC00156,2023-03-22,USSD,1252557.33,Credit,Business Income,Successful,Internet Banking
+TXN001000,ACC00240,2024-01-06,ATM,132047.62,Credit,ATM Withdrawal,Successful,Branch
+TXN001001,ACC00055,2024-07-26,POS,1355290.13,Credit,Online Shopping,Successful,ATM
+TXN001002,ACC00225,2022-12-19,POS,1118736.47,Credit,Medical,Successful,Mobile App
+TXN001003,ACC00207,2022-04-02,Deposit,590186.08,Credit,Online Shopping,Reversed,Branch
+TXN001004,ACC00133,2023-08-20,Bill Payment,763220.24,Credit,Rent,Failed,ATM
+TXN001005,ACC00003,2022-01-09,Deposit,192112.59,Credit,Investment,Successful,USSD
+TXN001006,ACC00119,2023-09-19,Transfer,1504050.73,Credit,School Fees,Successful,USSD
+TXN001007,ACC00038,2023-06-07,Deposit,466607.41,Debit,Transfer to family,Failed,Branch
+TXN001008,ACC00251,2023-02-18,Deposit,1199351.92,Debit,Online Shopping,Successful,Internet Banking
+TXN001009,ACC00177,2024-05-17,Transfer,1319618.2,Credit,Online Shopping,Successful,Internet Banking
+TXN001010,ACC00150,2022-05-11,ATM,21707.79,Credit,Airtime,Successful,POS
+TXN001011,ACC00089,2024-05-22,Deposit,768148.09,Credit,Utilities,Successful,POS
+TXN001012,ACC00137,2022-10-29,USSD,1590431.77,Credit,Salary,Successful,USSD
+TXN001013,ACC00071,2022-03-05,Deposit,1759936.37,Debit,Medical,Successful,Branch
+TXN001014,ACC00241,2023-01-14,USSD,1238651.49,Credit,School Fees,Successful,USSD
+TXN001015,ACC00014,2024-07-11,Deposit,679563.14,Debit,POS Purchase,Failed,ATM
+TXN001016,ACC00028,2023-07-17,POS,1875200.91,Credit,Salary,Failed,Branch
+TXN001017,ACC00046,2024-09-18,Withdrawal,1565966.81,Debit,Utilities,Successful,Internet Banking
+TXN001018,ACC00061,2022-02-24,POS,908426.49,Debit,Transfer to family,Successful,ATM
+TXN001019,ACC00072,2022-01-01,Withdrawal,656723.24,Debit,Transfer to family,Reversed,Mobile App
+TXN001020,ACC00235,2023-12-22,Withdrawal,385366.39,Credit,ATM Withdrawal,Successful,Branch
+TXN001021,ACC00027,2023-07-28,ATM,205827.96,Debit,Loan Repayment,Successful,Branch
+TXN001022,ACC00209,2024-04-20,Transfer,1190552.63,Debit,POS Purchase,Successful,POS
+TXN001023,ACC00073,2024-09-29,Deposit,135555.17,Debit,Online Shopping,Successful,POS
+TXN001024,ACC00101,2023-01-03,Deposit,1578938.14,Credit,Rent,Successful,USSD
+TXN001025,ACC00157,2022-04-23,Withdrawal,387632.28,Credit,Transfer to family,Successful,Internet Banking
+TXN001026,ACC00227,2024-05-31,USSD,1146637.66,Debit,Online Shopping,Successful,Branch
+TXN001027,ACC00097,2022-10-16,ATM,1274908.79,Debit,School Fees,Successful,Branch
+TXN001028,ACC00116,2024-06-05,Transfer,512944.06,Debit,Medical,Successful,Mobile App
+TXN001029,ACC00099,2022-02-01,POS,842303.5,Credit,Utilities,Successful,USSD
+TXN001030,ACC00191,2022-08-29,Transfer,1449383.76,Credit,School Fees,Successful,Mobile App
+TXN001031,ACC00170,2023-03-19,Transfer,889526.32,Debit,Medical,Reversed,USSD
+TXN001032,ACC00162,2023-12-21,Withdrawal,486683.38,Credit,School Fees,Successful,ATM
+TXN001033,ACC00182,2023-08-28,USSD,1594152.66,Credit,Transfer to family,Successful,Branch
+TXN001034,ACC00151,2023-02-08,POS,121452.12,Debit,ATM Withdrawal,Successful,POS
+TXN001035,ACC00275,2023-10-03,USSD,623677.88,Credit,Medical,Successful,ATM
+TXN001036,ACC00080,2022-11-22,ATM,871978.33,Debit,Salary,Successful,USSD
+TXN001037,ACC00092,2023-12-30,POS,1919502.83,Debit,School Fees,Successful,Internet Banking
+TXN001038,ACC00143,2023-01-27,Withdrawal,1508870.08,Debit,Loan Repayment,Reversed,ATM
+TXN001039,ACC00217,2023-02-20,POS,622720.89,Debit,Online Shopping,Successful,Internet Banking
+TXN001040,ACC00126,2023-01-26,POS,1770501.21,Debit,Medical,Successful,Branch
+TXN001041,ACC00022,2023-03-22,Deposit,1551103.58,Debit,Airtime,Successful,USSD
+TXN001042,ACC00172,2023-07-13,Deposit,295244.42,Debit,Transfer to family,Successful,ATM
+TXN001043,ACC00130,2022-08-05,USSD,617694.49,Credit,Business Income,Successful,Branch
+TXN001044,ACC00268,2023-11-10,POS,686129.18,Debit,Salary,Successful,Branch
+TXN001045,ACC00244,2022-06-27,USSD,737975.58,Credit,Salary,Successful,ATM
+TXN001046,ACC00180,2023-05-02,Deposit,16659.64,Credit,POS Purchase,Reversed,Branch
+TXN001047,ACC00260,2022-05-23,POS,1173086.6,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN001048,ACC00119,2022-07-12,Withdrawal,1356761.6,Debit,Transfer to family,Successful,Internet Banking
+TXN001049,ACC00172,2023-07-23,ATM,115106.63,Debit,Utilities,Successful,Branch
+TXN001050,ACC00114,2023-01-29,Withdrawal,1014462.18,Credit,POS Purchase,Successful,Mobile App
+TXN001051,ACC00254,2024-05-13,Transfer,1670432.27,Debit,Investment,Successful,Mobile App
+TXN001052,ACC00023,2024-08-04,Withdrawal,1717475.06,Debit,Salary,Reversed,Internet Banking
+TXN001053,ACC00097,2023-01-04,USSD,844411.25,Debit,Rent,Successful,POS
+TXN001054,ACC00088,2024-05-10,POS,391216.56,Credit,Utilities,Reversed,Branch
+TXN001055,ACC00183,2023-03-04,Deposit,401143.62,Debit,School Fees,Successful,POS
+TXN001056,ACC00199,2022-06-07,ATM,1817046.19,Debit,Loan Repayment,Successful,USSD
+TXN001057,ACC00170,2022-10-23,Deposit,1570634.98,Debit,POS Purchase,Successful,USSD
+TXN001058,ACC00111,2024-06-12,Withdrawal,683433.07,Debit,Investment,Successful,POS
+TXN001059,ACC00249,2023-11-18,POS,1335886.35,Debit,Business Income,Successful,Branch
+TXN001060,ACC00219,2022-05-09,USSD,1389715.76,Credit,Salary,Failed,POS
+TXN001061,ACC00263,2022-05-18,ATM,1963855.55,Debit,Utilities,Successful,POS
+TXN001062,ACC00210,2022-01-12,Bill Payment,1199724.73,Debit,Airtime,Successful,Internet Banking
+TXN001063,ACC00146,2022-03-15,Transfer,662625.3,Credit,Online Shopping,Reversed,ATM
+TXN001064,ACC00127,2023-10-26,ATM,1157032.29,Debit,Investment,Successful,POS
+TXN001065,ACC00047,2022-01-17,POS,1926148.25,Credit,Medical,Successful,USSD
+TXN001066,ACC00240,2022-05-28,Withdrawal,1232398.22,Credit,Medical,Successful,Mobile App
+TXN001067,ACC00036,2024-01-09,Bill Payment,837681.23,Credit,Loan Repayment,Reversed,Internet Banking
+TXN001068,ACC00066,2024-06-25,ATM,324978.83,Credit,Investment,Reversed,Mobile App
+TXN001069,ACC00071,2023-05-14,Deposit,908877.04,Credit,Investment,Successful,Mobile App
+TXN001070,ACC00209,2023-11-05,Withdrawal,1578488.18,Debit,Salary,Successful,USSD
+TXN001071,ACC00210,2023-03-24,USSD,84863.2,Credit,POS Purchase,Successful,POS
+TXN001072,ACC00059,2024-09-25,Transfer,439202.06,Debit,Online Shopping,Successful,USSD
+TXN001073,ACC00112,2022-05-20,Bill Payment,7892.3,Debit,ATM Withdrawal,Successful,ATM
+TXN001074,ACC00027,2022-03-28,Bill Payment,446438.66,Debit,Medical,Successful,Branch
+TXN001075,ACC00263,2022-05-21,Withdrawal,460932.88,Debit,Loan Repayment,Reversed,Internet Banking
+TXN001076,ACC00133,2023-10-20,POS,1248028.08,Debit,Medical,Successful,USSD
+TXN001077,ACC00016,2024-04-05,Withdrawal,478418.57,Debit,Online Shopping,Failed,Branch
+TXN001078,ACC00216,2023-03-02,Bill Payment,1469305.06,Debit,School Fees,Successful,POS
+TXN001079,ACC00147,2024-05-30,Deposit,1905200.16,Credit,Airtime,Successful,Branch
+TXN001080,ACC00279,2023-04-12,USSD,663364.46,Credit,Rent,Successful,ATM
+TXN001081,ACC00030,2024-07-04,Transfer,1480292.73,Credit,Transfer to family,Successful,Internet Banking
+TXN001082,ACC00174,2024-03-18,Deposit,411030.06,Credit,Loan Repayment,Successful,ATM
+TXN001083,ACC00024,2023-12-14,Bill Payment,368896.9,Credit,Salary,Successful,Mobile App
+TXN001084,ACC00261,2023-09-11,Deposit,1979761.15,Debit,Online Shopping,Successful,USSD
+TXN001085,ACC00110,2024-08-10,POS,725952.88,Credit,Salary,Successful,Branch
+TXN001086,ACC00065,2023-03-12,Withdrawal,147925.45,Debit,Airtime,Successful,POS
+TXN001087,ACC00207,2023-10-01,Bill Payment,60520.17,Credit,School Fees,Successful,POS
+TXN001088,ACC00125,2022-07-04,USSD,230820.99,Debit,Utilities,Successful,Mobile App
+TXN001089,ACC00036,2023-04-11,Transfer,581507.14,Credit,Business Income,Successful,Branch
+TXN001090,ACC00148,2023-06-06,ATM,389209.69,Debit,POS Purchase,Reversed,Internet Banking
+TXN001091,ACC00048,2023-03-11,Transfer,1171579.94,Debit,ATM Withdrawal,Successful,ATM
+TXN001092,ACC00010,2023-07-20,POS,1531182.7,Credit,Airtime,Successful,Mobile App
+TXN001093,ACC00100,2024-04-19,ATM,88287.7,Debit,Transfer to family,Successful,Internet Banking
+TXN001094,ACC00257,2023-04-06,Deposit,59856.3,Debit,Investment,Successful,POS
+TXN001095,ACC00242,2023-01-29,Deposit,396051.08,Credit,Utilities,Failed,Internet Banking
+TXN001096,ACC00131,2022-12-30,Transfer,348706.14,Debit,Salary,Successful,USSD
+TXN001097,ACC00244,2022-08-20,Bill Payment,1770821.77,Debit,Salary,Successful,Branch
+TXN001098,ACC00262,2022-07-10,Deposit,1437813.93,Credit,Salary,Successful,Mobile App
+TXN001099,ACC00154,2023-03-11,Bill Payment,679965.08,Credit,Investment,Failed,ATM
+TXN001100,ACC00038,2023-09-12,Transfer,1109232.66,Credit,Investment,Successful,Internet Banking
+TXN001101,ACC00266,2022-01-08,Bill Payment,357493.59,Credit,Investment,Successful,USSD
+TXN001102,ACC00152,2023-08-15,POS,43473.31,Credit,Utilities,Successful,Internet Banking
+TXN001103,ACC00166,2023-05-26,ATM,1685841.4,Debit,School Fees,Successful,Internet Banking
+TXN001104,ACC00128,2024-05-17,Transfer,1821342.58,Debit,Medical,Successful,Internet Banking
+TXN001105,ACC00210,2024-01-19,ATM,42477.02,Credit,ATM Withdrawal,Successful,ATM
+TXN001106,ACC00246,2022-08-31,USSD,1355066.03,Credit,Business Income,Successful,USSD
+TXN001107,ACC00122,2023-12-31,Bill Payment,758156.05,Debit,Business Income,Successful,Internet Banking
+TXN001108,ACC00180,2023-05-29,Withdrawal,1574934.45,Credit,Loan Repayment,Successful,Internet Banking
+TXN001109,ACC00150,2022-10-03,POS,222382.53,Debit,Salary,Successful,Mobile App
+TXN001110,ACC00255,2023-02-25,Bill Payment,1872260.15,Debit,School Fees,Successful,Branch
+TXN001111,ACC00135,2024-08-06,Transfer,610492.22,Debit,Airtime,Failed,Internet Banking
+TXN001112,ACC00064,2023-07-14,USSD,480679.79,Credit,Salary,Reversed,Mobile App
+TXN001113,ACC00026,2023-08-14,Bill Payment,1619070.8,Credit,ATM Withdrawal,Successful,POS
+TXN001114,ACC00087,2023-01-11,Withdrawal,1321986.98,Debit,Investment,Successful,ATM
+TXN001115,ACC00116,2022-02-04,USSD,1882352.93,Debit,ATM Withdrawal,Successful,ATM
+TXN001116,ACC00044,2024-09-28,Deposit,1954215.14,Credit,Loan Repayment,Successful,ATM
+TXN001117,ACC00003,2022-02-08,USSD,1995390.98,Debit,Rent,Reversed,POS
+TXN001118,ACC00147,2023-08-05,USSD,1763386.76,Debit,ATM Withdrawal,Successful,POS
+TXN001119,ACC00213,2023-05-10,Bill Payment,1756836.48,Debit,Loan Repayment,Successful,POS
+TXN001120,ACC00039,2023-12-23,ATM,131222.35,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN001121,ACC00081,2023-01-13,Transfer,289292.28,Debit,School Fees,Successful,ATM
+TXN001122,ACC00150,2022-04-26,Withdrawal,1848348.86,Credit,Rent,Successful,Internet Banking
+TXN001123,ACC00193,2023-08-18,Deposit,1589898.78,Debit,Online Shopping,Successful,POS
+TXN001124,ACC00138,2023-05-09,ATM,383766.74,Debit,Airtime,Successful,POS
+TXN001125,ACC00212,2024-09-11,Bill Payment,756701.96,Debit,Online Shopping,Successful,ATM
+TXN001126,ACC00084,2023-12-09,ATM,748823.48,Debit,Medical,Successful,USSD
+TXN001127,ACC00215,2022-03-23,Deposit,1199298.55,Credit,POS Purchase,Successful,POS
+TXN001128,ACC00224,2022-05-26,Bill Payment,1953974.59,Debit,POS Purchase,Successful,ATM
+TXN001129,ACC00168,2024-01-18,Bill Payment,489477.0,Debit,Utilities,Successful,USSD
+TXN001130,ACC00224,2024-01-19,POS,92867.29,Credit,POS Purchase,Reversed,Branch
+TXN001131,ACC00154,2023-06-24,ATM,1232248.0,Debit,ATM Withdrawal,Successful,USSD
+TXN001132,ACC00053,2024-05-29,ATM,378609.78,Debit,Salary,Failed,Branch
+TXN001133,ACC00248,2024-02-08,Deposit,1071168.95,Credit,Utilities,Successful,Branch
+TXN001134,ACC00123,2024-03-08,Deposit,1579280.78,Debit,Utilities,Successful,ATM
+TXN001135,ACC00070,2022-10-14,Withdrawal,655697.37,Credit,Online Shopping,Successful,Branch
+TXN001136,ACC00201,2023-04-22,Bill Payment,106991.32,Debit,Medical,Successful,Branch
+TXN001137,ACC00181,2023-06-14,Bill Payment,1591326.03,Credit,Salary,Successful,Internet Banking
+TXN001138,ACC00232,2022-03-22,ATM,1745766.56,Credit,Utilities,Successful,Branch
+TXN001139,ACC00062,2023-06-20,POS,1703079.53,Credit,ATM Withdrawal,Successful,POS
+TXN001140,ACC00023,2024-06-30,Deposit,1936784.42,Debit,Loan Repayment,Successful,Branch
+TXN001141,ACC00176,2023-09-17,ATM,1771725.66,Credit,Investment,Successful,Mobile App
+TXN001142,ACC00145,2022-04-01,Withdrawal,418870.53,Credit,Investment,Successful,USSD
+TXN001143,ACC00224,2022-09-09,Deposit,163274.7,Credit,Investment,Successful,Internet Banking
+TXN001144,ACC00172,2023-04-29,Transfer,941599.25,Debit,School Fees,Successful,Branch
+TXN001145,ACC00195,2023-10-08,Withdrawal,1327172.65,Debit,Medical,Reversed,USSD
+TXN001146,ACC00077,2024-01-30,Transfer,130213.65,Credit,Salary,Successful,Internet Banking
+TXN001147,ACC00182,2023-11-11,Withdrawal,1017473.3,Credit,Investment,Successful,POS
+TXN001148,ACC00149,2024-09-10,POS,1502740.42,Debit,Salary,Successful,POS
+TXN001149,ACC00076,2023-11-16,USSD,1290320.59,Debit,Loan Repayment,Successful,Internet Banking
+TXN001150,ACC00053,2022-03-21,Bill Payment,1018562.46,Debit,Utilities,Successful,Mobile App
+TXN001151,ACC00020,2023-12-02,Deposit,997426.26,Credit,Salary,Failed,POS
+TXN001152,ACC00039,2023-10-11,Withdrawal,928802.42,Credit,Online Shopping,Successful,USSD
+TXN001153,ACC00031,2023-07-07,USSD,643985.35,Debit,Salary,Successful,ATM
+TXN001154,ACC00128,2024-03-28,Bill Payment,748070.5,Credit,Rent,Failed,POS
+TXN001155,ACC00127,2023-08-17,ATM,1389172.09,Debit,Airtime,Successful,Branch
+TXN001156,ACC00197,2022-11-16,Bill Payment,1431441.92,Debit,Rent,Successful,Mobile App
+TXN001157,ACC00138,2023-09-20,Transfer,989836.65,Credit,Transfer to family,Successful,POS
+TXN001158,ACC00090,2022-02-24,USSD,537036.75,Debit,Salary,Successful,Internet Banking
+TXN001159,ACC00043,2024-07-14,ATM,802191.67,Debit,POS Purchase,Successful,USSD
+TXN001160,ACC00272,2022-12-18,USSD,1842409.85,Debit,POS Purchase,Successful,Branch
+TXN001161,ACC00007,2023-07-02,POS,1168173.25,Debit,Medical,Successful,USSD
+TXN001162,ACC00273,2024-03-08,POS,73690.67,Debit,Business Income,Failed,USSD
+TXN001163,ACC00079,2022-01-12,Transfer,439442.8,Debit,Utilities,Reversed,USSD
+TXN001164,ACC00036,2023-04-26,USSD,406399.49,Credit,Transfer to family,Successful,POS
+TXN001165,ACC00123,2023-04-10,USSD,1726404.94,Credit,Rent,Successful,Internet Banking
+TXN001166,ACC00003,2023-06-09,USSD,792102.0,Debit,Medical,Successful,ATM
+TXN001167,ACC00026,2024-07-16,ATM,612345.07,Credit,ATM Withdrawal,Successful,Branch
+TXN001168,ACC00005,2023-04-26,Bill Payment,1777473.5,Credit,Airtime,Successful,POS
+TXN001169,ACC00061,2023-08-11,Transfer,1142955.09,Credit,Business Income,Reversed,Mobile App
+TXN001170,ACC00118,2024-01-22,Bill Payment,1871030.06,Credit,Online Shopping,Successful,ATM
+TXN001171,ACC00221,2022-12-06,ATM,748527.66,Debit,Business Income,Successful,POS
+TXN001172,ACC00140,2023-03-08,POS,1101328.67,Credit,Online Shopping,Successful,ATM
+TXN001173,ACC00104,2022-12-28,Bill Payment,269093.47,Debit,Online Shopping,Successful,ATM
+TXN001174,ACC00196,2024-09-10,Bill Payment,168514.28,Debit,Transfer to family,Successful,POS
+TXN001175,ACC00009,2024-09-28,POS,889288.38,Debit,School Fees,Successful,ATM
+TXN001176,ACC00023,2024-03-28,Transfer,703474.12,Debit,Utilities,Reversed,Mobile App
+TXN001177,ACC00211,2022-10-29,Withdrawal,1168132.47,Credit,Airtime,Successful,Internet Banking
+TXN001178,ACC00041,2022-10-24,USSD,930773.6,Debit,Loan Repayment,Successful,Mobile App
+TXN001179,ACC00075,2022-06-21,Bill Payment,1242441.08,Debit,Loan Repayment,Successful,POS
+TXN001180,ACC00110,2022-02-06,Deposit,852491.64,Debit,POS Purchase,Successful,ATM
+TXN001181,ACC00153,2023-12-13,Deposit,935368.2,Credit,Utilities,Failed,POS
+TXN001182,ACC00051,2024-08-03,Transfer,818201.07,Debit,Airtime,Successful,USSD
+TXN001183,ACC00251,2023-09-04,Bill Payment,1609106.68,Credit,Loan Repayment,Successful,Mobile App
+TXN001184,ACC00071,2024-02-07,Bill Payment,634382.34,Debit,Transfer to family,Failed,Branch
+TXN001185,ACC00107,2022-11-08,Withdrawal,765050.67,Credit,POS Purchase,Successful,ATM
+TXN001186,ACC00004,2024-01-15,ATM,359541.68,Credit,Investment,Successful,USSD
+TXN001187,ACC00273,2024-03-14,Withdrawal,467963.9,Debit,School Fees,Successful,Internet Banking
+TXN001188,ACC00201,2023-08-01,Deposit,1290887.03,Credit,Transfer to family,Successful,Mobile App
+TXN001189,ACC00108,2022-09-24,Deposit,718506.32,Debit,Business Income,Successful,USSD
+TXN001190,ACC00273,2022-03-04,ATM,165295.81,Debit,Utilities,Failed,Branch
+TXN001191,ACC00070,2023-10-07,Deposit,1685285.48,Credit,School Fees,Successful,Mobile App
+TXN001192,ACC00279,2023-04-30,USSD,1025825.58,Credit,Transfer to family,Successful,USSD
+TXN001193,ACC00056,2023-08-16,Deposit,1287486.97,Credit,POS Purchase,Successful,Branch
+TXN001194,ACC00206,2022-06-23,Bill Payment,1571853.66,Debit,Loan Repayment,Successful,POS
+TXN001195,ACC00027,2023-08-10,ATM,1853248.54,Debit,School Fees,Successful,Branch
+TXN001196,ACC00187,2022-02-22,Deposit,197269.01,Debit,School Fees,Successful,USSD
+TXN001197,ACC00059,2023-11-04,Withdrawal,143161.68,Credit,Online Shopping,Successful,Mobile App
+TXN001198,ACC00109,2022-10-26,Bill Payment,77043.63,Credit,Salary,Reversed,USSD
+TXN001199,ACC00270,2024-04-08,POS,401013.04,Credit,POS Purchase,Successful,POS
+TXN001200,ACC00263,2024-01-26,ATM,393694.32,Credit,ATM Withdrawal,Failed,ATM
+TXN001201,ACC00045,2023-10-02,Transfer,658817.96,Credit,Loan Repayment,Successful,ATM
+TXN001202,ACC00204,2022-01-28,Withdrawal,605779.81,Debit,Medical,Successful,USSD
+TXN001203,ACC00209,2022-10-21,Transfer,1631221.78,Debit,Airtime,Reversed,Internet Banking
+TXN001204,ACC00154,2023-05-12,POS,1367236.89,Credit,Transfer to family,Successful,ATM
+TXN001205,ACC00035,2022-03-26,POS,549291.88,Debit,Online Shopping,Successful,Internet Banking
+TXN001206,ACC00135,2022-05-10,Deposit,1411432.45,Credit,Utilities,Successful,USSD
+TXN001207,ACC00084,2023-06-02,USSD,1995992.41,Credit,Rent,Successful,ATM
+TXN001208,ACC00101,2022-03-20,Deposit,1996810.99,Credit,School Fees,Successful,Branch
+TXN001209,ACC00015,2024-05-21,ATM,1504890.52,Credit,Utilities,Successful,POS
+TXN001210,ACC00187,2024-03-13,USSD,1479772.1,Debit,Transfer to family,Successful,USSD
+TXN001211,ACC00273,2022-10-12,POS,1824808.87,Credit,Loan Repayment,Reversed,USSD
+TXN001212,ACC00067,2022-09-16,USSD,17563.49,Credit,School Fees,Successful,Branch
+TXN001213,ACC00122,2022-05-16,Bill Payment,599298.57,Credit,Utilities,Successful,Branch
+TXN001214,ACC00005,2023-09-23,USSD,1644706.56,Credit,Online Shopping,Successful,Internet Banking
+TXN001215,ACC00223,2022-10-15,Bill Payment,1566364.94,Debit,POS Purchase,Successful,POS
+TXN001216,ACC00164,2022-10-09,Withdrawal,807920.38,Credit,Loan Repayment,Failed,POS
+TXN001217,ACC00111,2024-05-28,Transfer,811814.09,Credit,Investment,Reversed,ATM
+TXN001218,ACC00069,2022-09-21,ATM,1160117.58,Credit,Rent,Successful,Internet Banking
+TXN001219,ACC00272,2022-01-15,Bill Payment,1310789.36,Debit,Salary,Successful,POS
+TXN001220,ACC00163,2024-01-30,Bill Payment,944271.99,Debit,Utilities,Successful,USSD
+TXN001221,ACC00194,2022-04-25,POS,1025537.62,Debit,Loan Repayment,Successful,POS
+TXN001222,ACC00193,2023-09-11,Transfer,1522440.49,Debit,Airtime,Successful,Branch
+TXN001223,ACC00044,2022-06-28,POS,298987.65,Debit,Business Income,Successful,Mobile App
+TXN001224,ACC00216,2024-07-20,Transfer,795311.82,Debit,Investment,Successful,POS
+TXN001225,ACC00070,2023-08-29,USSD,454239.14,Credit,Airtime,Successful,Mobile App
+TXN001226,ACC00140,2024-01-27,USSD,1498399.58,Credit,Online Shopping,Failed,USSD
+TXN001227,ACC00193,2022-06-04,POS,949139.28,Debit,Salary,Successful,Branch
+TXN001228,ACC00095,2023-11-06,POS,1031892.79,Credit,Airtime,Failed,POS
+TXN001229,ACC00272,2023-04-03,Deposit,1572056.31,Debit,Salary,Successful,Mobile App
+TXN001230,ACC00213,2023-01-14,USSD,1515363.79,Debit,Transfer to family,Failed,Mobile App
+TXN001231,ACC00017,2024-04-07,Deposit,1445159.45,Credit,Transfer to family,Successful,POS
+TXN001232,ACC00100,2022-06-29,Bill Payment,923071.57,Credit,Medical,Reversed,Mobile App
+TXN001233,ACC00044,2022-09-25,Deposit,1583933.82,Debit,ATM Withdrawal,Failed,POS
+TXN001234,ACC00151,2024-03-12,Bill Payment,626493.13,Credit,Transfer to family,Successful,ATM
+TXN001235,ACC00031,2023-12-19,Bill Payment,376099.18,Credit,Online Shopping,Successful,USSD
+TXN001236,ACC00137,2022-08-30,Transfer,1540377.07,Credit,Salary,Successful,Internet Banking
+TXN001237,ACC00089,2023-05-12,USSD,1396033.57,Credit,Transfer to family,Successful,USSD
+TXN001238,ACC00157,2022-07-05,Bill Payment,419564.71,Debit,Medical,Successful,Internet Banking
+TXN001239,ACC00181,2024-03-29,Bill Payment,900218.89,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN001240,ACC00098,2023-06-25,Bill Payment,1117114.41,Debit,Airtime,Successful,POS
+TXN001241,ACC00250,2024-06-01,Deposit,749712.98,Debit,Salary,Successful,Internet Banking
+TXN001242,ACC00206,2022-02-03,Deposit,1155228.14,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN001243,ACC00006,2022-12-18,Withdrawal,257127.11,Credit,ATM Withdrawal,Successful,Mobile App
+TXN001244,ACC00106,2022-03-28,POS,1886736.33,Debit,Airtime,Successful,USSD
+TXN001245,ACC00203,2024-09-17,ATM,19857.47,Credit,Salary,Successful,ATM
+TXN001246,ACC00071,2022-05-29,USSD,1620897.57,Credit,Utilities,Successful,USSD
+TXN001247,ACC00012,2023-09-02,USSD,1668680.61,Debit,Utilities,Successful,Mobile App
+TXN001248,ACC00198,2024-08-14,Transfer,679974.57,Credit,ATM Withdrawal,Successful,Branch
+TXN001249,ACC00157,2024-04-21,ATM,838585.06,Credit,Rent,Successful,Mobile App
+TXN001250,ACC00152,2022-06-07,Withdrawal,1371682.73,Credit,Business Income,Successful,Mobile App
+TXN001251,ACC00138,2024-05-07,Bill Payment,807035.75,Debit,ATM Withdrawal,Reversed,ATM
+TXN001252,ACC00159,2023-05-23,Bill Payment,1557397.49,Credit,School Fees,Successful,POS
+TXN001253,ACC00153,2024-02-10,Withdrawal,1075439.21,Debit,Salary,Successful,USSD
+TXN001254,ACC00091,2023-02-27,Transfer,652495.99,Credit,Business Income,Successful,USSD
+TXN001255,ACC00132,2024-02-28,ATM,46968.06,Credit,Transfer to family,Successful,ATM
+TXN001256,ACC00243,2023-01-28,Bill Payment,1570822.94,Debit,Salary,Reversed,ATM
+TXN001257,ACC00168,2022-09-01,Bill Payment,1844327.31,Debit,School Fees,Failed,ATM
+TXN001258,ACC00241,2023-11-08,USSD,307805.63,Credit,Investment,Successful,USSD
+TXN001259,ACC00045,2023-03-27,Deposit,1905298.77,Debit,POS Purchase,Reversed,ATM
+TXN001260,ACC00149,2024-01-14,POS,660835.93,Debit,Salary,Successful,Internet Banking
+TXN001261,ACC00126,2023-10-15,ATM,1259863.69,Credit,Medical,Successful,Branch
+TXN001262,ACC00230,2022-06-21,Bill Payment,1206204.07,Debit,Investment,Successful,Internet Banking
+TXN001263,ACC00152,2022-08-04,ATM,1215870.62,Credit,POS Purchase,Successful,Mobile App
+TXN001264,ACC00128,2023-08-15,POS,1733956.04,Debit,Transfer to family,Successful,Branch
+TXN001265,ACC00218,2024-01-22,ATM,1960354.14,Credit,Investment,Successful,Branch
+TXN001266,ACC00142,2024-05-12,POS,408807.13,Credit,Investment,Successful,Internet Banking
+TXN001267,ACC00206,2022-12-20,POS,781576.98,Credit,Medical,Successful,USSD
+TXN001268,ACC00248,2022-02-25,Bill Payment,1069213.92,Debit,Utilities,Successful,ATM
+TXN001269,ACC00174,2023-10-20,Bill Payment,377083.19,Debit,Investment,Successful,Branch
+TXN001270,ACC00102,2022-09-28,POS,217722.39,Debit,Salary,Successful,ATM
+TXN001271,ACC00174,2024-02-13,USSD,1139245.27,Debit,POS Purchase,Reversed,Mobile App
+TXN001272,ACC00090,2024-04-19,Withdrawal,903344.89,Credit,Loan Repayment,Successful,Internet Banking
+TXN001273,ACC00018,2022-04-29,POS,1789540.22,Credit,Medical,Successful,Branch
+TXN001274,ACC00271,2022-02-23,Deposit,186936.39,Credit,ATM Withdrawal,Successful,ATM
+TXN001275,ACC00230,2022-06-21,Bill Payment,209074.2,Debit,ATM Withdrawal,Failed,Internet Banking
+TXN001276,ACC00054,2023-04-21,Transfer,1106037.1,Debit,Investment,Failed,Internet Banking
+TXN001277,ACC00192,2023-02-13,Bill Payment,64602.28,Debit,Loan Repayment,Successful,Branch
+TXN001278,ACC00215,2023-05-03,POS,1378204.59,Debit,Loan Repayment,Failed,USSD
+TXN001279,ACC00044,2022-11-05,Bill Payment,977482.34,Credit,Investment,Successful,USSD
+TXN001280,ACC00080,2023-05-03,POS,373790.86,Credit,Salary,Failed,Mobile App
+TXN001281,ACC00115,2024-02-04,ATM,139447.33,Debit,Investment,Successful,Branch
+TXN001282,ACC00091,2024-08-29,Transfer,1926007.61,Credit,Online Shopping,Successful,ATM
+TXN001283,ACC00027,2024-02-10,USSD,567993.33,Credit,School Fees,Successful,Mobile App
+TXN001284,ACC00185,2024-08-02,Transfer,466462.33,Credit,ATM Withdrawal,Successful,POS
+TXN001285,ACC00013,2023-06-30,Transfer,1319310.0,Debit,Loan Repayment,Successful,Branch
+TXN001286,ACC00263,2022-08-28,Deposit,140423.88,Credit,Business Income,Successful,Mobile App
+TXN001287,ACC00051,2023-01-24,Deposit,115377.63,Debit,Transfer to family,Successful,POS
+TXN001288,ACC00009,2023-12-01,POS,1037304.09,Debit,School Fees,Successful,Mobile App
+TXN001289,ACC00030,2023-12-24,Deposit,344065.52,Debit,Airtime,Successful,POS
+TXN001290,ACC00054,2023-02-04,Withdrawal,1719484.84,Credit,ATM Withdrawal,Successful,Mobile App
+TXN001291,ACC00009,2023-05-01,USSD,822017.04,Credit,Medical,Successful,USSD
+TXN001292,ACC00180,2022-09-26,Transfer,314492.39,Credit,Loan Repayment,Failed,Branch
+TXN001293,ACC00109,2022-05-29,Transfer,221932.52,Debit,Medical,Successful,Mobile App
+TXN001294,ACC00138,2023-06-28,USSD,1073137.81,Debit,Investment,Successful,Internet Banking
+TXN001295,ACC00175,2024-06-10,ATM,956763.16,Credit,School Fees,Successful,Mobile App
+TXN001296,ACC00166,2023-03-22,POS,137991.6,Credit,Transfer to family,Successful,POS
+TXN001297,ACC00014,2022-01-13,Deposit,1910215.98,Credit,Rent,Successful,Mobile App
+TXN001298,ACC00062,2022-10-23,USSD,1731466.14,Credit,ATM Withdrawal,Successful,Mobile App
+TXN001299,ACC00201,2024-08-07,ATM,260299.6,Debit,Airtime,Failed,Branch
+TXN001300,ACC00004,2024-03-27,Transfer,411751.17,Credit,Loan Repayment,Successful,ATM
+TXN001301,ACC00258,2023-04-05,Bill Payment,864685.25,Credit,Utilities,Successful,Branch
+TXN001302,ACC00184,2023-01-27,Deposit,1419488.39,Credit,Rent,Successful,Mobile App
+TXN001303,ACC00260,2023-11-26,Bill Payment,949822.66,Debit,Salary,Successful,POS
+TXN001304,ACC00233,2022-11-20,Transfer,1207617.04,Debit,Transfer to family,Successful,POS
+TXN001305,ACC00132,2024-09-11,Transfer,1878338.93,Debit,Investment,Successful,Branch
+TXN001306,ACC00179,2023-06-27,Bill Payment,1175190.16,Debit,Business Income,Successful,Mobile App
+TXN001307,ACC00102,2023-12-01,Transfer,1005198.8,Credit,Transfer to family,Successful,Internet Banking
+TXN001308,ACC00209,2024-09-05,Deposit,1369829.44,Credit,Online Shopping,Successful,Internet Banking
+TXN001309,ACC00250,2022-02-12,ATM,551244.23,Debit,Utilities,Failed,USSD
+TXN001310,ACC00231,2022-04-10,Withdrawal,15382.9,Debit,Investment,Successful,POS
+TXN001311,ACC00223,2024-07-28,Withdrawal,285812.63,Credit,School Fees,Successful,ATM
+TXN001312,ACC00017,2023-06-29,Withdrawal,128408.1,Debit,Transfer to family,Successful,Internet Banking
+TXN001313,ACC00173,2023-10-15,ATM,798774.21,Credit,POS Purchase,Reversed,POS
+TXN001314,ACC00149,2022-12-29,Transfer,1615227.88,Credit,Medical,Successful,Internet Banking
+TXN001315,ACC00206,2024-09-06,POS,1051950.08,Debit,ATM Withdrawal,Reversed,Branch
+TXN001316,ACC00234,2024-05-14,Deposit,1820649.93,Credit,Salary,Reversed,Mobile App
+TXN001317,ACC00022,2023-03-19,ATM,1758539.16,Credit,Medical,Reversed,USSD
+TXN001318,ACC00061,2023-09-18,Deposit,920679.02,Debit,Transfer to family,Reversed,Internet Banking
+TXN001319,ACC00146,2024-07-29,USSD,1152477.44,Credit,POS Purchase,Successful,POS
+TXN001320,ACC00029,2023-10-30,Transfer,1474712.78,Debit,Transfer to family,Successful,Branch
+TXN001321,ACC00065,2024-05-28,Deposit,576179.61,Credit,Business Income,Successful,POS
+TXN001322,ACC00108,2022-10-07,Transfer,1762047.65,Debit,Transfer to family,Successful,Internet Banking
+TXN001323,ACC00055,2022-12-10,Withdrawal,912885.09,Debit,Investment,Successful,ATM
+TXN001324,ACC00184,2022-10-04,Deposit,1400782.92,Debit,Business Income,Successful,USSD
+TXN001325,ACC00160,2022-10-01,POS,1423440.04,Debit,Investment,Successful,Internet Banking
+TXN001326,ACC00266,2024-04-01,Transfer,595248.73,Credit,Investment,Successful,POS
+TXN001327,ACC00157,2022-04-11,Deposit,1226248.51,Debit,Medical,Successful,Internet Banking
+TXN001328,ACC00157,2022-09-19,Bill Payment,1620064.54,Credit,Salary,Successful,ATM
+TXN001329,ACC00209,2023-11-02,ATM,350665.01,Debit,Online Shopping,Successful,Mobile App
+TXN001330,ACC00215,2023-08-22,USSD,498645.07,Credit,Transfer to family,Successful,POS
+TXN001331,ACC00162,2023-02-05,Bill Payment,1799979.26,Debit,Medical,Successful,Mobile App
+TXN001332,ACC00189,2023-04-18,POS,1466621.28,Debit,Business Income,Successful,POS
+TXN001333,ACC00197,2024-03-02,POS,915927.39,Debit,POS Purchase,Successful,Mobile App
+TXN001334,ACC00120,2023-11-23,Bill Payment,1821710.77,Credit,Transfer to family,Successful,Branch
+TXN001335,ACC00030,2024-02-07,Transfer,367296.92,Credit,Rent,Successful,Branch
+TXN001336,ACC00222,2022-09-05,Deposit,1137446.22,Debit,Airtime,Successful,Mobile App
+TXN001337,ACC00154,2024-01-22,ATM,787405.86,Credit,Airtime,Successful,Branch
+TXN001338,ACC00142,2023-11-20,Bill Payment,1891401.88,Credit,Salary,Reversed,USSD
+TXN001339,ACC00185,2023-08-26,POS,479770.67,Debit,Airtime,Successful,Internet Banking
+TXN001340,ACC00150,2024-02-28,Deposit,1741143.91,Credit,Salary,Reversed,POS
+TXN001341,ACC00168,2022-07-19,Transfer,547915.67,Credit,Airtime,Successful,POS
+TXN001342,ACC00262,2023-06-17,Bill Payment,1256352.36,Credit,Salary,Successful,Internet Banking
+TXN001343,ACC00253,2022-12-12,POS,584133.24,Credit,POS Purchase,Failed,Mobile App
+TXN001344,ACC00155,2023-11-25,Bill Payment,1832634.52,Credit,Airtime,Reversed,ATM
+TXN001345,ACC00280,2023-12-08,Transfer,1396238.96,Credit,Business Income,Successful,Internet Banking
+TXN001346,ACC00237,2022-07-04,POS,1444957.57,Credit,School Fees,Successful,POS
+TXN001347,ACC00116,2022-11-17,Deposit,434901.11,Credit,Utilities,Successful,Internet Banking
+TXN001348,ACC00178,2023-07-15,USSD,987228.41,Debit,ATM Withdrawal,Successful,POS
+TXN001349,ACC00232,2022-01-11,Bill Payment,1984783.25,Debit,Salary,Reversed,Branch
+TXN001350,ACC00091,2023-11-20,Deposit,1105871.38,Credit,Medical,Successful,ATM
+TXN001351,ACC00068,2022-01-09,ATM,1990635.1,Credit,Online Shopping,Failed,USSD
+TXN001352,ACC00153,2024-05-01,ATM,153529.01,Credit,Transfer to family,Successful,POS
+TXN001353,ACC00106,2022-03-11,Withdrawal,210896.51,Debit,Medical,Successful,ATM
+TXN001354,ACC00155,2022-01-13,Transfer,1533194.89,Debit,School Fees,Failed,ATM
+TXN001355,ACC00209,2023-02-26,Bill Payment,652363.27,Credit,POS Purchase,Failed,Mobile App
+TXN001356,ACC00101,2022-04-11,POS,902146.5,Credit,Online Shopping,Successful,USSD
+TXN001357,ACC00127,2023-06-22,USSD,505906.85,Credit,Airtime,Successful,POS
+TXN001358,ACC00269,2022-04-17,USSD,1012376.11,Credit,Rent,Failed,Mobile App
+TXN001359,ACC00001,2023-12-03,ATM,924603.89,Credit,Transfer to family,Failed,Branch
+TXN001360,ACC00010,2023-04-02,Transfer,146854.39,Debit,Investment,Successful,Internet Banking
+TXN001361,ACC00080,2022-12-26,Withdrawal,1389124.19,Debit,Investment,Successful,Branch
+TXN001362,ACC00005,2022-08-13,POS,1499597.41,Debit,Transfer to family,Successful,Internet Banking
+TXN001363,ACC00038,2024-01-13,Transfer,762620.56,Debit,Transfer to family,Failed,Internet Banking
+TXN001364,ACC00250,2022-10-18,Transfer,1492041.9,Debit,Airtime,Successful,ATM
+TXN001365,ACC00002,2022-09-15,Bill Payment,1711618.4,Credit,Rent,Successful,Internet Banking
+TXN001366,ACC00276,2022-07-17,Withdrawal,793650.32,Debit,Utilities,Failed,ATM
+TXN001367,ACC00061,2022-02-04,Bill Payment,21969.35,Credit,Business Income,Reversed,Mobile App
+TXN001368,ACC00089,2022-01-25,ATM,229808.09,Debit,Rent,Successful,Branch
+TXN001369,ACC00217,2023-09-27,USSD,1834315.38,Credit,Rent,Reversed,Mobile App
+TXN001370,ACC00265,2022-04-05,USSD,654557.17,Debit,Medical,Successful,ATM
+TXN001371,ACC00231,2022-02-28,Deposit,1497477.72,Credit,Business Income,Successful,USSD
+TXN001372,ACC00258,2024-08-19,USSD,969776.1,Credit,Salary,Successful,USSD
+TXN001373,ACC00144,2023-09-01,USSD,136940.22,Debit,Utilities,Failed,POS
+TXN001374,ACC00160,2023-11-04,POS,1097082.87,Debit,Online Shopping,Reversed,Mobile App
+TXN001375,ACC00161,2024-07-04,Withdrawal,484966.07,Credit,Business Income,Successful,POS
+TXN001376,ACC00027,2024-05-05,Transfer,1900061.84,Credit,Salary,Successful,Mobile App
+TXN001377,ACC00129,2022-08-11,Transfer,280941.39,Debit,Rent,Successful,USSD
+TXN001378,ACC00044,2024-08-31,Deposit,1640943.17,Debit,Business Income,Successful,USSD
+TXN001379,ACC00075,2023-09-06,Transfer,1683204.28,Credit,School Fees,Successful,Branch
+TXN001380,ACC00250,2023-10-16,POS,341592.9,Debit,Airtime,Successful,POS
+TXN001381,ACC00070,2022-05-05,Bill Payment,36623.22,Credit,Medical,Successful,POS
+TXN001382,ACC00072,2023-12-27,USSD,201479.98,Credit,POS Purchase,Successful,POS
+TXN001383,ACC00085,2024-09-07,Withdrawal,588642.24,Credit,Salary,Successful,USSD
+TXN001384,ACC00160,2022-05-03,POS,1069540.34,Credit,School Fees,Successful,POS
+TXN001385,ACC00160,2022-03-30,ATM,782003.58,Debit,Loan Repayment,Successful,POS
+TXN001386,ACC00061,2024-05-26,Deposit,155631.81,Credit,Utilities,Successful,ATM
+TXN001387,ACC00022,2023-09-12,ATM,1527296.3,Debit,Salary,Successful,POS
+TXN001388,ACC00091,2022-05-14,USSD,1354927.59,Credit,Loan Repayment,Successful,USSD
+TXN001389,ACC00136,2023-01-20,POS,307416.21,Credit,Transfer to family,Successful,Internet Banking
+TXN001390,ACC00137,2023-11-04,Deposit,716494.94,Credit,Transfer to family,Successful,Branch
+TXN001391,ACC00252,2024-02-22,POS,433736.53,Credit,Salary,Successful,Branch
+TXN001392,ACC00197,2024-07-10,Transfer,69372.47,Credit,Business Income,Failed,Internet Banking
+TXN001393,ACC00230,2023-10-26,Transfer,1350250.74,Debit,POS Purchase,Successful,ATM
+TXN001394,ACC00027,2023-08-03,Deposit,432724.92,Debit,School Fees,Successful,Internet Banking
+TXN001395,ACC00180,2024-04-02,POS,1393636.36,Credit,Loan Repayment,Successful,Branch
+TXN001396,ACC00011,2024-09-17,USSD,1673084.03,Debit,Salary,Reversed,USSD
+TXN001397,ACC00227,2022-07-09,POS,1623117.9,Debit,Medical,Failed,ATM
+TXN001398,ACC00107,2024-07-06,Bill Payment,1282203.87,Debit,Utilities,Successful,ATM
+TXN001399,ACC00219,2022-04-24,Bill Payment,1432962.66,Debit,POS Purchase,Successful,ATM
+TXN001400,ACC00259,2023-12-14,Withdrawal,1794071.26,Credit,Online Shopping,Successful,ATM
+TXN001401,ACC00094,2022-07-08,Transfer,781541.47,Credit,Online Shopping,Successful,Mobile App
+TXN001402,ACC00247,2022-09-17,USSD,616994.34,Credit,School Fees,Successful,ATM
+TXN001403,ACC00122,2022-10-29,Deposit,105304.3,Debit,Airtime,Reversed,Mobile App
+TXN001404,ACC00261,2023-04-24,ATM,9829.13,Credit,Online Shopping,Successful,ATM
+TXN001405,ACC00034,2023-11-08,USSD,1544933.19,Debit,School Fees,Failed,Mobile App
+TXN001406,ACC00216,2024-08-16,Transfer,1534344.92,Credit,Online Shopping,Successful,Branch
+TXN001407,ACC00210,2022-03-19,POS,1857676.69,Debit,Utilities,Successful,POS
+TXN001408,ACC00238,2023-10-17,USSD,749602.08,Credit,Utilities,Successful,ATM
+TXN001409,ACC00261,2023-04-10,Transfer,477461.38,Debit,POS Purchase,Successful,POS
+TXN001410,ACC00178,2024-08-02,Bill Payment,183227.17,Credit,Medical,Successful,ATM
+TXN001411,ACC00178,2022-10-11,ATM,843654.62,Debit,POS Purchase,Successful,Branch
+TXN001412,ACC00016,2024-02-27,POS,1978586.6,Credit,Business Income,Successful,ATM
+TXN001413,ACC00147,2023-03-14,Transfer,674564.73,Debit,ATM Withdrawal,Reversed,Branch
+TXN001414,ACC00090,2023-12-10,Withdrawal,384707.56,Credit,Online Shopping,Reversed,USSD
+TXN001415,ACC00159,2024-07-14,Bill Payment,1338064.44,Credit,Business Income,Successful,USSD
+TXN001416,ACC00092,2023-11-15,Bill Payment,441525.42,Debit,ATM Withdrawal,Successful,Mobile App
+TXN001417,ACC00196,2024-02-28,Transfer,1764630.97,Credit,Transfer to family,Successful,POS
+TXN001418,ACC00043,2024-02-28,POS,1593949.87,Debit,Rent,Successful,Mobile App
+TXN001419,ACC00189,2022-11-28,POS,1660986.11,Debit,Salary,Successful,Internet Banking
+TXN001420,ACC00280,2022-09-21,Bill Payment,336181.83,Debit,POS Purchase,Successful,Mobile App
+TXN001421,ACC00272,2022-06-15,ATM,334510.99,Debit,Medical,Successful,Branch
+TXN001422,ACC00211,2024-03-10,USSD,831652.18,Credit,Investment,Successful,POS
+TXN001423,ACC00162,2022-03-17,POS,215813.82,Credit,POS Purchase,Successful,USSD
+TXN001424,ACC00026,2022-10-11,Withdrawal,654619.36,Debit,POS Purchase,Failed,POS
+TXN001425,ACC00121,2024-03-06,Deposit,1124327.21,Credit,ATM Withdrawal,Reversed,POS
+TXN001426,ACC00221,2022-03-05,ATM,379500.3,Debit,Business Income,Successful,Internet Banking
+TXN001427,ACC00042,2023-01-27,ATM,414635.07,Debit,POS Purchase,Successful,USSD
+TXN001428,ACC00095,2023-02-02,POS,1083634.46,Debit,Airtime,Successful,Branch
+TXN001429,ACC00134,2022-12-07,USSD,1877876.99,Debit,Transfer to family,Successful,USSD
+TXN001430,ACC00209,2022-03-03,Withdrawal,242047.52,Credit,Medical,Successful,Mobile App
+TXN001431,ACC00154,2022-09-22,POS,427953.08,Debit,Salary,Successful,POS
+TXN001432,ACC00074,2024-09-05,Bill Payment,713474.36,Debit,Rent,Successful,Mobile App
+TXN001433,ACC00112,2024-04-12,Withdrawal,347656.3,Debit,POS Purchase,Successful,Mobile App
+TXN001434,ACC00122,2022-09-29,ATM,804577.91,Debit,Salary,Successful,Branch
+TXN001435,ACC00196,2022-07-02,USSD,632822.32,Credit,Transfer to family,Successful,ATM
+TXN001436,ACC00214,2023-03-28,ATM,778678.73,Debit,Rent,Successful,Internet Banking
+TXN001437,ACC00135,2022-03-13,Bill Payment,917822.48,Debit,Medical,Reversed,Branch
+TXN001438,ACC00056,2023-05-19,Transfer,132499.56,Credit,Salary,Reversed,POS
+TXN001439,ACC00111,2024-09-29,ATM,1630262.24,Credit,Online Shopping,Successful,Mobile App
+TXN001440,ACC00160,2024-08-08,POS,1300065.02,Debit,Medical,Successful,USSD
+TXN001441,ACC00158,2022-07-25,USSD,738275.43,Debit,Utilities,Successful,ATM
+TXN001442,ACC00280,2023-09-17,POS,135128.87,Debit,Investment,Successful,USSD
+TXN001443,ACC00147,2023-02-07,USSD,437512.43,Credit,POS Purchase,Successful,POS
+TXN001444,ACC00068,2022-07-02,USSD,603417.73,Debit,School Fees,Successful,POS
+TXN001445,ACC00075,2023-10-23,Bill Payment,1197938.76,Debit,Loan Repayment,Failed,Internet Banking
+TXN001446,ACC00121,2023-05-19,POS,1966213.43,Credit,Investment,Successful,POS
+TXN001447,ACC00192,2022-04-22,ATM,204076.27,Credit,Loan Repayment,Successful,Branch
+TXN001448,ACC00162,2022-05-28,ATM,1072594.97,Debit,School Fees,Successful,USSD
+TXN001449,ACC00032,2023-07-08,Deposit,1981067.31,Credit,Investment,Successful,USSD
+TXN001450,ACC00116,2024-02-27,POS,1701004.83,Debit,Medical,Reversed,Mobile App
+TXN001451,ACC00103,2023-03-18,Withdrawal,343332.49,Debit,Loan Repayment,Successful,Internet Banking
+TXN001452,ACC00054,2022-08-12,Transfer,1918089.89,Debit,POS Purchase,Successful,Mobile App
+TXN001453,ACC00097,2023-09-21,Bill Payment,1199934.36,Debit,Utilities,Successful,ATM
+TXN001454,ACC00184,2023-10-21,Withdrawal,1962841.08,Debit,ATM Withdrawal,Successful,Internet Banking
+TXN001455,ACC00216,2022-04-19,Withdrawal,1392782.57,Credit,Medical,Successful,Internet Banking
+TXN001456,ACC00048,2024-07-23,Withdrawal,1355962.09,Debit,Salary,Successful,USSD
+TXN001457,ACC00098,2023-03-29,ATM,1944747.52,Debit,Business Income,Successful,Branch
+TXN001458,ACC00231,2024-01-03,ATM,1387594.63,Debit,Loan Repayment,Successful,Mobile App
+TXN001459,ACC00225,2022-09-23,USSD,664427.07,Credit,Rent,Reversed,USSD
+TXN001460,ACC00175,2022-04-16,Transfer,1270889.23,Credit,ATM Withdrawal,Successful,Internet Banking
+TXN001461,ACC00124,2022-02-05,USSD,1767992.08,Debit,Investment,Successful,ATM
+TXN001462,ACC00259,2022-03-16,Bill Payment,636274.97,Debit,Business Income,Successful,Internet Banking
+TXN001463,ACC00066,2022-03-14,Bill Payment,1703182.65,Debit,Online Shopping,Successful,POS
+TXN001464,ACC00192,2023-08-09,Transfer,964519.69,Credit,Online Shopping,Successful,USSD
+TXN001465,ACC00044,2024-01-16,USSD,670542.88,Credit,Utilities,Successful,POS
+TXN001466,ACC00204,2022-09-14,USSD,1217262.38,Debit,Medical,Successful,Mobile App
+TXN001467,ACC00025,2024-03-06,Deposit,1170281.31,Credit,School Fees,Successful,Mobile App
+TXN001468,ACC00208,2023-04-02,ATM,765051.61,Debit,Medical,Successful,ATM
+TXN001469,ACC00069,2022-01-20,Withdrawal,1281363.61,Credit,Business Income,Successful,Internet Banking
+TXN001470,ACC00174,2024-07-07,USSD,465234.74,Debit,School Fees,Successful,USSD
+TXN001471,ACC00042,2023-05-25,Bill Payment,1175143.36,Credit,Loan Repayment,Failed,Mobile App
+TXN001472,ACC00234,2022-06-02,Transfer,1976767.54,Debit,ATM Withdrawal,Successful,Branch
+TXN001473,ACC00081,2023-10-31,USSD,465595.51,Credit,School Fees,Failed,Mobile App
+TXN001474,ACC00097,2023-10-18,Transfer,1232889.17,Debit,Loan Repayment,Successful,Internet Banking
+TXN001475,ACC00226,2022-01-01,ATM,1793610.46,Debit,Online Shopping,Successful,USSD
+TXN001476,ACC00086,2024-08-13,Withdrawal,618042.83,Credit,School Fees,Successful,Branch
+TXN001477,ACC00132,2022-02-08,Transfer,1475957.61,Credit,Investment,Successful,Internet Banking
+TXN001478,ACC00093,2023-11-12,ATM,1514612.86,Credit,Salary,Successful,ATM
+TXN001479,ACC00208,2023-02-04,POS,1239722.57,Credit,Medical,Successful,Internet Banking
+TXN001480,ACC00060,2022-09-30,Withdrawal,120316.07,Debit,Airtime,Successful,Branch
+TXN001481,ACC00153,2022-06-05,Bill Payment,749360.0,Debit,Business Income,Successful,ATM
+TXN001482,ACC00211,2023-12-18,Withdrawal,593581.15,Credit,School Fees,Failed,Mobile App
+TXN001483,ACC00154,2022-12-04,Deposit,303765.34,Debit,School Fees,Successful,Internet Banking
+TXN001484,ACC00175,2024-07-15,Withdrawal,409168.47,Debit,Airtime,Successful,Internet Banking
+TXN001485,ACC00278,2023-02-05,Withdrawal,76294.48,Debit,POS Purchase,Successful,POS
+TXN001486,ACC00195,2023-08-12,Deposit,1846856.57,Debit,Transfer to family,Successful,Internet Banking
+TXN001487,ACC00188,2022-01-04,Withdrawal,1196351.34,Credit,Utilities,Failed,POS
+TXN001488,ACC00106,2023-06-12,USSD,1891780.06,Credit,Medical,Reversed,USSD
+TXN001489,ACC00254,2023-12-26,USSD,1478641.64,Credit,Transfer to family,Successful,Branch
+TXN001490,ACC00148,2024-08-20,Transfer,657715.36,Debit,Utilities,Successful,ATM
+TXN001491,ACC00072,2024-02-29,Bill Payment,556613.82,Debit,POS Purchase,Successful,USSD
+TXN001492,ACC00017,2023-05-18,Bill Payment,1287382.34,Credit,Utilities,Reversed,POS
+TXN001493,ACC00057,2023-05-05,POS,1521107.52,Debit,Investment,Successful,USSD
+TXN001494,ACC00196,2023-03-23,Bill Payment,1041985.28,Debit,Investment,Successful,USSD
+TXN001495,ACC00076,2023-02-18,Bill Payment,1955146.23,Debit,POS Purchase,Successful,Branch
+TXN001496,ACC00131,2024-05-14,ATM,1296268.83,Debit,Utilities,Successful,Internet Banking
+TXN001497,ACC00265,2024-01-16,Deposit,577265.98,Debit,Airtime,Failed,USSD
+TXN001498,ACC00019,2024-03-10,Withdrawal,47874.82,Debit,POS Purchase,Successful,USSD
+TXN001499,ACC00185,2024-04-11,Withdrawal,1693946.22,Credit,Loan Repayment,Successful,Branch
+TXN001500,ACC00186,2024-03-15,Transfer,662874.91,Debit,Online Shopping,Successful,ATM
